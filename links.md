@@ -17,6 +17,8 @@ is_contact: true
 
 * [School of Informatics, Xiamen University](https://information.xmu.edu.cn/)
 
+* [XMU Knowledge Resource Portal](https://library.xmu.edu.cn/)
+
 * [Tertiary Institutions in Hong Kong](https://www.4icu.org/hk/)
 
 ---
