@@ -42,6 +42,6 @@ Email: [zhangjia_gl@163.com](mailto:zhangjia_gl@163.com)
 
 * #### Professional Activities
 
-    * Journal Reviewer: [*Pattern Recognition*](https://www.journals.elsevier.com/pattern-recognition/), [*Information Sciences*](https://www.journals.elsevier.com/information-sciences), [*Knowledge-Based Systems*](https://www.journals.elsevier.com/knowledge-based-systems), [*IEEE Transactions on Neural Networks and Learning Systems*](https://mc.manuscriptcentral.com/tnnls)
+    * Journal Reviewer: [*Pattern Recognition*](https://www.journals.elsevier.com/pattern-recognition/), [*IEEE Transactions on Neural Networks and Learning Systems*](https://mc.manuscriptcentral.com/tnnls), [*Information Sciences*](https://www.journals.elsevier.com/information-sciences), [*Knowledge-Based Systems*](https://www.journals.elsevier.com/knowledge-based-systems)
 
 * #### [Web Links](links) (incl. academic, general, and intersting information)
