@@ -8,7 +8,7 @@ layout: default
 
 Supervisor: Professor [Shaozi Li](http://imt.xmu.edu.cn/szdw.html)
 
-Affiliation: Cognitive Science Department, [Xiamen University](https://www.xmu.edu.cn/), P.R. China
+Affiliation: Artificial Intelligence Department, [Xiamen University](https://www.xmu.edu.cn/), P.R. China
 
 Email: [zhangjia_gl@163.com](mailto:zhangjia_gl@163.com)
 
