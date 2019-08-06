@@ -13,7 +13,7 @@ is_contact: true
 
 >Scientific Research Building, #304
 >
->Cognitive Science Department
+>Artificial Intelligence Department
 >
 >Xiamen University in Xiamen, Fujian
 >
