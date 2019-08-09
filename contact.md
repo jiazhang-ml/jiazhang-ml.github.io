@@ -3,7 +3,7 @@ layout: default
 is_contact: true
 ---
 
-* Email: [j.zhang@stu.xmu.edu.cn](mailto:j.zhang@stu.xmu.edu.cn)
+* Email: [zhangjia_gl@163.com](mailto:zhangjia_gl@163.com) or [j.zhang@stu.xmu.edu.cn](mailto:j.zhang@stu.xmu.edu.cn)
 
 * Phone: [+86-15711580701](tel:+86-15711580701)
 
@@ -13,7 +13,7 @@ is_contact: true
 
 >Scientific Research Building, #304
 >
->Artificial Intelligence Department
+>Artificial Intelligence Department, School of Informatics,
 >
 >Xiamen University in Xiamen, Fujian
 >
