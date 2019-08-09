@@ -10,7 +10,7 @@ Supervisor: Professor [Shaozi Li](http://imt.xmu.edu.cn/szdw.html)
 
 Affiliation: Artificial Intelligence Department, [Xiamen University](https://www.xmu.edu.cn/), P.R. China
 
-Email: [j.zhang@stu.xmu.edu.cn](mailto:j.zhang@stu.xmu.edu.cn)
+Email: [zhangjia_gl@163.com](mailto:zhangjia_gl@163.com) or [j.zhang@stu.xmu.edu.cn](mailto:j.zhang@stu.xmu.edu.cn)
 
 ---
 
