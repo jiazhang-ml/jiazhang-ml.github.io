@@ -3,7 +3,7 @@ layout: default
 is_contact: true
 ---
 
-* Email: [zhangjia_gl@163.com](mailto:zhangjia_gl@163.com)
+* Email: [j.zhang@stu.xmu.edu.cn](mailto:j.zhang@stu.xmu.edu.cn)
 
 * Phone: [+86-15711580701](tel:+86-15711580701)
 
