@@ -21,18 +21,21 @@ Email: [zhangjia_gl@163.com](mailto:zhangjia_gl@163.com) or [j.zhang@stu.xmu.edu
     * May 2019, I have moved to [CityU](https://www.cityu.edu.hk/) for research study.
 
 * #### Research Interests
+    * Machine learning
 
-    * Multi-label learning: Label relationship exploitation and learning method, weakly supervised learning
+      * Classification: multi-label learning, weakly supervised learning
  
-    * Feature selection: Embedded method, mutual information-based method 
+      * Feature selection and sparse representation
 
-    * Deep learning: Multi-label classification, representation learning on graphs
+      * Deep learning: Multi-label classification, representation learning on graphs 
+      
+     * Data mining
 
-    * Data fusion: Truth discovery, multi-view learning, transfer learning
+      * Knowledge discovery from multiple data sources
 
-    * Recommendation systems
+      * Recommendation systems
 
-    * Artificial intelligence in medicine: TCM health management, drug repositioning, hospital readmission, ASD prediction
+     * AI in medicine: TCM health management, drug repositioning, hospital readmission, ASD prediction
 
 * #### Publications: at [Google Scholar](https://scholar.google.com.hk/citations?user=yBaTk-gAAAAJ&hl=en) (2016 - date)
 
