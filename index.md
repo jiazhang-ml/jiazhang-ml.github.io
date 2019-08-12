@@ -26,7 +26,7 @@ Email: [zhangjia_gl@163.com](mailto:zhangjia_gl@163.com) or [j.zhang@stu.xmu.edu
  
     * Feature selection: Embedded method, mutual information-based method 
 
-    * Deep learning: Multi-label classification, representation learning on graphs
+    * Deep learning: Multi-label classification, deep learning on graphs
 
     * Data fusion: Truth discovery, multi-view learning, transfer learning
 
