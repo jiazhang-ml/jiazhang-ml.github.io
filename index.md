@@ -23,17 +23,17 @@ Email: [zhangjia_gl@163.com](mailto:zhangjia_gl@163.com) or [j.zhang@stu.xmu.edu
 * #### Research Interests
     * Machine learning
 
-      * Classification: multi-label learning, weakly supervised learning
+         * Classification: multi-label learning, weakly supervised learning
  
-      * Feature selection and sparse representation
+         * Feature selection and sparse representation
 
-      * Deep learning: Multi-label classification, representation learning on graphs 
+         * Deep learning: Multi-label classification, representation learning on graphs 
       
      * Data mining
 
-      * Knowledge discovery from multiple data sources
+         * Knowledge discovery from multiple data sources
 
-      * Recommendation systems
+         * Recommendation systems
 
      * AI in medicine: TCM health management, drug repositioning, hospital readmission, ASD prediction
 
