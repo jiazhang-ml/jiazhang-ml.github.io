@@ -26,7 +26,7 @@ Email: [zhangjia_gl@163.com](mailto:zhangjia_gl@163.com) or [j.zhang@stu.xmu.edu
 
     * Feature selection and sparse representation
 
-    * Deep learning: Multi-label classification, representation learning on graphs 
+    * Deep learning: multi-label classification, representation learning on graphs 
     
     * Computational methods for optimization
 
