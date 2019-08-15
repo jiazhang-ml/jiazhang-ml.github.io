@@ -4,9 +4,9 @@ is_contact: true
 ---
 #### Leading Artificial Intelligence Journals
 
-* [IEEE Transactions on Pattern Analysis and Machine Intelligence](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=34) (TPAMI) 
+* [IEEE Transactions on Pattern Analysis and Machine Intelligence](https://dblp.uni-trier.de/db/journals/pami/) (TPAMI) 
 
-* [Journal of Machine Learning Research](http://www.jmlr.org/) (JMLR)
+* [Journal of Machine Learning Research](https://dblp.uni-trier.de/db/journals/jmlr/) (JMLR)
 
 #### Artificial Intelligence Conferences:
 
