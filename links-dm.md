@@ -22,4 +22,4 @@ is_contact: true
 
 * [Knowledge Discovery Nuggets Directory](https://www.kdnuggets.com/)
 
-* [Bioinformatics](https://dblp.uni-trier.de/db/journals/bioinformatics/), [IEEE/ACM Transactions on Computational Biology and Bioinformatics](https://dblp.uni-trier.de/db/journals/tcbb/)
+* Data mining application in bioinformatics: [Bioinformatics](https://dblp.uni-trier.de/db/journals/bioinformatics/), [IEEE/ACM Transactions on Computational Biology and Bioinformatics](https://dblp.uni-trier.de/db/journals/tcbb/)
