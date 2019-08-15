@@ -5,7 +5,7 @@ is_contact: true
 
 #### Academic Information:
 
-* [Artificial Intelligence links](links-ai)
+* [Machine Learning links](links-ml)
 
 * [Data Mining links](links-dm)
 
