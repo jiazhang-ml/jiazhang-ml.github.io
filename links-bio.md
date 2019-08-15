@@ -2,6 +2,6 @@
 layout: default
 is_contact: true
 ---
-* [Journal of Machine Learning Research](https://dblp.uni-trier.de/db/journals/jmlr/) (JMLR)
+* [Bioinformatics](https://dblp.uni-trier.de/db/journals/bioinformatics/)
 
-* [Machine Learning](https://dblp.uni-trier.de/db/journals/ml/) (ML)
+* [IEEE/ACM Transactions on Computational Biology and Bioinformatics](https://dblp.uni-trier.de/db/journals/tcbb/)
