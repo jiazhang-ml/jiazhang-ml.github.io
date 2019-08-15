@@ -20,4 +20,6 @@ is_contact: true
 
 #### Other Data Mining Resources
 
-* Bioinformatics: [Bioinformatics](https://dblp.uni-trier.de/db/journals/bioinformatics/), [IEEE/ACM Transactions on Computational Biology and Bioinformatics](https://dblp.uni-trier.de/db/journals/tcbb/)
+* [Knowledge Discovery Nuggets Directory](https://www.kdnuggets.com/)
+
+* Bioinformatics: [Bioinformatics](https://dblp.uni-trier.de/db/journals/bioinformatics/), [TCBB](https://dblp.uni-trier.de/db/journals/tcbb/)
