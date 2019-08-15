@@ -12,7 +12,7 @@ is_contact: true
 
 * [Pattern Recognition](https://dblp.uni-trier.de/db/journals/pr/) (PR)
 
-#### Machine Learning Conferences:
+#### Machine Learning Conferences
 
 * [International Conference on Machine Learning](https://icml.cc/) (ICML)
 
