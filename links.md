@@ -9,6 +9,8 @@ is_contact: true
 
 * [Data Mining links](links-dm)
 
+* [Bioinformatics links](links-bio)
+
 ---
 
 #### General Information:
