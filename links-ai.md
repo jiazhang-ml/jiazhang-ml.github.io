@@ -8,6 +8,8 @@ is_contact: true
 
 * [Journal of Machine Learning Research](https://dblp.uni-trier.de/db/journals/jmlr/) (JMLR)
 
+* [Pattern Recognition](https://dblp.uni-trier.de/db/journals/pr/) (PR)
+
 #### Artificial Intelligence Conferences:
 
 * [AAAI Conference on Artificial Intelligence](http://www.aaai.org/Conferences/AAAI/aaai.php) (AAAI)
