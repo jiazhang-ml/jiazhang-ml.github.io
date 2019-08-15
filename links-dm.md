@@ -10,6 +10,12 @@ is_contact: true
 
 * [Knowledge and Information Systems](https://dblp.uni-trier.de/db/journals/kais/) (KAIS)
 
+#### Data Mining Applications in Medicine
+
+* [Bioinformatics](https://dblp.uni-trier.de/db/journals/bioinformatics/)
+
+* [IEEE/ACM Transactions on Computational Biology and Bioinformatics](https://dblp.uni-trier.de/db/journals/tcbb/) (TCBB)
+
 #### Data Mining Conferences
 
 * [International Conference on Knowledge Discovery and Data Mining](https://www.kdd.org/) (KDD)
@@ -21,5 +27,3 @@ is_contact: true
 #### Other Data Mining Resources
 
 * [Knowledge Discovery Nuggets Directory](https://www.kdnuggets.com/)
-
-* Applications in Medicine: [Bioinformatics](https://dblp.uni-trier.de/db/journals/bioinformatics/), [IEEE/ACM Transactions on Computational Biology and Bioinformatics](https://dblp.uni-trier.de/db/journals/tcbb/)
