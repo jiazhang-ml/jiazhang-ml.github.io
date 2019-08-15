@@ -4,9 +4,11 @@ is_contact: true
 ---
 #### Leading Data Mining Journals
 
-* [IEEE Transactions on Knowledge and Data Engineering](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=69) (TKDE)
+* [IEEE Transactions on Knowledge and Data Engineering](https://dblp.uni-trier.de/db/journals/tkde/) (TKDE)
 
-* [ACM Transactions on Knowledge Discovery from Data](https://tkdd.acm.org/index.cfm) (TKDD)
+* [ACM Transactions on Knowledge Discovery from Data](https://dblp.uni-trier.de/db/journals/tkdd/) (TKDD)
+
+* [Knowledge and Information Systems](https://dblp.uni-trier.de/db/journals/kais/) (KAIS)
 
 #### Data Mining Conferences
 
