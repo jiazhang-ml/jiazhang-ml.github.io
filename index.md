@@ -40,7 +40,7 @@ Email: [zhangjia_gl@163.com](mailto:zhangjia_gl@163.com) or [j.zhang@stu.xmu.edu
 
 * #### Selected Publications & Codes
 
-   * J. Zhang, Z. Luo, C. Li, C. Zhou, S. Li. Manifold Regularized Discriminative Feature Selection for Multi-label Learning. Pattern Recognition, 2019, 95: 136-150. [[PDF](1-s2.0-S0031320319302341-main.pdf)] [[Code](https://github.com/jiazhang-ml/MDFS)]
+   * J. Zhang, Z. Luo, C. Li, C. Zhou, S. Li. Manifold Regularized Discriminative Feature Selection for Multi-label Learning. Pattern Recognition, 2019, 95: 136-150. [[PDF](1-s2.0-S0031320319302341-main.pdf)] [[Code](MDFS-master.zip)]
 
 * #### Academic Talk and Discussion
 
