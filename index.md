@@ -6,9 +6,11 @@ layout: default
 
 ## Jia Zhang 张佳
 
+I am working towards Ph.D. degree in the Artificial Intelligence Department of [Xiamen University](https://www.xmu.edu.cn/) 
+
 Supervisor: Professor [Shaozi Li](http://imt.xmu.edu.cn/szdw.html)
 
-Affiliation: Artificial Intelligence Department, [Xiamen University](https://www.xmu.edu.cn/), P.R. China
+Research Interests: Machine learning, data mining, artificial intelligence
 
 Email: [zhangjia_gl@163.com](mailto:zhangjia_gl@163.com) or [j.zhang@stu.xmu.edu.cn](mailto:j.zhang@stu.xmu.edu.cn)
 
