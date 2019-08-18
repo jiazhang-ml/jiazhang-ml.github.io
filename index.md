@@ -38,6 +38,10 @@ Email: [zhangjia_gl@163.com](mailto:zhangjia_gl@163.com) or [j.zhang@stu.xmu.edu
 
 * #### Publications: at [Google Scholar](https://scholar.google.com.hk/citations?user=yBaTk-gAAAAJ&hl=en) (2016 - date)
 
+* #### Selected Papers & Codes
+
+   * Jia Zhang, Zhiming Luo, Candong Li, Changen Zhou, Shaozi Li. [Manifold Regularized Discriminative Feature Selection for Multi-label Learning](https://www.sciencedirect.com/science/article/pii/S0031320319302341). Pattern Recognition, 2019, 95: 136-150. [[PDF](1-s2.0-S0031320319302341-main)] [[code](https://github.com/jiazhang-ml/MDFS)]
+
 * #### Academic Talk and Discussion
 
     * Entropy-based collaborative filtering algorithm, Aug. 2015, The 15-th Chinese Conference on Machine Learning, Chengdu, P.R. China
