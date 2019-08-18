@@ -16,7 +16,7 @@ Email: [zhangjia_gl@163.com](mailto:zhangjia_gl@163.com) or [j.zhang@stu.xmu.edu
 
 * #### What's Happening
 
-    * June 2019, our paper on [Manifold Regularized Discriminative Feature Selection for Multi-label Learning](https://www.sciencedirect.com/science/article/pii/S0031320319302341) has been accepted to PR.
+    * June 2019, our paper on [Manifold Regularized Discriminative Feature Selection for Multi-label Learning](https://www.sciencedirect.com/science/article/pii/S0031320319302341) has been accepted to *Pattern Recognition*.
 
     * May 2019, I have moved to [CityU](https://www.cityu.edu.hk/) for research study.
 
@@ -40,7 +40,7 @@ Email: [zhangjia_gl@163.com](mailto:zhangjia_gl@163.com) or [j.zhang@stu.xmu.edu
 
 * #### Selected Papers & Codes
 
-   * J. Zhang, Z. Luo, C. Li, C. Zhou, S. Li. Manifold regularized discriminative feature selection for multi-label learning. *Pattern Recognit.*, 2019, 95: 136-150. [[PDF](1-s2.0-S0031320319302341-main.pdf)] [[Code](MDFS-master.zip)]
+   * J. Zhang, Z. Luo, C. Li, C. Zhou, S. Li. Manifold regularized discriminative feature selection for multi-label learning. *Pattern Recognition*, 2019, 95: 136-150. [[PDF](1-s2.0-S0031320319302341-main.pdf)] [[Code](MDFS-master.zip)]
 
 * #### Academic Talk and Discussion
 
