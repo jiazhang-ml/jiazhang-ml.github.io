@@ -6,9 +6,7 @@ layout: default
 
 ## Jia Zhang 张佳
 
-I am working towards Ph.D. degree in the Artificial Intelligence Department of [Xiamen University](https://www.xmu.edu.cn/) 
-
-Supervisor: Professor [Shaozi Li](http://imt.xmu.edu.cn/szdw.html)
+I am working towards Ph.D. degree in the Artificial Intelligence Department of [Xiamen University](https://www.xmu.edu.cn/), supervised by Prof. [Shaozi Li](http://imt.xmu.edu.cn/szdw.html)
 
 Research Interests: Machine learning, data mining, artificial intelligence
 
