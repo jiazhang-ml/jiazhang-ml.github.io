@@ -16,7 +16,7 @@ Email: [zhangjia_gl@163.com](mailto:zhangjia_gl@163.com) or [j.zhang@stu.xmu.edu
 
 * #### What's Happening
 
-    * June 2019, our paper on [Manifold Regularized Discriminative Feature Selection for Multi-label Learning](https://www.sciencedirect.com/science/article/pii/S0031320319302341) has been accepted to PR, and the code has been posted on [GitHub](https://github.com/jiazhang-ml/MDFS).
+    * June 2019, our paper on [Manifold Regularized Discriminative Feature Selection for Multi-label Learning](https://www.sciencedirect.com/science/article/pii/S0031320319302341) has been accepted to PR.
 
     * May 2019, I have moved to [CityU](https://www.cityu.edu.hk/) for research study.
 
