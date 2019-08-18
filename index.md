@@ -8,7 +8,7 @@ layout: default
 
 I am currently working towards Ph.D. degree in the Artificial Intelligence Department of [Xiamen University](https://www.xmu.edu.cn/) under the supervision of Prof. [Shaozi Li](http://imt.xmu.edu.cn/szdw.html).
 
-Research Interests: Machine Learning, Data Mining, Artificial Intelligence
+Research Interests: machine learning, data mining, artificial intelligence
 
 Email: [zhangjia_gl@163.com](mailto:zhangjia_gl@163.com) or [j.zhang@stu.xmu.edu.cn](mailto:j.zhang@stu.xmu.edu.cn)
 
