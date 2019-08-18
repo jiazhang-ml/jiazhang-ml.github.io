@@ -20,7 +20,7 @@ Email: [zhangjia_gl@163.com](mailto:zhangjia_gl@163.com) or [j.zhang@stu.xmu.edu
 
     * May 2019, I have moved to [CityU](https://www.cityu.edu.hk/) for research study.
 
-* #### Research Interests
+* #### Research Topics
 
     * Classification: multi-label learning, weakly supervised learning, class-imbalance learning
 
