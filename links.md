@@ -9,8 +9,6 @@ is_contact: true
 
 * [Data Mining links](links-dm)
 
-* [Leading Chinese Journals](links-cj)
-
 ---
 
 #### General Information:
