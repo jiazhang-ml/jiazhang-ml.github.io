@@ -6,7 +6,7 @@ layout: default
 
 ## Jia Zhang 张佳
 
-I am currently working towards Ph.D. degree in the Artificial Intelligence Department of [Xiamen University](https://www.xmu.edu.cn/), supervised by Professor [Shaozi Li](http://imt.xmu.edu.cn/szdw.html).
+I am currently working towards Ph.D. degree in the Artificial Intelligence Department of [Xiamen University](https://www.xmu.edu.cn/), supervised by Professor [Shaozi Li](http://imt.xmu.edu.cn/szdw.html). [[Curriculum Vitae](resume.pdf)]
 
 Email: [zhangjia_gl@163.com](mailto:zhangjia_gl@163.com) or [j.zhang@stu.xmu.edu.cn](mailto:j.zhang@stu.xmu.edu.cn)
 
