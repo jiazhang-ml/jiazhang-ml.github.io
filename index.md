@@ -4,7 +4,7 @@ layout: default
 
 <img class="profile-picture" src="jiazhang.jpg">
 
-I am currently working towards Ph.D. degree (Since 2016) in the Artificial Intelligence Department of [Xiamen University](https://www.xmu.edu.cn/), supervised by Prof. [Shaozi Li](http://imt.xmu.edu.cn/szdw.html). [[Curriculum Vitae](resume.pdf)]
+I am currently working towards Ph.D. degree (Since 2016) in the Artificial Intelligence Department of [Xiamen University](https://www.xmu.edu.cn/), supervised by Prof. [Shaozi Li](http://imt.xmu.edu.cn/szdw.html). [[CV](resume.pdf)]
 
 Email: [zhangjia_gl@163.com](mailto:zhangjia_gl@163.com) or [j.zhang@stu.xmu.edu.cn](mailto:j.zhang@stu.xmu.edu.cn)
 
