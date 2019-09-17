@@ -40,7 +40,7 @@ Mailing Address: Scientific Research Building #304, Haiyun Park, Xiamen Universi
 
 * #### Academic Talk and Discussion
 
-    * Entropy-based collaborative filtering algorithm, Aug. 2015, The 15-th Chinese Conference on Machine Learning, Chengdu, P.R. China
+    * Entropy-based collaborative filtering algorithm, Aug. 2015, The 15-th Chinese Conference on Machine Learning (CCML), Chengdu, P.R. China
 
 * #### Professional Activities
 
