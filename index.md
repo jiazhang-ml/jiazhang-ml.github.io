@@ -30,7 +30,7 @@ Mailing Address: Scientific Research Building #304, Haiyun Park, Xiamen Universi
     
     * Data mining applications in medicine: TCM health management, drug repositioning, hospital readmission, ASD prediction
 
-    * Others: Multi-source fusion, Recommendation systems
+    * Others: Information fusion, Recommendation systems
 
 * #### Publications: at [Google Scholar](https://scholar.google.com.hk/citations?user=yBaTk-gAAAAJ&hl=en) (2016 - date)
 
