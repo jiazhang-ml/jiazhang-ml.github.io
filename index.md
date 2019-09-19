@@ -4,7 +4,7 @@ layout: default
 
 <img class="profile-picture" src="jiazhang.jpg">
 
-## Jia Zhang (张佳)
+## Jia Zhang
 
 I am currently working towards Ph.D. degree (Since 2016) in the Artificial Intelligence Department of [Xiamen University](https://www.xmu.edu.cn/), supervised by Prof. [Shaozi Li](http://imt.xmu.edu.cn/szdw.html). [[CV](resume.pdf)]
 
