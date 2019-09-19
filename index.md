@@ -38,7 +38,7 @@ Mailing Address: Scientific Research Building #304, Haiyun Park, Xiamen Universi
 
    * J. Zhang, Z. Luo, C. Li, C. Zhou, S. Li. Manifold regularized discriminative feature selection for multi-label learning. *Pattern Recognition*, 2019, 95: 136-150. [[pdf](1-s2.0-S0031320319302341-main.pdf)] [[code](MDFS-master.zip)]
 
- 	* Jia Zhang, Candong Li, Zhenqiang Sun, Zhiming Luo, Changen Zhou, Shaozi Li. Towards a unified multi-source-based optimization framework for multi-label learning. Applied Soft Computing, 2019, 76: 425-435.
+   * Jia Zhang, Candong Li, Zhenqiang Sun, Zhiming Luo, Changen Zhou, Shaozi Li. Towards a unified multi-source-based optimization framework for multi-label learning. Applied Soft Computing, 2019, 76: 425-435.
    
  	* Jia Zhang, Candong Li, Donglin Cao, Yaojin Lin, Songzhi Su, Liang Dai, Shaozi Li. Multi-label learning with label-specific features by resolving label correlations. Knowledge-Based Systems, 2018, 159: 148-157.
    
