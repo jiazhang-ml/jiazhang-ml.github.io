@@ -28,9 +28,12 @@ Email: [zhangjia_gl@163.com](mailto:zhangjia_gl@163.com) or [j.zhang@stu.xmu.edu
     
     * Computational methods for optimization
     
+    * Knowledge discovery from multiple data sources
+
+    * Recommendation systems
+
     * Data mining applications in medicine: TCM health management, drug repositioning, hospital readmission, ASD prediction
 
-    * Others: information fusion, recommendation systems
 
 * #### Publications: at [Google Scholar](https://scholar.google.com.hk/citations?user=yBaTk-gAAAAJ&hl=en) (2016 - date)
 
