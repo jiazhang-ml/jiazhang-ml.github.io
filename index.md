@@ -12,7 +12,7 @@ layout: default
 
 **Haiyun Park, [Xiamen University](https://www.xmu.edu.cn/), Xiamen, 361005**
 
-**Fujian Provience, P.R. China**
+**Fujian, P.R. China**
 
 ---
 
