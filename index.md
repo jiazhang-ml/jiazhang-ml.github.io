@@ -8,11 +8,9 @@ layout: default
 
 **Advisor: Prof. [Shaozi Li](http://imt.xmu.edu.cn/szdw.html)**
 
-**Artificial Intelligence Department, [Xiamen University](https://www.xmu.edu.cn/)**
+**Institution: Artificial Intelligence Department, [Xiamen University](https://www.xmu.edu.cn/), Xiamen, Fujian, P.R. China, 361005**
 
 **Email: zhangjia_gl@163.com or j.zhang@stu.xmu.edu.cn**
-
-**Mailing Address: Scientific Research Building #304, Haiyun Park, Xiamen University in Xiamen, Fujian, P.R. China, 361005
 
 ---
 
