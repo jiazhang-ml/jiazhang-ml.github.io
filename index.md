@@ -6,11 +6,11 @@ layout: default
 
 **Jia Zhang (张佳), Ph. D. Candidate**
 
-**Advisor: Prof. [Shaozi Li]**
+**Advisor: Prof. [Shaozi Li](http://imt.xmu.edu.cn/szdw.html)**
 
 **Artificial Intelligence Department**
 
-**Haiyun Park, [Xiamen University](https://www.xmu.edu.cn/)(http://imt.xmu.edu.cn/szdw.html), Xiamen, 361005**
+**Haiyun Park, [Xiamen University](https://www.xmu.edu.cn/), Xiamen, 361005**
 
 **Fujian Provience, P.R. China**
 
