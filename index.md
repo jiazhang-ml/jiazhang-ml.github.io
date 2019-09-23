@@ -26,6 +26,10 @@ layout: default
 
 * #### Publications: at [Google Scholar](https://scholar.google.com.hk/citations?user=yBaTk-gAAAAJ&hl=en) (2016 - date)
 
+* #### Resources
+
+   * J. Zhang, Z. Luo, C. Li, C. Zhou, S. Li. Manifold regularized discriminative feature selection for multi-label learning. *Pattern Recognition*, 2019, 95: 136-150. [[pdf](1-s2.0-S0031320319302341-main.pdf)] [[code](MDFS-master.zip)]
+   
 * #### Academic Talk and Discussion
 
     * Entropy-based collaborative filtering algorithm, Aug. 2015, The 15-th Chinese Conference on Machine Learning (CCML), Chengdu, P.R. China
@@ -35,7 +39,3 @@ layout: default
     * Journal Reviewer: [*Pattern Recognition*](https://www.journals.elsevier.com/pattern-recognition/), [*IEEE Transactions on Neural Networks and Learning Systems*](https://mc.manuscriptcentral.com/tnnls), [*Information Sciences*](https://www.journals.elsevier.com/information-sciences), [*Knowledge-Based Systems*](https://www.journals.elsevier.com/knowledge-based-systems)
 
 * #### [Web Links](links) (incl. academic, general, and intersting information)
-
-* #### Resources
-
-   * J. Zhang, Z. Luo, C. Li, C. Zhou, S. Li. Manifold regularized discriminative feature selection for multi-label learning. *Pattern Recognition*, 2019, 95: 136-150. [[pdf](1-s2.0-S0031320319302341-main.pdf)] [[code](MDFS-master.zip)]
