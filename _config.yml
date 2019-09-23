@@ -14,7 +14,7 @@ sass:
     sass_dir: _sass
 
 nav:
- - name: "Resume"
+ - name: "Curriculum Vitae"
    link: "resume.pdf"
  #- name: "Contact"
  #  link: "contact"
