@@ -16,7 +16,7 @@ layout: default
 
 #### What's Happening
 
-* June 2019, our paper on [Manifold Regularized Discriminative Feature Selection for Multi-label Learning](https://www.sciencedirect.com/science/article/pii/S0031320319302341) has been accepted to PR.
+* June 2019, our paper on [Manifold Regularized Discriminative Feature Selection for Multi-label Learning](https://www.sciencedirect.com/science/article/pii/S0031320319302341) has been accepted to *Pattern Recognition*.
 * May 2019, I have moved to [CityU](https://www.cityu.edu.hk/) for research study.
 
 #### Research Interests: Machine Learning, Data Mining, Artificial Intelligence
