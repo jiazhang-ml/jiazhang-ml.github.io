@@ -8,7 +8,7 @@ layout: default
 
 **Advisor: Prof. [Shaozi Li](http://imt.xmu.edu.cn/szdw.html)**
 
-**Institution: Artificial Intelligence Department, [Xiamen University](https://www.xmu.edu.cn/), Xiamen, Fujian, P.R. China, 361005**
+**Institution: Artificial Intelligence Department, [Xiamen University](https://www.xmu.edu.cn/), Xiamen, P.R. China, 361005**
 
 **Email: [zhangjia_gl@163.com](mailto:zhangjia_gl@163.com) or [j.zhang@stu.xmu.edu.cn](mailto:j.zhang@stu.xmu.edu.cn)**
 
@@ -16,7 +16,7 @@ layout: default
 
 #### What's Happening
 
-* June 2019, our paper on [Manifold Regularized Discriminative Feature Selection for Multi-label Learning](https://www.sciencedirect.com/science/article/pii/S0031320319302341) has been accepted to *Pattern Recognition*.
+* June 2019, our paper on [Manifold Regularized Discriminative Feature Selection for Multi-label Learning](https://www.sciencedirect.com/science/article/pii/S0031320319302341) has been accepted to *PR*.
 * May 2019, I have moved to [CityU](https://www.cityu.edu.hk/) for research study.
 
 #### Research Interests: Machine Learning, Data Mining, Artificial Intelligence
