@@ -29,7 +29,7 @@ layout: default
 
 * #### Academic Talk and Discussion
 
-    * A brief introduction to discriminative feature analysis for multi-label data understanding, Sep. 2019, Minnan Normal University, Zhangzhou, P.R. China. [[pdf](mnnu.pdf)]
+    * A brief introduction to discriminative feature analysis for multi-label data understanding, Sep. 2019, Minnan Normal University, Zhangzhou, P.R. China.
     * Entropy-based collaborative filtering algorithm, Aug. 2015, The 15-th Chinese Conference on Machine Learning (CCML), Chengdu, P.R. China.
 
 * #### Professional Activities
