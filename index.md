@@ -4,13 +4,13 @@ layout: default
 
 <img class="profile-picture" src="jiazhang.jpg">
 
-Jia Zhang (张佳), Ph. D. Candidate
+**Jia Zhang (张佳), Ph. D. Candidate**
 
-Advisor: Prof. [Shaozi Li](http://imt.xmu.edu.cn/szdw.html)
+**Advisor: Prof. [Shaozi Li](http://imt.xmu.edu.cn/szdw.html)**
 
-Institution: Artificial Intelligence Department, [Xiamen University](https://www.xmu.edu.cn/), Xiamen, Fujian, P.R. China, 361005
+**Institution: Artificial Intelligence Department, [Xiamen University](https://www.xmu.edu.cn/), Xiamen, Fujian, P.R. China, 361005**
 
-Email: [zhangjia_gl@163.com](mailto:zhangjia_gl@163.com) or [j.zhang@stu.xmu.edu.cn](mailto:j.zhang@stu.xmu.edu.cn)
+**Email: [zhangjia_gl@163.com](mailto:zhangjia_gl@163.com) or [j.zhang@stu.xmu.edu.cn](mailto:j.zhang@stu.xmu.edu.cn)**
 
 ---
 
@@ -29,8 +29,8 @@ Email: [zhangjia_gl@163.com](mailto:zhangjia_gl@163.com) or [j.zhang@stu.xmu.edu
 
 #### Academic Talk and Discussion
 
-* A brief introduction to discriminative feature analysis for multi-label data understanding, Sep. 2019, Minnan Normal University, Zhangzhou, P.R. China.
-* Entropy-based collaborative filtering algorithm, Aug. 2015, The 15-th Chinese Conference on Machine Learning (CCML), Chengdu, P.R. China.
+* A Brief Introduction to Discriminative Feature Analysis for Multi-label Data Understanding, Sep. 2019, Minnan Normal University, Zhangzhou, P.R. China.
+* Entropy-based Collaborative Filtering Algorithm, Aug. 2015, The 15-th Chinese Conference on Machine Learning (CCML), Chengdu, P.R. China.
 
 #### Professional Activities
 
