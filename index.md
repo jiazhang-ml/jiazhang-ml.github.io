@@ -4,8 +4,9 @@ layout: default
 
 <img class="profile-picture" src="jiazhang.jpg">
 
-**##Jia Zhang (张佳), Ph. D. Candidate**
+##**Jia Zhang (张佳), Ph. D. Candidate**
 
+&nbsp
 
 **Superviser**: Prof. [Shaozi Li](http://imt.xmu.edu.cn/szdw.html)
 
