@@ -6,7 +6,7 @@ layout: default
 
 ##**Jia Zhang (张佳), Ph. D. Candidate**
 
-&nbsp
+&nbsp;
 
 **Superviser**: Prof. [Shaozi Li](http://imt.xmu.edu.cn/szdw.html)
 
