@@ -4,13 +4,14 @@ layout: default
 
 <img class="profile-picture" src="jiazhang.jpg">
 
-**Jia Zhang (张佳), Ph. D. Candidate**
+**##Jia Zhang (张佳), Ph. D. Candidate**
 
-**Advisor: Prof. [Shaozi Li](http://imt.xmu.edu.cn/szdw.html)**
 
-**Institution: Artificial Intelligence Department, [Xiamen University](https://www.xmu.edu.cn/), Xiamen, P.R. China, 361005**
+**Superviser**: Prof. [Shaozi Li](http://imt.xmu.edu.cn/szdw.html)
 
-**Email: [zhangjia_gl@163.com](mailto:zhangjia_gl@163.com) or [j.zhang@stu.xmu.edu.cn](mailto:j.zhang@stu.xmu.edu.cn)**
+**Institution**: Artificial Intelligence Department, [Xiamen University](https://www.xmu.edu.cn/), Xiamen, P.R. China, 361005
+
+**Email**: [zhangjia_gl@163.com](mailto:zhangjia_gl@163.com) or [j.zhang@stu.xmu.edu.cn](mailto:j.zhang@stu.xmu.edu.cn)
 
 ---
 
