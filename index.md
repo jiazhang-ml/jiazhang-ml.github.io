@@ -6,8 +6,6 @@ layout: default
 
 ### **Jia Zhang (张佳), Ph. D. Candidate**
 
-&nbsp;
-
 **Superviser**: Prof. [Shaozi Li](http://imt.xmu.edu.cn/szdw.html)
 
 **Institution**: Artificial Intelligence Department, [Xiamen University](https://www.xmu.edu.cn/), Xiamen, P.R. China, 361005
