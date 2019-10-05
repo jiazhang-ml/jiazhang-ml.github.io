@@ -10,7 +10,7 @@ I am currently working towards the Ph.D. degree in the Artificial Intelligence D
 
 * Email: [zhangjia_gl@163.com](mailto:zhangjia_gl@163.com) or [j.zhang@stu.xmu.edu.cn](mailto:j.zhang@stu.xmu.edu.cn)
 
-* Mailing Address: #304, Scientific Research Building, Haiyun Campus, Xiamen, Fujian, P.R. China, 361005
+* Mailing Address: #304, Scientific Research Building, Haiyun Campus, Xiamen, P.R. China, 361005
 
 ---
 
