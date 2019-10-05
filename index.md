@@ -21,11 +21,16 @@ I am currently working towards the Ph.D. degree in the Artificial Intelligence D
 
 #### Research Interests: Machine Learning, Data Mining, Artificial Intelligence
 
-#### Publications: at [Google Scholar](https://scholar.google.com.hk/citations?user=yBaTk-gAAAAJ&hl=en) (2016 - date)
+#### 
 
-#### Source Code
+#### Selected Publications: Full list in [Google Scholar](https://scholar.google.com.hk/citations?user=yBaTk-gAAAAJ&hl=en)
 
 * J. Zhang, Z. Luo, C. Li, C. Zhou, S. Li. Manifold regularized discriminative feature selection for multi-label learning. *Pattern Recognition*, 2019, 95: 136-150. [[pdf](1-s2.0-S0031320319302341-main.pdf)] [[code](MDFS-master.zip)]
+* Jia Zhang, Candong Li, Zhenqiang Sun, Zhiming Luo, Changen Zhou, Shaozi Li. Towards a unified multi-source-based optimization framework for multi-label learning. *Applied Soft Computing*, 2019, 76: 425-435.
+* Jia Zhang, Candong Li, Donglin Cao, Yaojin Lin, Songzhi Su, Liang Dai, Shaozi Li. Multi-label learning with label-specific features by resolving label correlations. *Knowledge-Based Systems*, 2018, 159: 148-157.
+* Jia Zhang, Candong Li, Yaojin Lin, Youwei Shao, Shaozi Li. Computational drug repositioning using collaborative filtering via multi-source fusion. *Expert Systems with Applications*, 2017, 84: 281-289.
+* Jia Zhang, Yaojin Lin, Menglei Lin, Jinghua Liu. An effective collaborative filtering algorithm based on user preference clustering. *Applied Intelligence*, 2016, 45 (2): 230-240.
+
 
 #### Academic Talk and Discussion
 
