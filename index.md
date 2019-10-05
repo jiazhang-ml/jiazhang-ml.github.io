@@ -8,6 +8,7 @@ layout: default
 
 Ph.D. Candidate  
 Artificial Intelligence Department, School of Informatics
+
 [Xiamen University (XMU)](https://www.xmu.edu.cn/)
 
 &nbsp;
