@@ -4,13 +4,23 @@ layout: default
 
 <img class="profile-picture" src="jiazhang.jpg">
 
-**Jia Zhang (张佳), Ph. D. Candidate**
+## **Jia Zhang (张佳)**
 
-**Advisor**: Prof. [Shaozi Li](http://imt.xmu.edu.cn/szdw.html)
+Ph.D. Candidate  
+Artificial Intelligence Department, School of Informatics
+[Xiamen University (XMU)](https://www.xmu.edu.cn/)
 
-**Institution**: Artificial Intelligence Department, [Xiamen University](https://www.xmu.edu.cn/), Xiamen, P.R. China, 361005
+&nbsp;
+
+**Office**: #304, Scientific Research Building, Haiyun Campus, Xiamen, P.R. China, 361005
 
 **Email**: [zhangjia_gl@163.com](mailto:zhangjia_gl@163.com) or [j.zhang@stu.xmu.edu.cn](mailto:j.zhang@stu.xmu.edu.cn)
+
+&nbsp;
+
+#### Short Biography
+
+I am currently working towards the Ph.D. degree at Xiamen University, supervised by Prof. [Shaozi Li](http://imt.xmu.edu.cn/szdw.html).
 
 ---
 
