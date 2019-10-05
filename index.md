@@ -35,5 +35,3 @@ I am currently working towards the Ph.D. degree in the Artificial Intelligence D
 #### Professional Activities
 
 * Journal Reviewer: [*Pattern Recognition*](https://www.journals.elsevier.com/pattern-recognition/), [*IEEE Transactions on Neural Networks and Learning Systems*](https://mc.manuscriptcentral.com/tnnls), [*Information Sciences*](https://www.journals.elsevier.com/information-sciences), [*Knowledge-Based Systems*](https://www.journals.elsevier.com/knowledge-based-systems)
-
-#### [Web Links](links) (incl. academic, general, and intersting information)
