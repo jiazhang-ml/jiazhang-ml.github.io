@@ -6,11 +6,11 @@ layout: default
 
 #### Short Biography
 
-* I am currently working towards the Ph.D. degree in the Artificial Intelligence Department of [Xiamen University (XMU)](https://www.xmu.edu.cn/), supervised by Prof. [Shaozi Li](http://imt.xmu.edu.cn/szdw.html).
-
-* Mailing Address: #304, Scientific Research Building, Haiyun Campus, Xiamen, P.R. China, 361005
+I am currently working towards the Ph.D. degree in the Artificial Intelligence Department of [Xiamen University (XMU)](https://www.xmu.edu.cn/), supervised by Prof. [Shaozi Li](http://imt.xmu.edu.cn/szdw.html).
 
 * Email: [zhangjia_gl@163.com](mailto:zhangjia_gl@163.com) or [j.zhang@stu.xmu.edu.cn](mailto:j.zhang@stu.xmu.edu.cn)
+
+* Mailing Address: #304, Scientific Research Building, Haiyun Campus, Xiamen, P.R. China, 361005
 
 ---
 
