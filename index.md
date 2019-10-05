@@ -23,7 +23,7 @@ I am currently working towards the Ph.D. degree in the Artificial Intelligence D
 
 #### Selected Publications (Full List in [Google Scholar](https://scholar.google.com.hk/citations?user=yBaTk-gAAAAJ&hl=en))
 
-* **J. Zhang**, Z. Luo, C. Li, C. Zhou, S. Li*. Manifold regularized discriminative feature selection for multi-label learning. *Pattern Recognition*, 2019, 95: 136-150. [[pdf](1-s2.0-S0031320319302341-main.pdf)] [[code](MDFS-master.zip)]
+* **J. Zhang**, Z. Luo, C. Li, C. Zhou, S. Li<sup>*</sup>. Manifold regularized discriminative feature selection for multi-label learning. *Pattern Recognition*, 2019, 95: 136-150. [[pdf](1-s2.0-S0031320319302341-main.pdf)] [[code](MDFS-master.zip)]
 * **J. Zhang**, C. Li, Z. Sun, Z. Luo, C. Zhou, S. Li*. Towards a unified multi-source-based optimization framework for multi-label learning. *Applied Soft Computing*, 2019, 76: 425-435.
 * **J. Zhang**, C. Li, D. Cao, Y. Lin, S. Su, L. Dai, S. Li*. Multi-label learning with label-specific features by resolving label correlations. *Knowledge-Based Systems*, 2018, 159: 148-157.
 * **J. Zhang**, C. Li, Y. Lin, Y. Shao, S. Li*. Computational drug repositioning using collaborative filtering via multi-source fusion. *Expert Systems with Applications*, 2017, 84: 281-289.
