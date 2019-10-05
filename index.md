@@ -7,17 +7,12 @@ layout: default
 ## **Jia Zhang (张佳)**
 
 Ph.D. Candidate  
-Artificial Intelligence Department, School of Informatics
 
-[Xiamen University (XMU)](https://www.xmu.edu.cn/)
-
-&nbsp;
+Artificial Intelligence Department, School of Informatics, [Xiamen University (XMU)](https://www.xmu.edu.cn/)
 
 **Office**: #304, Scientific Research Building, Haiyun Campus, Xiamen, P.R. China, 361005
 
 **Email**: [zhangjia_gl@163.com](mailto:zhangjia_gl@163.com) or [j.zhang@stu.xmu.edu.cn](mailto:j.zhang@stu.xmu.edu.cn)
-
-&nbsp;
 
 #### Short Biography
 
