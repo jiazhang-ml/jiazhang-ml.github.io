@@ -28,7 +28,6 @@ I am currently working towards the Ph.D. degree in the Artificial Intelligence D
 * **J. Zhang**, C. Li, D. Cao, Y. Lin, S. Su, L. Dai, S. Li\*. Multi-label learning with label-specific features by resolving label correlations. Knowledge-Based Systems, 2018, 159: 148-157.
 * **J. Zhang**, C. Li, Y. Lin, Y. Shao, S. Li\*. Computational drug repositioning using collaborative filtering via multi-source fusion. Expert Systems with Applications, 2017, 84: 281-289.
 * **J. Zhang**, Y. Lin\*, M. Lin, J. Liu. An effective collaborative filtering algorithm based on user preference clustering. Applied Intelligence, 2016, 45 (2): 230-240.
-
 &nbsp;
 
 * Y. Lin, J. Li, A. Tan, **J. Zhang**. Granular matrix-based knowledge reductions of formal fuzzy contexts. International Journal of Machine Learning and Cybernetics, in press. 
