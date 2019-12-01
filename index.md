@@ -6,7 +6,7 @@ layout: default
 
 #### Short Biography
 
-I am currently working towards the Ph.D. degree in the Artificial Intelligence Department of [Xiamen University (XMU)](https://www.xmu.edu.cn/), supervised by Prof. [Shaozi Li](http://imt.xmu.edu.cn/szdw.html).
+I am currently working towards the Ph.D. degree in the Artificial Intelligence Department of [Xiamen University (XMU)](https://www.xmu.edu.cn/), under the supervision of Prof. [Shaozi Li](http://imt.xmu.edu.cn/szdw.html).
 
 Email: [zhangjia_gl@163.com](mailto:zhangjia_gl@163.com) or [j.zhang@stu.xmu.edu.cn](mailto:j.zhang@stu.xmu.edu.cn)
 
@@ -14,7 +14,7 @@ Mailing Address: #304, Scientific Research Building, Haiyun Campus, Xiamen, P.R.
 
 ---
 
-#### What's Happening
+#### \color{#fbbc05}{What's Happening}
 
 * Jun. 2019, our paper on [Manifold Regularized Discriminative Feature Selection for Multi-label Learning](https://www.sciencedirect.com/science/article/pii/S0031320319302341) has been accepted to Pattern Recognition.
 * May 2019, I have moved to [CityU](https://www.cityu.edu.hk/) for research study.
