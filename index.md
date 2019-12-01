@@ -21,7 +21,7 @@ Mailing Address: #304, Scientific Research Building, Haiyun Campus, Xiamen, P.R.
 
 #### Research Interests
 
-I am broadly interested in machine learning, data mining, and artificial intelligence. In particular, I am interested in classification (multi-label learning, weakly supervised learning, and class-imbalance learning), feature selection and sparse learning, deep learning, data fusion, and recommendation systems. I am also interested in various data mining applications in medicine, such as TCM health management, drug discovery, hospital readmission, and autism spectrum disorder.
+I am broadly interested in machine learning, data mining, and artificial intelligence. In particular, I am interested in classification (multi-label learning, weakly supervised learning, class-imbalance learning), feature selection and sparse learning, deep learning, data fusion, and recommendation systems. I am also interested in various data mining applications in medicine, such as TCM health management, drug discovery, hospital readmission, and autism spectrum disorder.
 
 #### Selected Publications
 
