@@ -23,7 +23,7 @@ Mailing Address: #304, Scientific Research Building, Haiyun Campus, Xiamen, P.R.
 
 I am broadly interested in machine learning, data mining, and artificial intelligence. In particular, I am interested in classification (multi-label learning, weakly supervised learning, class-imbalance learning), feature selection and sparse learning, deep learning, data fusion, and recommendation systems. I am also interested in various data mining applications in medicine, such as TCM health management, drug discovery, hospital readmission, and autism spectrum disorder.
 
-<p style='color:red'>**Selected Publications**</p>
+**<p style='color:red'>Selected Publications</p>**
 
 * ***Jia Zhang***, Zhiming Luo, Candong Li, Changen Zhou, Shaozi Li\*. Manifold regularized discriminative feature selection for multi-label learning. Pattern Recognition, 2019, 95: 136-150. [[pdf](1-s2.0-S0031320319302341-main.pdf)] [[code](MDFS-master.zip)]
 * ***Jia Zhang***, Candong Li, Zhenqiang Sun, Zhiming Luo, Changen Zhou, Shaozi Li\*. Towards a unified multi-source-based optimization framework for multi-label learning. Applied Soft Computing, 2019, 76: 425-435.
