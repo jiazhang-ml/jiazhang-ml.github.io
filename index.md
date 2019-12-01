@@ -30,6 +30,7 @@ I am broadly interested in machine learning, data mining, and artificial intelli
 * ***Jia Zhang***, Candong Li, Donglin Cao, Yaojin Lin, Songzhi Su, Liang Dai, Shaozi Li\*. Multi-label learning with label-specific features by resolving label correlations. Knowledge-Based Systems, 2018, 159: 148-157.
 * ***Jia Zhang***, Candong Li, Yaojin Lin, Youwei Shao, Shaozi Li\*. Computational drug repositioning using collaborative filtering via multi-source fusion. Expert Systems with Applications, 2017, 84: 281-289.
 * ***Jia Zhang***, Yaojin Lin\*, Menglei Lin, Jinghua Liu. An effective collaborative filtering algorithm based on user preference clustering. Applied Intelligence, 2016, 45 (2): 230-240.
+
 &nbsp;
 * Yaojin Lin, Jinjin Li, Anhui Tan, ***Jia Zhang***. Granular matrix-based knowledge reductions of formal fuzzy contexts. International Journal of Machine Learning and Cybernetics, in press. 
 * Zhenqiang Sun, ***Jia Zhang***, Liang Dai, Candong Li, Changen Zhou, Jiliang Xin, Shaozi Li. Mutual information based multi-label feature selection via constrained convex optimization. Neurocomputing, 2019, 329: 447-456. 
