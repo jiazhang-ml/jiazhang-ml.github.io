@@ -19,7 +19,9 @@ I am currently working towards the Ph.D. degree in the Artificial Intelligence D
 * Jun. 2019, our paper on [Manifold Regularized Discriminative Feature Selection for Multi-label Learning](https://www.sciencedirect.com/science/article/pii/S0031320319302341) has been accepted to Pattern Recognition.
 * May 2019, I have moved to [CityU](https://www.cityu.edu.hk/) for research study.
 
-#### Research Interests: Machine Learning, Data Mining, Artificial Intelligence
+#### Research Interests: 
+
+I am broadly interested in machine learning, data mining, and artificial intelligence. In particular, I am interested in classification (multi-label learning, weakly supervised learning, and class-imbalance learning), feature selection and sparse learning, deep learning, data fusion, and recommendation systems. I am also interested in various data mining applications in medicine, such as TCM health management, drug discovery, hospital readmission, and autism spectrum disorder.
 
 #### Selected Publications
 
@@ -35,11 +37,6 @@ I am currently working towards the Ph.D. degree in the Artificial Intelligence D
 * L. Dai, **J. Zhang**, C. Li, C. Zhou, S. Li. Multi‐label feature selection with application to TCM state identification. Concurrency and Computation: Practice and Experience, 2018, e4634. 
 * J. Liu, Y. Lin, M. Lin, S. Wu, **J. Zhang**. Feature selection based on quality of information. Neurocomputing, 2017, 225: 11-22. 
 * Y. Lin, Q. Hu, **J. Zhang**, X. Wu. Multi-label feature selection with streaming labels. Information Sciences, 2016, 372: 256-275.
-
-#### Academic Talk and Discussion
-
-* A Brief Introduction to Discriminative Feature Analysis for Multi-label Data Understanding, Sep. 2019, Minnan Normal University, Zhangzhou, P.R. China.
-* Entropy-based Collaborative Filtering Algorithm, Aug. 2015, The 15-th Chinese Conference on Machine Learning (CCML), Chengdu, P.R. China.
 
 #### Professional Activities
 
