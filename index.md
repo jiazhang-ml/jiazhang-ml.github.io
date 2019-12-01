@@ -19,7 +19,9 @@ Mailing Address: #304, Scientific Research Building, Haiyun Campus, Xiamen, P.R.
 * Jun. 2019, our paper on [Manifold Regularized Discriminative Feature Selection for Multi-label Learning](https://www.sciencedirect.com/science/article/pii/S0031320319302341) has been accepted to Pattern Recognition.
 * May 2019, I have moved to [CityU](https://www.cityu.edu.hk/) for research study.
 
-#### Research Interests: Machine Learning, Data Mining, Artificial Intelligence
+#### Research Interests
+
+I am broadly interested in machine learning, data mining, and artificial intelligence. In particular, I am interested in classification (multi-label learning, weakly supervised learning, class-imbalance learning), feature selection and sparse learning, deep learning, data fusion, and recommendation systems. I am also interested in various data mining applications in medicine, such as TCM health management, drug discovery, hospital readmission, and autism spectrum disorder.
 
 #### Selected Publications
 
