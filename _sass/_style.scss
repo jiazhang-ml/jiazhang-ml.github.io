@@ -11,8 +11,8 @@ html {
 }
 body {
     margin: 0;
-    font-family:"Times New Roman";
-    font-size: 100%;
+    font-family:"Century Gothic", "Lucida Grande", arial, sans-serif;
+    font-size: 95%;
     height: 100%;
 }
 a {
@@ -34,7 +34,7 @@ hr {
  */
 
 #author-name {
-    font-family:"Times New Roman";
+    font-family:"Century Gothic", "Lucida Grande", arial, sans-serif;
     font-weight:bold;
     font-size: 30px;
     color: #272727;
@@ -68,7 +68,7 @@ hr {
 /* Divs */
 
 .container {
-    max-width: 1240px;
+    max-width: 95%;
     margin: auto;
 }
 .wrapper {
