@@ -6,7 +6,7 @@ layout: default
 
 #### Short Biography
 
-I am currently working towards the Ph.D. degree in the Artificial Intelligence Department of [Xiamen University (XMU)](https://www.xmu.edu.cn/), under the supervision of Prof. [Shaozi Li](http://imt.xmu.edu.cn/szdw.html).During the period of doctoral study, I visited [Kay Chen Tan](http://www.cityu.edu.hk/stfprofile/kaytan.htm)'s group in the City University of Hong Kong for three months. 
+I am currently working towards the Ph.D. degree in the Artificial Intelligence Department of [Xiamen University (XMU)](https://www.xmu.edu.cn/), under the supervision of Prof. [Shaozi Li](http://imt.xmu.edu.cn/szdw.html). During the period of doctoral study, I visited [Kay Chen Tan](http://www.cityu.edu.hk/stfprofile/kaytan.htm)'s group in the City University of Hong Kong for three months. 
 
 **Email**: [zhangjia_gl@163.com](mailto:zhangjia_gl@163.com) or [j.zhang@stu.xmu.edu.cn](mailto:j.zhang@stu.xmu.edu.cn)
 
