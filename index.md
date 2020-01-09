@@ -16,9 +16,9 @@ I am currently working towards the Ph.D. degree in the Artificial Intelligence D
 
 #### What's Happening
 
-Jun. 2019, our paper on [Manifold Regularized Discriminative Feature Selection for Multi-label Learning](https://www.sciencedirect.com/science/article/pii/S0031320319302341) has been accepted to *Pattern Recognition*.
+* Jun. 2019, our paper on [Manifold Regularized Discriminative Feature Selection for Multi-label Learning](https://www.sciencedirect.com/science/article/pii/S0031320319302341) has been accepted to *Pattern Recognition*.
 
-May 2019, I have moved to [CityU](https://www.cityu.edu.hk/) for research study.
+* May 2019, I have moved to [CityU](https://www.cityu.edu.hk/) for research study.
 
 #### Research Interests
 
@@ -26,25 +26,24 @@ I am broadly interested in machine learning, data mining, and artificial intelli
 
 #### Selected Publications
 
-<u>J. Zhang</u>, Z. Luo, C. Li, C. Zhou, S. Li\*. [Manifold regularized discriminative feature selection for multi-label learning](https://www.sciencedirect.com/science/article/abs/pii/S0031320319302341). *Pattern Recognition*, 2019, 95: 136-150. [[code](MDFS-master.zip)]
+* <u>J. Zhang</u>, Z. Luo, C. Li, C. Zhou, S. Li\*. [Manifold regularized discriminative feature selection for multi-label learning](https://www.sciencedirect.com/science/article/abs/pii/S0031320319302341). *Pattern Recognition*, 2019, 95: 136-150. [[code](MDFS-master.zip)]
+* <u>J. Zhang</u>, C. Li, Z. Sun, Z. Luo, C. Zhou, S. Li\*. [Towards a unified multi-source-based optimization framework for multi-label learning](https://www.sciencedirect.com/science/article/abs/pii/S1568494618307051). *Applied Soft Computing*, 2019, 76: 425-435.
 
-<u>J. Zhang</u>, C. Li, Z. Sun, Z. Luo, C. Zhou, S. Li\*. [Towards a unified multi-source-based optimization framework for multi-label learning](https://www.sciencedirect.com/science/article/abs/pii/S1568494618307051). *Applied Soft Computing*, 2019, 76: 425-435.
+* <u>J. Zhang</u>, C. Li, D. Cao, Y. Lin, S. Su, L. Dai, S. Li\*. [Multi-label learning with label-specific features by resolving label correlations](https://www.sciencedirect.com/science/article/abs/pii/S0950705118303472). *Knowledge-Based Systems*, 2018, 159: 148-157.
 
-<u>J. Zhang</u>, C. Li, D. Cao, Y. Lin, S. Su, L. Dai, S. Li\*. [Multi-label learning with label-specific features by resolving label correlations](https://www.sciencedirect.com/science/article/abs/pii/S0950705118303472). *Knowledge-Based Systems*, 2018, 159: 148-157.
+* <u>J. Zhang</u>, C. Li, Y. Lin, Y. Shao, S. Li\*. [Computational drug repositioning using collaborative filtering via multi-source fusion](https://www.sciencedirect.com/science/article/pii/S0957417417303202). *Expert Systems with Applications*, 2017, 84: 281-289.
 
-<u>J. Zhang</u>, C. Li, Y. Lin, Y. Shao, S. Li\*. [Computational drug repositioning using collaborative filtering via multi-source fusion](https://www.sciencedirect.com/science/article/pii/S0957417417303202). *Expert Systems with Applications*, 2017, 84: 281-289.
+* <u>J. Zhang</u>, Y. Lin\*, M. Lin, J. Liu. [An effective collaborative filtering algorithm based on user preference clustering](https://link.springer.com/article/10.1007/s10489-015-0756-9). *Applied Intelligence*, 2016, 45 (2): 230-240.
 
-<u>J. Zhang</u>, Y. Lin\*, M. Lin, J. Liu. [An effective collaborative filtering algorithm based on user preference clustering](https://link.springer.com/article/10.1007/s10489-015-0756-9). *Applied Intelligence*, 2016, 45 (2): 230-240.
+* Y. Lin, J. Li, A. Tan, <u>J. Zhang</u>. [Granular matrix-based knowledge reductions of formal fuzzy contexts](https://link.springer.com/article/10.1007/s13042-019-01022-4). *International Journal of Machine Learning and Cybernetics*, in press. 
 
-Y. Lin, J. Li, A. Tan, <u>J. Zhang</u>. [Granular matrix-based knowledge reductions of formal fuzzy contexts](https://link.springer.com/article/10.1007/s13042-019-01022-4). *International Journal of Machine Learning and Cybernetics*, in press. 
+* Z. Sun, <u>J. Zhang</u>, L. Dai, C. Li, C. Zhou, J. Xin, S. Li. [Mutual information based multi-label feature selection via constrained convex optimization](https://www.sciencedirect.com/science/article/abs/pii/S0925231218312360). *Neurocomputing*, 2019, 329: 447-456. 
 
-Z. Sun, <u>J. Zhang</u>, L. Dai, C. Li, C. Zhou, J. Xin, S. Li. [Mutual information based multi-label feature selection via constrained convex optimization](https://www.sciencedirect.com/science/article/abs/pii/S0925231218312360). *Neurocomputing*, 2019, 329: 447-456. 
+* L. Dai, <u>J. Zhang</u>, C. Li, C. Zhou, S. Li. [Multi‐label feature selection with application to TCM state identification](https://onlinelibrary.wiley.com/doi/abs/10.1002/cpe.4634). *Concurrency and Computation: Practice and Experience*, 2019, 31 (23): e4634. 
 
-L. Dai, <u>J. Zhang</u>, C. Li, C. Zhou, S. Li. [Multi‐label feature selection with application to TCM state identification](https://onlinelibrary.wiley.com/doi/abs/10.1002/cpe.4634). *Concurrency and Computation: Practice and Experience*, 2019, 31 (23): e4634. 
+* J. Liu, Y. Lin, M. Lin, S. Wu, <u>J. Zhang</u>. [Feature selection based on quality of information](https://www.sciencedirect.com/science/article/abs/pii/S0925231216312991). *Neurocomputing*, 2017, 225: 11-22. 
 
-J. Liu, Y. Lin, M. Lin, S. Wu, <u>J. Zhang</u>. [Feature selection based on quality of information](https://www.sciencedirect.com/science/article/abs/pii/S0925231216312991). *Neurocomputing*, 2017, 225: 11-22. 
-
-Y. Lin, Q. Hu, <u>J. Zhang</u>, X. Wu. [Multi-label feature selection with streaming labels](https://www.sciencedirect.com/science/article/pii/S0020025516306120). *Information Sciences*, 2016, 372: 256-275.
+* Y. Lin, Q. Hu, <u>J. Zhang</u>, X. Wu. [Multi-label feature selection with streaming labels](https://www.sciencedirect.com/science/article/pii/S0020025516306120). *Information Sciences*, 2016, 372: 256-275.
 
 #### Professional Activities
 
