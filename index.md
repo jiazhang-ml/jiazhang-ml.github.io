@@ -35,7 +35,7 @@ I am broadly interested in machine learning, data mining, and artificial intelli
 
 * <u>Jia Zhang</u>, Yaojin Lin\*, Menglei Lin, Jinghua Liu. [An effective collaborative filtering algorithm based on user preference clustering](https://link.springer.com/article/10.1007/s10489-015-0756-9). Applied Intelligence, 2016, 45 (2): 230-240.
 
-Jinghua Liu, Yuwen Li, Wei Weng, <u>Jia Zhang</u>, Baihua Chen, and Shunxiang Wu. Feature selection for multi-label learning with streaming label. Neurocomputing, in press.
+* Jinghua Liu, Yuwen Li, Wei Weng, <u>Jia Zhang</u>, Baihua Chen, and Shunxiang Wu. Feature selection for multi-label learning with streaming label. Neurocomputing, in press.
 
 * Yidong Lin, Jinjin Li, Anhui Tan, <u>Jia Zhang</u>. [Granular matrix-based knowledge reductions of formal fuzzy contexts](https://link.springer.com/article/10.1007/s13042-019-01022-4). International Journal of Machine Learning and Cybernetics, in press. 
 
