@@ -49,4 +49,4 @@ Jinghua Liu, Yuwen Li, Wei Weng, <u>Jia Zhang</u>, Baihua Chen, and Shunxiang Wu
 
 #### Professional Activities
 
-Journal Reviewer: [Pattern Recognition](https://www.journals.elsevier.com/pattern-recognition/), [IEEE Transactions on Neural Networks and Learning Systems](https://mc.manuscriptcentral.com/tnnls), [Information Sciences](https://www.journals.elsevier.com/information-sciences), [Knowledge-Based Systems](https://www.journals.elsevier.com/knowledge-based-systems)
+* Journal Reviewer: [Pattern Recognition](https://www.journals.elsevier.com/pattern-recognition/), [IEEE Transactions on Neural Networks and Learning Systems](https://mc.manuscriptcentral.com/tnnls), [Information Sciences](https://www.journals.elsevier.com/information-sciences), [Knowledge-Based Systems](https://www.journals.elsevier.com/knowledge-based-systems)
