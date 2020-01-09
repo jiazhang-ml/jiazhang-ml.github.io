@@ -26,7 +26,7 @@ I am broadly interested in machine learning, data mining, and artificial intelli
 
 #### Selected Publications
 
-**J. Zhang**, Z. Luo, C. Li, C. Zhou, S. Li\*. Manifold regularized discriminative feature selection for multi-label learning. Pattern Recognition, 2019, 95: 136-150. [[pdf](1-s2.0-S0031320319302341-main.pdf)] [[code](MDFS-master.zip)]
+<u>J. Zhang</u>, Z. Luo, C. Li, C. Zhou, S. Li\*. Manifold regularized discriminative feature selection for multi-label learning. Pattern Recognition, 2019, 95: 136-150. [[pdf](1-s2.0-S0031320319302341-main.pdf)] [[code](MDFS-master.zip)]
 
 **J. Zhang**, C. Li, Z. Sun, Z. Luo, C. Zhou, S. Li\*. Towards a unified multi-source-based optimization framework for multi-label learning. Applied Soft Computing, 2019, 76: 425-435.
 
