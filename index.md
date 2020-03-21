@@ -29,7 +29,6 @@ I am broadly interested in machine learning, data mining, and artificial intelli
 ###### 2020:
 
 1. J. Liu, Y. Li, W. Weng, <u>J. Zhang</u>, B. Chen, S. Wu. [Feature selection for multi-label learning with streaming label](https://www.sciencedirect.com/science/article/abs/pii/S0925231220300242). Neurocomputing, 2020, 387: 268-278.
-
 2. Y. Lin, J. Li, A. Tan, <u>J. Zhang</u>. [Granular matrix-based knowledge reductions of formal fuzzy contexts](https://link.springer.com/article/10.1007/s13042-019-01022-4). International Journal of Machine Learning and Cybernetics, 2020, 11: 643–656.
 
 
