@@ -38,7 +38,7 @@ I am broadly interested in *machine learning* and *data mining*. In particular, 
 5. <u>Jia Zhang</u>, Yaojin Lin\*, Menglei Lin, Jinghua Liu. [An effective collaborative filtering algorithm based on user preference clustering](https://link.springer.com/article/10.1007/s10489-015-0756-9). Applied Intelligence, 2016, 45 (2): 230-240.
 6. Z. Sun, <u>J. Zhang</u>, L. Dai, C. Li, C. Zhou, J. Xin, S. Li. [Mutual information based multi-label feature selection via constrained convex optimization](https://www.sciencedirect.com/science/article/abs/pii/S0925231218312360). Neurocomputing, 2019, 329: 447-456. 
 7. Liang Dai, <u>Jia Zhang</u>, Candong Li, Changen Zhou, Shaozi Li. [Multi‐label feature selection with application to TCM state identification](https://onlinelibrary.wiley.com/doi/abs/10.1002/cpe.4634). Concurrency and Computation: Practice and Experience, 2019, 31 (23): e4634. 
-8. Jinghua Liu, Yaojin Lin, Menglei Lin, Shunxiang Wu, Jia Zhang. [Feature selection based on quality of information](https://www.sciencedirect.com/science/article/abs/pii/S0925231216312991). Neurocomputing, 2017, 225: 11-22. 
+8. Jinghua Liu, Yaojin Lin, Menglei Lin, Shunxiang Wu, <u>Jia Zhang</u>. [Feature selection based on quality of information](https://www.sciencedirect.com/science/article/abs/pii/S0925231216312991). Neurocomputing, 2017, 225: 11-22. 
 9. Yaojin Lin, Qinghua Hu, <u>Jia Zhang</u>, Xindong Wu. [Multi-label feature selection with streaming labels](https://www.sciencedirect.com/science/article/pii/S0020025516306120). Information Sciences, 2016, 372: 256-275.
 
 #### Professional Activities
