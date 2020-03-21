@@ -22,7 +22,7 @@ I am currently working towards the Ph.D. degree in the Artificial Intelligence D
 
 #### Research Interests
 
-I am broadly interested in machine learning, data mining, and artificial intelligence. In particular, I am interested in classification (multi-label learning, weakly supervised learning, class-imbalance learning), feature selection and sparse learning, deep learning, data fusion, and recommendation systems. I am also interested in various data mining applications in medicine, such as TCM health management, drug discovery, hospital readmission, and autism spectrum disorder.
+I am broadly interested in machine learning, data mining, and artificial intelligence in medicine. In particular, I am interested in classification (multi-label learning, weakly supervised learning, class-imbalance learning), feature selection and sparse learning, deep learning, data fusion, and recommendation systems. I am also interested in various data mining applications in medicine, such as TCM health management, drug discovery, hospital readmission, and autism spectrum disorder.
 
 #### Selected Publications
 
@@ -35,23 +35,23 @@ I am broadly interested in machine learning, data mining, and artificial intelli
 
 ###### Before 2020:
 
-1. <u>Jia Zhang</u>, Zhiming Luo, Candong Li, Changen Zhou, Shaozi Li\*. [Manifold regularized discriminative feature selection for multi-label learning](https://www.sciencedirect.com/science/article/abs/pii/S0031320319302341). Pattern Recognition, 2019, 95: 136-150. [[code](MDFS-master.zip)]
-2. <u>Jia Zhang</u>, Candong Li, Zhenqiang Sun, Zhiming Luo, Changen Zhou, Shaozi Li\*. [Towards a unified multi-source-based optimization framework for multi-label learning](https://www.sciencedirect.com/science/article/abs/pii/S1568494618307051). Applied Soft Computing, 2019, 76: 425-435.
+1. <u>J. Zhang</u>, Z. Luo, C. Li, C. Zhou, S. Li\*. [Manifold regularized discriminative feature selection for multi-label learning](https://www.sciencedirect.com/science/article/abs/pii/S0031320319302341). Pattern Recognition, 2019, 95: 136-150. [[code](MDFS-master.zip)]
+2. <u>J. Zhang</u>, C. Li, Z. Sun, Z. Luo, C. Zhou, S. Li\*. [Towards a unified multi-source-based optimization framework for multi-label learning](https://www.sciencedirect.com/science/article/abs/pii/S1568494618307051). Applied Soft Computing, 2019, 76: 425-435.
 
-3. <u>Jia Zhang</u>, Candong Li, Donglin Cao, Yaojin Lin, Songzhi Su, Liang Dai, Shaozi Li\*. [Multi-label learning with label-specific features by resolving label correlations](https://www.sciencedirect.com/science/article/abs/pii/S0950705118303472). Knowledge-Based Systems, 2018, 159: 148-157.
+3. <u>J. Zhang</u>, C. Li, D. Cao, Y. Lin, S. Su, L.g Dai, S. Li\*. [Multi-label learning with label-specific features by resolving label correlations](https://www.sciencedirect.com/science/article/abs/pii/S0950705118303472). Knowledge-Based Systems, 2018, 159: 148-157.
 
-4. <u>Jia Zhang</u>, Candong Li, Yaojin Lin, Youwei Shao, Shaozi Li\*. [Computational drug repositioning using collaborative filtering via multi-source fusion](https://www.sciencedirect.com/science/article/pii/S0957417417303202). Expert Systems with Applications, 2017, 84: 281-289.
+4. <u>J. Zhang</u>, C. Li, Y. Lin, Y. Shao, S. Li\*. [Computational drug repositioning using collaborative filtering via multi-source fusion](https://www.sciencedirect.com/science/article/pii/S0957417417303202). Expert Systems with Applications, 2017, 84: 281-289.
 
-5. <u>Jia Zhang</u>, Yaojin Lin\*, Menglei Lin, Jinghua Liu. [An effective collaborative filtering algorithm based on user preference clustering](https://link.springer.com/article/10.1007/s10489-015-0756-9). Applied Intelligence, 2016, 45 (2): 230-240.
+5. <u>J. Zhang</u>, Y. Lin\*, M. Lin, J. Liu. [An effective collaborative filtering algorithm based on user preference clustering](https://link.springer.com/article/10.1007/s10489-015-0756-9). Applied Intelligence, 2016, 45 (2): 230-240.
 
-6. Zhenqiang Sun, <u>Jia Zhang</u>, Liang Dai, Candong Li, Changen Zhou, Jiliang Xin, Shaozi Li. [Mutual information based multi-label feature selection via constrained convex optimization](https://www.sciencedirect.com/science/article/abs/pii/S0925231218312360). Neurocomputing, 2019, 329: 447-456. 
+6. Z. Sun, <u>J. Zhang</u>, L. Dai, C. Li, C. Zhou, J. Xin, S. Li. [Mutual information based multi-label feature selection via constrained convex optimization](https://www.sciencedirect.com/science/article/abs/pii/S0925231218312360). Neurocomputing, 2019, 329: 447-456. 
 
-7. Liang Dai, <u>Jia Zhang</u>, Candong Li, Changen Zhou, Shaozi Li. [Multi‐label feature selection with application to TCM state identification](https://onlinelibrary.wiley.com/doi/abs/10.1002/cpe.4634). Concurrency and Computation: Practice and Experience, 2019, 31 (23): e4634. 
+7. L. Dai, <u>J. Zhang</u>, C. Li, C. Zhou, S. Li. [Multi‐label feature selection with application to TCM state identification](https://onlinelibrary.wiley.com/doi/abs/10.1002/cpe.4634). Concurrency and Computation: Practice and Experience, 2019, 31 (23): e4634. 
 
-8. Jinghua Liu, Yaojin Lin, Menglei Lin, Shunxiang Wu, <u>Jia Zhang</u>. [Feature selection based on quality of information](https://www.sciencedirect.com/science/article/abs/pii/S0925231216312991). Neurocomputing, 2017, 225: 11-22. 
+8. J. Liu, Y. Lin, M. Lin, S. Wu, J. Zhang. [Feature selection based on quality of information](https://www.sciencedirect.com/science/article/abs/pii/S0925231216312991). Neurocomputing, 2017, 225: 11-22. 
 
-9. Yaojin Lin, Qinghua Hu, <u>Jia Zhang</u>, Xindong Wu. [Multi-label feature selection with streaming labels](https://www.sciencedirect.com/science/article/pii/S0020025516306120). Information Sciences, 2016, 372: 256-275.
+9. Y. Lin, Q. Hu, <u>J. Zhang</u>, X. Wu. [Multi-label feature selection with streaming labels](https://www.sciencedirect.com/science/article/pii/S0020025516306120). Information Sciences, 2016, 372: 256-275.
 
 #### Professional Activities
 
-Journal Reviewer: [Pattern Recognition](https://www.journals.elsevier.com/pattern-recognition/), [IEEE Transactions on Neural Networks and Learning Systems](https://mc.manuscriptcentral.com/tnnls), [Information Sciences](https://www.journals.elsevier.com/information-sciences), [Knowledge-Based Systems](https://www.journals.elsevier.com/knowledge-based-systems)
+**Journal Reviewer**: [Pattern Recognition](https://www.journals.elsevier.com/pattern-recognition/), [IEEE Transactions on Neural Networks and Learning Systems](https://mc.manuscriptcentral.com/tnnls), [Information Sciences](https://www.journals.elsevier.com/information-sciences), [Knowledge-Based Systems](https://www.journals.elsevier.com/knowledge-based-systems)
