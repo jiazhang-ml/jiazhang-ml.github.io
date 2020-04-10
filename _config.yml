@@ -14,7 +14,8 @@ sass:
     sass_dir: _sass
 
 nav:
+ - name: "Contact"
+   link: "contact.md"
  - name: "Curriculum Vitae"
    link: "resume.pdf"
- - name: "Google Scholar"
-   link: "https://scholar.google.com.hk/citations?user=yBaTk-gAAAAJ&hl=en"
+
