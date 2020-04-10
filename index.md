@@ -15,7 +15,7 @@ I am currently working towards the Ph.D. degree in the Artificial Intelligence D
 * Jun. 2019, our paper on [Manifold Regularized Discriminative Feature Selection for Multi-label Learning](https://www.sciencedirect.com/science/article/pii/S0031320319302341) has been accepted to Pattern Recognition.
 * May 2019, I have moved to [City University of Hong Kong](https://www.cityu.edu.hk/) for research study.
 
-#### Publications at [Google Scholar](https://scholar.google.com.hk/citations?user=yBaTk-gAAAAJ&hl=en)
+#### Selected Publications (Full List at [Google Scholar](https://scholar.google.com.hk/citations?user=yBaTk-gAAAAJ&hl=en))
 
 #### Professional Activities
 
