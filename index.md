@@ -16,7 +16,7 @@ layout: default
 * Jun. 2019, our paper on [Manifold regularized discriminative feature selection for multi-label learning](https://www.sciencedirect.com/science/article/pii/S0031320319302341) has been accepted to Pattern Recognition.
 * May 2019, I have moved to [City University of Hong Kong](https://www.cityu.edu.hk/) for research study.
 
-#### Selected Publications and Codes (Full List at [Google Scholar](https://scholar.google.com.hk/citations?user=yBaTk-gAAAAJ&hl=en))
+#### Selected Publications
   
 * <u>J. Zhang</u>, Z. Luo, C. Li, C. Zhou, S. Li\*. [Manifold regularized discriminative feature selection for multi-label learning](https://www.sciencedirect.com/science/article/abs/pii/S0031320319302341). Pattern Recognition, 2019, 95: 136-150. [[code](MDFS-master.zip)]
 * <u>J. Zhang</u>, C. Li, Z. Sun, Z. Luo, C. Zhou, S. Li\*. [Towards a unified multi-source-based optimization framework for multi-label learning](https://www.sciencedirect.com/science/article/abs/pii/S1568494618307051). Applied Soft Computing, 2019, 76: 425-435.
