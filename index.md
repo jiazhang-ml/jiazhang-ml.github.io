@@ -4,13 +4,7 @@ layout: default
 
 <img class="profile-picture" src="jiazhang.jpg">
 
-#### Short Biography
-
 I am currently working towards the Ph.D. degree in the Artificial Intelligence Department of [Xiamen University (XMU)](https://www.xmu.edu.cn/), supervised by Prof. [Shaozi Li](http://imt.xmu.edu.cn/szdw.html). During the period of doctoral study, I visited [Kay Chen Tan](http://www.cityu.edu.hk/stfprofile/kaytan.htm)'s group in the [City University of Hong Kong](https://www.cityu.edu.hk/) for three months. I am interested in *machine learning* and *data mining*. In particular, I am interested in classification (multi-label learning, weakly supervised learning, class-imbalance learning), feature selection and sparse learning, deep learning, data fusion, and recommendation systems. I am also interested in various data mining applications in medicine, such as TCM health management, drug discovery, hospital readmission, and autism spectrum disorder.
-
-**Email**: [zhangjia_gl@163.com](mailto:zhangjia_gl@163.com) or [j.zhang@stu.xmu.edu.cn](mailto:j.zhang@stu.xmu.edu.cn)
-
-**Mailing Address**: #304, Scientific Research Building, Haiyun Campus, Xiamen, P.R. China, 361005
 
 ---
 
