@@ -16,9 +16,18 @@ I am currently working towards the Ph.D. degree in the Artificial Intelligence D
 * May 2019, I have moved to [City University of Hong Kong](https://www.cityu.edu.hk/) for research study.
 
 #### Selected Publications and Codes (Full List at [Google Scholar](https://scholar.google.com.hk/citations?user=yBaTk-gAAAAJ&hl=en))
-
-* <u>Jia Zhang</u>, Z. Luo, C. Li, C. Zhou, S. Li. [Manifold regularized discriminative feature selection for multi-label learning](https://www.sciencedirect.com/science/article/pii/S0031320319302341). Pattern Recognition, 2019, 95: 136-150. [[code]](MDFS-master.zip)
   
+* <u>Jia Zhang</u>, Zhiming Luo, Candong Li, Changen Zhou, Shaozi Li\*. [Manifold regularized discriminative feature selection for multi-label learning](https://www.sciencedirect.com/science/article/abs/pii/S0031320319302341). Pattern Recognition, 2019, 95: 136-150. [[code](MDFS-master.zip)]
+* <u>Jia Zhang</u>, Candong Li, Zhenqiang Sun, Zhiming Luo, Changen Zhou, Shaozi Li\*. [Towards a unified multi-source-based optimization framework for multi-label learning](https://www.sciencedirect.com/science/article/abs/pii/S1568494618307051). Applied Soft Computing, 2019, 76: 425-435.
+* <u>Jia Zhang</u>, Candong Li, Donglin Cao, Yaojin Lin, Songzhi Su, Liang Dai, Shaozi Li\*. [Multi-label learning with label-specific features by resolving label correlations](https://www.sciencedirect.com/science/article/abs/pii/S0950705118303472). Knowledge-Based Systems, 2018, 159: 148-157.
+* <u>Jia Zhang</u>, Candong Li, Yaojin Lin, Youwei Shao, Shaozi Li\*. [Computational drug repositioning using collaborative filtering via multi-source fusion](https://www.sciencedirect.com/science/article/pii/S0957417417303202). Expert Systems with Applications, 2017, 84: 281-289.
+* <u>Jia Zhang</u>, Yaojin Lin\*, Menglei Lin, Jinghua Liu. [An effective collaborative filtering algorithm based on user preference clustering](https://link.springer.com/article/10.1007/s10489-015-0756-9). Applied Intelligence, 2016, 45 (2): 230-240.
+* Jinghua Liu, Yuwen Li, Wei Weng, <u>Jia Zhang</u>, Baihua Chen, Shunxiang Wu. [Feature selection for multi-label learning with streaming label](https://www.sciencedirect.com/science/article/abs/pii/S0925231220300242). Neurocomputing, 2020, 387: 268-278.
+* Yidong Lin, Jinjin Li, Anhui Tan, <u>Jia Zhang</u>. [Granular matrix-based knowledge reductions of formal fuzzy contexts](https://link.springer.com/article/10.1007/s13042-019-01022-4). International Journal of Machine Learning and Cybernetics, 2020, 11 (3): 643–656.
+* Zhenqiang Sun, <u>Jia Zhang</u>, Liang Dai, Candong Li, Changen Zhou, Jiliang Xin, Shaozi Li. [Mutual information based multi-label feature selection via constrained convex optimization](https://www.sciencedirect.com/science/article/abs/pii/S0925231218312360). Neurocomputing, 2019, 329: 447-456. 
+* Liang Dai, <u>Jia Zhang</u>, Candong Li, Changen Zhou, Shaozi Li. [Multi‐label feature selection with application to TCM state identification](https://onlinelibrary.wiley.com/doi/abs/10.1002/cpe.4634). Concurrency and Computation: Practice and Experience, 2019, 31 (23): e4634. 
+* Jinghua Liu, Yaojin Lin, Menglei Lin, Shunxiang Wu, <u>Jia Zhang</u>. [Feature selection based on quality of information](https://www.sciencedirect.com/science/article/abs/pii/S0925231216312991). Neurocomputing, 2017, 225: 11-22. 
+* Yaojin Lin, Qinghua Hu, <u>Jia Zhang</u>, Xindong Wu. [Multi-label feature selection with streaming labels](https://www.sciencedirect.com/science/article/pii/S0020025516306120). Information Sciences, 2016, 372: 256-275.
 
 #### Professional Activities
 
