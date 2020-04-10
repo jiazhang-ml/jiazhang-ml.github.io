@@ -19,15 +19,9 @@ I am currently working towards the Ph.D. degree in the Artificial Intelligence D
 
 #### Available Codes
 
-* J. Zhang, Z. Luo, C. Li, C. Zhou, S. Li. Manifold regularized discriminative feature selection for multi-label learning. *Pattern Recognition*, 2019, 95: 136-150. [code](MDFS-master.zip)
+* J. Zhang, Z. Luo, C. Li, C. Zhou, S. Li. Manifold regularized discriminative feature selection for multi-label learning. *Pattern Recognition*, 2019, 95: 136-150. [[code]](MDFS-master.zip)
   
 
 #### Professional Activities
 
 * Journal Reviewer: [Pattern Recognition](https://www.journals.elsevier.com/pattern-recognition/), [IEEE Transactions on Neural Networks and Learning Systems](https://mc.manuscriptcentral.com/tnnls), [Information Sciences](https://www.journals.elsevier.com/information-sciences), [Knowledge-Based Systems](https://www.journals.elsevier.com/knowledge-based-systems)
-
-#### Correspondence
-
-* Email: [zhangjia_gl@163.com](mailto:zhangjia_gl@163.com) or [j.zhang@stu.xmu.edu.cn](mailto:j.zhang@stu.xmu.edu.cn)
-
-* Mailing Address: #304, Scientific Research Building, Haiyun Campus, Xiamen, P.R. China, 361005
