@@ -4,9 +4,13 @@ layout: default
 
 <img class="profile-picture" src="jiazhang.jpg">
 
-#### Brief Bio
+#### brief Biography
 
 I am currently working towards the Ph.D. degree in the Artificial Intelligence Department of [Xiamen University (XMU)](https://www.xmu.edu.cn/), supervised by Prof. [Shaozi Li](http://imt.xmu.edu.cn/szdw.html). During the period of doctoral study, I visited [Kay Chen Tan](http://www.cityu.edu.hk/stfprofile/kaytan.htm)'s group in the [City University of Hong Kong](https://www.cityu.edu.hk/) for three months. 
+
+**Email**: [zhangjia_gl@163.com](mailto:zhangjia_gl@163.com) or [j.zhang@stu.xmu.edu.cn](mailto:j.zhang@stu.xmu.edu.cn)
+
+**Mailing Address**: #304, Scientific Research Building, Haiyun Campus, Xiamen, P.R. China, 361005
 
 ---
 
