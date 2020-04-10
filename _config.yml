@@ -14,8 +14,7 @@ sass:
     sass_dir: _sass
 
 nav:
- - name: "Contact"
-   link: "contact"
+
  - name: "Curriculum Vitae"
    link: "resume.pdf"
  - name: "Scholat"
