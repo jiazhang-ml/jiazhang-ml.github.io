@@ -4,7 +4,9 @@ layout: default
 
 <img class="profile-picture" src="jiazhang.jpg">
 
-I am currently working towards the Ph.D. degree in the Artificial Intelligence Department of [Xiamen University (XMU)](https://www.xmu.edu.cn/), supervised by Prof. [Shaozi Li](http://imt.xmu.edu.cn/szdw.html). During the period of doctoral study, I visited [Kay Chen Tan](http://www.cityu.edu.hk/stfprofile/kaytan.htm)'s group in the [City University of Hong Kong](https://www.cityu.edu.hk/) for three months. I am interested in *machine learning* and *data mining*. In particular, I am interested in classification (multi-label learning, weakly supervised learning, class-imbalance learning), feature selection and sparse learning, deep learning, data fusion, and recommendation systems. I am also interested in various data mining applications in medicine, such as TCM health management, drug discovery, hospital readmission, and autism spectrum disorder.
+#### Brief Bio
+
+I am currently working towards the Ph.D. degree in the Artificial Intelligence Department of [Xiamen University (XMU)](https://www.xmu.edu.cn/), supervised by Prof. [Shaozi Li](http://imt.xmu.edu.cn/szdw.html). During the period of doctoral study, I visited [Kay Chen Tan](http://www.cityu.edu.hk/stfprofile/kaytan.htm)'s group in the [City University of Hong Kong](https://www.cityu.edu.hk/) for three months. 
 
 ---
 
@@ -12,6 +14,9 @@ I am currently working towards the Ph.D. degree in the Artificial Intelligence D
 
 * Jun. 2019, our paper on [Manifold Regularized Discriminative Feature Selection for Multi-label Learning](https://www.sciencedirect.com/science/article/pii/S0031320319302341) has been accepted to Pattern Recognition.
 * May 2019, I have moved to [CityU](https://www.cityu.edu.hk/) for research study.
+
+#### Research Interests
+I am interested in *machine learning* and *data mining*. In particular, I am interested in classification (multi-label learning, weakly supervised learning, class-imbalance learning), feature selection and sparse learning, deep learning, data fusion, and recommendation systems. I am also interested in various data mining applications in medicine, such as TCM health management, drug discovery, hospital readmission, and autism spectrum disorder.
 
 #### Publications at [Google Scholar](https://scholar.google.com.hk/citations?user=yBaTk-gAAAAJ&hl=en)
 
