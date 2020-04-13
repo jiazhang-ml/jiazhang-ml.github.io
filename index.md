@@ -13,8 +13,8 @@ layout: default
 
 #### What's Happening
 
-* Jun. 2019, our paper on [Manifold regularized discriminative feature selection for multi-label learning](https://www.sciencedirect.com/science/article/pii/S0031320319302341) has been accepted to Pattern Recognition.
-* May 2019, I have moved to [City University of Hong Kong](https://www.cityu.edu.hk/) for research study.
+* **[2019.06]** One paper is accepted to Pattern Recognition.
+* **[2019.05]** I have moved to [City University of Hong Kong](https://www.cityu.edu.hk/) for research study.
 
 #### Selected Publications
   
