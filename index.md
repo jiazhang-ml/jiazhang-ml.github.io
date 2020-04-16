@@ -19,11 +19,8 @@ layout: default
 #### Selected Publications
   
 * <u>J. Zhang</u>, Z. Luo, C. Li, C. Zhou, S. Li\*. 
-
-[Manifold regularized discriminative feature selection for multi-label learning](https://www.sciencedirect.com/science/article/abs/pii/S0031320319302341). Pattern Recognition, 2019, 95: 136-150. [[code](MDFS-master.zip)]
-* <u>J. Zhang</u>, C. Li, Z. Sun, Z. Luo, C. Zhou, S. Li\*. 
-
-[Towards a unified multi-source-based optimization framework for multi-label learning](https://www.sciencedirect.com/science/article/abs/pii/S1568494618307051). Applied Soft Computing, 2019, 76: 425-435.
+Manifold regularized discriminative feature selection for multi-label learning. Pattern Recognition, 2019, 95: 136-150. [[code](MDFS-master.zip)]
+* <u>J. Zhang</u>, C. Li, Z. Sun, Z. Luo, C. Zhou, S. Li\*. [Towards a unified multi-source-based optimization framework for multi-label learning](https://www.sciencedirect.com/science/article/abs/pii/S1568494618307051). Applied Soft Computing, 2019, 76: 425-435.
 * <u>J. Zhang</u>, C. Li, D. Cao, Y. Lin, S. Su, L. Dai, S. Li\*. [Multi-label learning with label-specific features by resolving label correlations](https://www.sciencedirect.com/science/article/abs/pii/S0950705118303472). Knowledge-Based Systems, 2018, 159: 148-157.
 * <u>J. Zhang</u>, C. Li, Y. Lin, Y. Shao, S. Li\*. [Computational drug repositioning using collaborative filtering via multi-source fusion](https://www.sciencedirect.com/science/article/pii/S0957417417303202). Expert Systems with Applications, 2017, 84: 281-289.
 * <u>J. Zhang</u>, Y. Lin\*, M. Lin, J. Liu. [An effective collaborative filtering algorithm based on user preference clustering](https://link.springer.com/article/10.1007/s10489-015-0756-9). Applied Intelligence, 2016, 45 (2): 230-240.
