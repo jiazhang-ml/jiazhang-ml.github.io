@@ -13,7 +13,7 @@ layout: default
 
 #### What's Happening
 
-* **[2020.04]** One paper is accepted to IJCAI'20. The code has released, please [download](GRRO-master.zip).
+* **[2020.04]** One paper is accepted to IJCAI'20. The code of GRRO has been released, please [download](GRRO-master.zip).
 * **[2019.06]** One paper is accepted to Pattern Recognition.
 * **[2019.05]** I have moved to [City University of Hong Kong](https://www.cityu.edu.hk/) for research study.
 
