@@ -19,7 +19,7 @@ layout: default
 
 #### Selected Publications
 
-* <u>J. Zhang</u>, Y. Lin, M. Jiang, S. Li, Y. Tang, K. C. Tan. Multi-label feature selection via global relevance and redundancy optimization. In Proceedings of the 29th International Joint Conference on Artificial Intelligence (IJCAI’20), Yokohama, Japan, 2020. [[code](GRRO-master.zip)]
+* <u>J. Zhang</u>, Y. Lin, M. Jiang, S. Li\*, Y. Tang, K. C. Tan. Multi-label feature selection via global relevance and redundancy optimization. In Proceedings of the 29th International Joint Conference on Artificial Intelligence (IJCAI’20), Yokohama, Japan, 2020. [[code](GRRO-master.zip)]
 * <u>J. Zhang</u>, Z. Luo, C. Li, C. Zhou, S. Li\*. [Manifold regularized discriminative feature selection for multi-label learning](https://www.sciencedirect.com/science/article/abs/pii/S0031320319302341). Pattern Recognition, 2019, 95: 136-150. [[code](MDFS-master.zip)]
 * <u>J. Zhang</u>, C. Li, Z. Sun, Z. Luo, C. Zhou, S. Li\*. [Towards a unified multi-source-based optimization framework for multi-label learning](https://www.sciencedirect.com/science/article/abs/pii/S1568494618307051). Applied Soft Computing, 2019, 76: 425-435.
 * <u>J. Zhang</u>, C. Li, D. Cao, Y. Lin, S. Su, L. Dai, S. Li\*. [Multi-label learning with label-specific features by resolving label correlations](https://www.sciencedirect.com/science/article/abs/pii/S0950705118303472). Knowledge-Based Systems, 2018, 159: 148-157.
