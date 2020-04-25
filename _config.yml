@@ -19,4 +19,7 @@ nav:
    link: "resume.pdf"
  - name: "Google Scholar"
    link: "https://scholar.google.com.hk/citations?user=yBaTk-gAAAAJ&hl=en"
-
+ - name: "GitHub"
+   link: "https://github.com/jiazhang-ml"
+ - name: "中文简历"
+   link: "http://www.scholat.com/jiazhang"
