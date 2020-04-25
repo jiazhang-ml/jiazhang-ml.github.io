@@ -1,2 +1,25 @@
+title: Jia Zhang, Xiamen University
+url: "jiazhang-ml.pub/"
 
+#ins_logo: "./bits-logo.png"
+
+tracking_id: #
+
+footer: yes
+footer_url: "jiazhang-ml.pub/"
+# footer_text: "Web: jiazhang-ml.pub (Last updated: July 15 2019)"
+
+sass:
+    style: compressed
+    sass_dir: _sass
+
+nav:
+
+
+ - name: "Contact"
+   link: "contact"
+ - name: "Curriculum Vitae"
+   link: "resume.pdf"
+ - name: "Google Scholar"
+   link: "https://scholar.google.com.hk/citations?user=yBaTk-gAAAAJ&hl=en"
 
