@@ -5,9 +5,13 @@ layout: default
 <img class="profile-picture" src="jiazhang.jpg">
 
 # Jia Zhang 张佳
+
 Ph.D Candidate 
-School of Informatics, Xiamen Universit
+
+School of Informatics, Xiamen University
+
 Office: Room 234, Scientific Research Building, Haiyun Campus, Xiamen 361005, P. R. China
+
 Email: zhangjia_gl@163.com or j.zhang@stu.xmu.edu.cn
 
 ---
