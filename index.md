@@ -4,12 +4,15 @@ layout: default
 
 <img class="profile-picture" src="jiazhang.jpg">
 
+---
+
 #### Brief Biography
 
-* I am currently working towards the Ph.D. degree in the Artificial Intelligence Department of [Xiamen University](https://www.xmu.edu.cn/), supervised by Prof. [Shaozi Li](http://imt.xmu.edu.cn/szdw.html). During the period of doctoral study, I visited [Kay Chen Tan](http://www.cityu.edu.hk/stfprofile/kaytan.htm)'s group in the [City University of Hong Kong](https://www.cityu.edu.hk/) for three months. 
-* I am boardly interested in machine learning and data mining. Now I am working on weak label learning, multi-view learning, feature selection, and some data mining applications in medicine, such as TCM health management, drug discovery, hospital readmission, and autism spectrum disorder.
+I am currently working towards the Ph.D. degree in the Artificial Intelligence Department of [Xiamen University](https://www.xmu.edu.cn/), supervised by Prof. [Shaozi Li](http://imt.xmu.edu.cn/szdw.html). During the period of doctoral study, I visited [Kay Chen Tan](http://www.cityu.edu.hk/stfprofile/kaytan.htm)'s group in the [City University of Hong Kong](https://www.cityu.edu.hk/) for three months. 
 
----
+#### Research Interests
+
+I am boardly interested in machine learning and data mining. Now I am working on weak label learning, multi-view learning, feature selection, and some data mining applications in medicine, such as TCM health management, drug discovery, hospital readmission, and autism spectrum disorder.
 
 #### What's Happening
 
