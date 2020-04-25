@@ -10,8 +10,6 @@ layout: default
 #### Haiyun Campus, Xiamen 361005, P. R. China
 #### Office: Room 234, Scientific Research Building
 #### Email: zhangjia_gl@163.com or j.zhang@stu.xmu.edu.cn
-
-<img class="profile-picture" src="XMU.jpg">
 ---
 
 #### Brief Biography
