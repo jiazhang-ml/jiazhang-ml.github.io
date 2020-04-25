@@ -1,5 +1,6 @@
 ---
-
+layout: default 
+---
 
 <img class="profile-picture" src="jiazhang.jpg">
 
