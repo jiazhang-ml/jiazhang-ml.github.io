@@ -4,6 +4,14 @@ layout: default
 
 <img class="profile-picture" src="jiazhang.jpg">
 
+# Jia Zhang 张佳
+### Ph.D Candidate 
+#### School of Informatics, Xiamen University
+#### Haiyun Campus, Xiamen 361005, P. R. China
+#### Office: Room 234, Scientific Research Building
+#### Email: zhangjia_gl@163.com or j.zhang@stu.xmu.edu.cn
+
+<img class="profile-picture" src="XMU.jpg">
 ---
 
 #### Brief Biography
@@ -13,12 +21,6 @@ I am currently working towards the Ph.D. degree in the Artificial Intelligence D
 #### Research Interests
 
 I am boardly interested in machine learning and data mining. Now I am working on weak label learning, multi-view learning, feature selection, and some data mining applications in medicine, such as TCM health management, drug discovery, hospital readmission, and autism spectrum disorder.
-
-#### What's Happening
-
-* **[2020.04]** One paper is accepted to IJCAI'20. The code of GRRO has been released, please [download](GRRO-master.zip).
-* **[2019.06]** One paper is accepted to Pattern Recognition.
-* **[2019.05]** I have moved to [City University of Hong Kong](https://www.cityu.edu.hk/) for research study.
 
 #### Selected Publications
 
