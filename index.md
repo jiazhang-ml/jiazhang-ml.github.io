@@ -26,7 +26,7 @@ I am boardly interested in machine learning and data mining. Now I am working on
 * ***J. Zhang***, C. Li, Y. Lin, Y. Shao, S. Li\*. Computational drug repositioning using collaborative filtering via multi-source fusion. Expert Systems with Applications, 2017, 84: 281-289.
 * ***J. Zhang***, Y. Lin\*, M. Lin, J. Liu. An effective collaborative filtering algorithm based on user preference clustering. Applied Intelligence, 2016, 45 (2): 230-240.
 * L. Dai, G. Du, ***J. Zhang\****, C. Li, R. Wei, S. Li. Joint multi-label classification and feature selection based on deep canonical correlation analysis. Concurrency and Computation: Practice and Experience, in press.
-* G. Du, ***J. Zhang***, Z. Luo, F. Ma, L. S. Li. Joint imbalanced classification and feature selection for hospital readmission. Knowledge-Based Systems, in press.
+* G. Du, ***J. Zhang***, Z. Luo, F. Ma, L. Ma, S. Li. Joint imbalanced classification and feature selection for hospital readmission. Knowledge-Based Systems, in press.
 * J. Liu, Y. Li, W. Weng, ***J. Zhang***, B. Chen, S. Wu. Feature selection for multi-label learning with streaming label. Neurocomputing, 2020, 387: 268-278.
 * Y. Lin, J. Li, A. Tan, ***J. Zhang***. Granular matrix-based knowledge reductions of formal fuzzy contexts. International Journal of Machine Learning and Cybernetics, 2020, 11 (3): 643–656.
 * Z. Sun, ***J. Zhang***, L. Dai, C. Li, C. Zhou, J. Xin, S. Li. Mutual information based multi-label feature selection via constrained convex optimization. Neurocomputing, 2019, 329: 447-456. 
