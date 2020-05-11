@@ -20,8 +20,8 @@ I am boardly interested in machine learning and data mining. Now I am working on
 #### Selected Publications
 
 * ***J. Zhang***, Y. Lin, M. Jiang, S. Li\*, Y. Tang, K. C. Tan. Multi-label feature selection via global relevance and redundancy optimization. In Proceedings of the 29th International Joint Conference on Artificial Intelligence (IJCAI’20), Yokohama, Japan, 2020. [[code](GRRO-master.zip)]
-* L. Dai, G. Du, ***J. Zhang\****, C. Li, R. Wei, S. Li. Joint multi-label classification and feature selection based on deep canonical correlation analysis. Concurrency and Computation: Practice and Experience, in press.
-* G. Du, ***J. Zhang***, Z. Luo, F. Ma, L. Ma, S. Li. Joint imbalanced classification and feature selection for hospital readmission. Knowledge-Based Systems, in press.
+* L. Dai, G. Du, ***J. Zhang\****, C. Li, R. Wei, S. Li. Joint multi-label classification and feature selection based on deep canonical correlation analysis. Concurrency and Computation: Practice and Experience, 2020, in press.
+* G. Du, ***J. Zhang***, Z. Luo, F. Ma, L. Ma, S. Li. Joint imbalanced classification and feature selection for hospital readmission. Knowledge-Based Systems, 2020, in press.
 * J. Liu, Y. Li, W. Weng, ***J. Zhang***, B. Chen, S. Wu. Feature selection for multi-label learning with streaming label. Neurocomputing, 2020, 387: 268-278.
 * Y. Lin, J. Li, A. Tan, ***J. Zhang***. Granular matrix-based knowledge reductions of formal fuzzy contexts. International Journal of Machine Learning and Cybernetics, 2020, 11 (3): 643–656.
 * ***J. Zhang***, Z. Luo, C. Li, C. Zhou, S. Li\*. Manifold regularized discriminative feature selection for multi-label learning. Pattern Recognition, 2019, 95: 136-150. [[code](MDFS-master.zip)]
