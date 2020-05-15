@@ -40,7 +40,3 @@ I am boardly interested in machine learning and data mining. Now I am working on
 #### Professional Activities
 
 * Journal Reviewer: [IEEE Transactions on Cybernetics](https://mc.manuscriptcentral.com/cyb-ieee), [IEEE Transactions on Neural Networks and Learning Systems](https://mc.manuscriptcentral.com/tnnls), [Pattern Recognition](https://www.journals.elsevier.com/pattern-recognition/), [Information Sciences](https://www.journals.elsevier.com/information-sciences), [Knowledge-Based Systems](https://www.journals.elsevier.com/knowledge-based-systems)
-
-#### Co-authors and Friends
-
-Guodong Du (Xiamen University), Yidong Lin (Xiamen University), Zhi-An Huang (City University of Hong Kong), [Jun Huang](http://www.escience.cn/people/huangjun/index.html) (Anhui University of Technology), Jinghua Liu (Huaqiao University)
