@@ -34,9 +34,7 @@ I am boardly interested in machine learning and data mining. Now I am working on
 #### Submitted Papers
 
 * ***J. Zhang***, S. Li, M. Jiang, K. C. Tan. Learning from weakly labeled data based on manifold regularized sparse model. IEEE Transactions on Cybernetics, 2020.
-
 * Z.-A. Huang, ***J. Zhang***, Z. Zhu, E. Q. Wu, K. C. Tan. Identification of autistic risk candidate genes and toxic chemicals via multi-label learning. IEEE Transactions on Neural Networks and Learning Systems, 2020.
-
 * G. Du, ***J. Zhang***, S. Li, C. Li. Learning from class-imbalanced and heterogeneous data for 30-day hospital readmission. Neurocomputing, 2020.
 
 #### Professional Activities
