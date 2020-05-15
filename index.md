@@ -43,4 +43,4 @@ I am boardly interested in machine learning and data mining. Now I am working on
 
 #### Co-authors and Friends
 
-Guodong Du (Xiamen University), Yidong Lin (Xiamen University), Zhi-An Huang (City University of Hong Kong), [Jun Huang](http://www.escience.cn/people/huangjun/index.html) (Anhui University of Technology), Jinghua Liu (Huaqiao University)
+Guodong Du (Xiamen University), Yidong Lin (Xiamen University), [Zhi-An Huang](https://scholar.google.com/citations?user=_1nrBFAAAAAJ&hl=en) (City University of Hong Kong), [Jun Huang](http://www.escience.cn/people/huangjun/index.html) (Anhui University of Technology), [Jinghua Liu](https://scholar.google.com/citations?hl=en&user=9rvvLrQAAAAJ&view_op=list_works) (Huaqiao University)
