@@ -20,8 +20,8 @@ I am boardly interested in machine learning, data mining, and artificial intelli
 #### Selected Publications
 
 * ***J. Zhang***, Y. Lin, M. Jiang, S. Li\*, Y. Tang, K. C. Tan. Multi-label feature selection via global relevance and redundancy optimization. In Proceedings of the 29th International Joint Conference on Artificial Intelligence (IJCAI’20), Yokohama, Japan, 2020. [[code](GRRO-master.zip)]
-* L. Dai, G. Du, ***J. Zhang***, C. Li, R. Wei, S. Li. Joint multi-label classification and feature selection based on deep canonical correlation analysis. Concurrency and Computation: Practice and Experience, 2020, in press.
 * G. Du, ***J. Zhang***, Z. Luo, F. Ma, L. Ma, S. Li. Joint imbalanced classification and feature selection for hospital readmissions. Knowledge-Based Systems, 2020, in press.
+* L. Dai, G. Du, ***J. Zhang***, C. Li, R. Wei, S. Li. Joint multi-label classification and feature selection based on deep canonical correlation analysis. Concurrency and Computation: Practice and Experience, 2020, in press.
 * ***J. Zhang***, Z. Luo, C. Li, C. Zhou, S. Li\*. Manifold regularized discriminative feature selection for multi-label learning. Pattern Recognition, 2019, 95: 136-150. [[code](MDFS-master.zip)]
 * ***J. Zhang***, C. Li, Z. Sun, Z. Luo, C. Zhou, S. Li\*. Towards a unified multi-source-based optimization framework for multi-label learning. Applied Soft Computing, 2019, 76: 425-435.
 * Z. Sun, ***J. Zhang***, L. Dai, C. Li, C. Zhou, J. Xin, S. Li. Mutual information based multi-label feature selection via constrained convex optimization. Neurocomputing, 2019, 329: 447-456. 
