@@ -25,7 +25,6 @@ I am boardly interested in machine learning, data mining, and artificial intelli
 * ***J. Zhang***, Z. Luo, C. Li, C. Zhou, S. Li\*. Manifold regularized discriminative feature selection for multi-label learning. Pattern Recognition, 2019, 95: 136-150. [[code](MDFS-master.zip)]
 * ***J. Zhang***, C. Li, Z. Sun, Z. Luo, C. Zhou, S. Li\*. Towards a unified multi-source-based optimization framework for multi-label learning. Applied Soft Computing, 2019, 76: 425-435.
 * Z. Sun, ***J. Zhang***, L. Dai, C. Li, C. Zhou, J. Xin, S. Li. Mutual information based multi-label feature selection via constrained convex optimization. Neurocomputing, 2019, 329: 447-456. 
-* L. Dai, ***J. Zhang***, C. Li, C. Zhou, S. Li. Multi‐label feature selection with application to TCM state identification. Concurrency and Computation: Practice and Experience, 2019, 31 (23): e4634. 
 * ***J. Zhang***, C. Li, D. Cao, Y. Lin, S. Su, L. Dai, S. Li\*. Multi-label learning with label-specific features by resolving label correlations. Knowledge-Based Systems, 2018, 159: 148-157.
 * ***J. Zhang***, C. Li, Y. Lin, Y. Shao, S. Li\*. Computational drug repositioning using collaborative filtering via multi-source fusion. Expert Systems with Applications, 2017, 84: 281-289.
 * J. Liu, Y. Lin, M. Lin, S. Wu, ***J. Zhang***. Feature selection based on quality of information, Neurocomputing, 2017, 225: 11–22.
