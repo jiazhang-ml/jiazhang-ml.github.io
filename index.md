@@ -27,7 +27,7 @@ I am boardly interested in machine learning, data mining, and artificial intelli
 * Z. Sun, *J. Zhang*, L. Dai, C. Li, C. Zhou, J. Xin, S. Li. Mutual information based multi-label feature selection via constrained convex optimization. Neurocomputing, 2019, 329: 447-456. 
 * *J. Zhang*, C. Li, D. Cao, Y. Lin, S. Su, L. Dai, S. Li\*. Multi-label learning with label-specific features by resolving label correlations. Knowledge-Based Systems, 2018, 159: 148-157.
 * *J. Zhang*, C. Li, Y. Lin, Y. Shao, S. Li\*. Computational drug repositioning using collaborative filtering via multi-source fusion. Expert Systems with Applications, 2017, 84: 281-289.
-* J. Liu, Y. Lin, M. Lin, S. Wu, ***J. Zhang***. Feature selection based on quality of information, Neurocomputing, 2017, 225: 11–22.
+* J. Liu, Y. Lin, M. Lin, S. Wu, *J. Zhang*. Feature selection based on quality of information, Neurocomputing, 2017, 225: 11–22.
 * *J. Zhang*, Y. Lin\*, M. Lin, J. Liu. An effective collaborative filtering algorithm based on user preference clustering. Applied Intelligence, 2016, 45 (2): 230-240.
 * Y. Lin, Q. Hu, *J. Zhang*, X. Wu. Multi-label feature selection with streaming labels. Information Sciences, 2016, 372: 256-275.
 
