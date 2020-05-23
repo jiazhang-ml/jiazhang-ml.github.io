@@ -11,7 +11,7 @@ layout: default
 
 #### Acedemic Information
 
-* International Publications: [DBLP](https://dblp.uni-trier.de/db/)
+* Article Search International: [DBLP](https://dblp.uni-trier.de/db/)
 * [软件学报](http://navi.cnki.net/knavi/JournalDetail?pcode=CJFD&pykm=RJXB)
 * [计算机学报](http://navi.cnki.net/knavi/JournalDetail?pcode=CJFD&pykm=JSJX)
 * [中国科学:信息科学](http://navi.cnki.net/knavi/JournalDetail?pcode=CJFD&pykm=PZKX)
