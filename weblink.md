@@ -6,7 +6,7 @@ layout: default
 #### General Information
 
 * [China Education and Research Network](http://www.edu.cn/)
-* [XMU Knowledge Resource Portal](https://information.xmu.edu.cn/)
+* Library: [XMU Knowledge Resource Portal](https://library.xmu.edu.cn/)
 * [School of Informatics Xiamen Universuty](https://information.xmu.edu.cn/)
 
 #### Acedemic Information
