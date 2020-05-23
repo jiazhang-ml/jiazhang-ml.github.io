@@ -19,8 +19,8 @@ layout: default
 * Journal-A: TKDE, TKDD, TCYB, TNNLS, PR, ML, Bioinformatics
 * Journal-B: KBS, Neurocomputing, PRL, FCS, TCBB, JBHI, BMC Bioinformatics
 
-* Conference-Rank 1: IJCAI (1), ICML (2), KDD (2), AAAI (9)
-* Conference-Rank 2: CIKM (5), ICDM (6), SDM (10), PRICAI (1), ACML (6), ICPR (7), PAKDD (11)
+* Conference-A: IJCAI (1), ICML (2), KDD (2), AAAI (9)
+* Conference-B: CIKM (5), ICDM (6), SDM (10), PRICAI (1), ACML (6), ICPR (7), PAKDD (11)
 
 #### Interesting Information
 
