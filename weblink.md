@@ -15,9 +15,9 @@ layout: default
 * Article Search Native: [软件学报](http://navi.cnki.net/knavi/JournalDetail?pcode=CJFD&pykm=RJXB), [计算机学报](http://navi.cnki.net/knavi/JournalDetail?pcode=CJFD&pykm=JSJX), [中国科学:信息科学](http://navi.cnki.net/knavi/JournalDetail?pcode=CJFD&pykm=PZKX), [计算机研究与发展](http://navi.cnki.net/knavi/JournalDetail?pcode=CJFD&pykm=JFYZ)
 * [KDnuggets: Machine Learning, Data Science, Big Data, Analytics, AI](https://www.kdnuggets.com/)
 
-#### Conference Information
+#### Jour./Conf. Information
 * Journal-A: TKDE, TKDD, TCYB, TNNLS, PR, ML, Bioinformatics
-* Journal-B: KBS, Neurocomputing, PRL, FCS, TCBB, JBHI, BMC Bioinformatics
+* Journal-B: KBS, PRL, Neurocomputing, FCS, TCBB, JBHI, BMC Bioinformatics
 
 * Conference-A: IJCAI (1), ICML (2), KDD (2), AAAI (9)
 * Conference-B: CIKM (5), ICDM (6), SDM (10), PRICAI (1), ACML (6), ICPR (7), PAKDD (11)
