@@ -17,9 +17,9 @@ layout: default
 
 #### Conference Information
 
-* Conference-Rank 1: AAAI (9), ICML (2), IJCAI (1), KDD (2)
+* Conference-Rank 1: IJCAI (1), ICML (2), KDD (2), AAAI (9)
 * Conference-Rank 2: CIKM (5), ICDM (6), SDM (10)
-* Conference-Rank 3: ACML (6), ICPR (7), PRICAI (1), PAKDD (11)
+* Conference-Rank 3: PRICAI (1), ACML (6), ICPR (7), PAKDD (11)
 
 #### Interesting Information
 
