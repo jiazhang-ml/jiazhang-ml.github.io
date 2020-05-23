@@ -17,9 +17,9 @@ layout: default
 
 #### Conference Information
 
-* Conference-Rank 1: AAAI (Sep.), ICML (Feb.), IJCAI (Jan.), KDD (Feb.)
-* Conference-Rank 2: CIKM (May.), ICDM (Jun.), SDM (Oct.)
-* Conference-Rank 3: ACML (Jun.), ICPR (Jul.), PRICAI (Jan.)
+* Conference-Rank 1: AAAI (9), ICML (2), IJCAI (1), KDD (2)
+* Conference-Rank 2: CIKM (5), ICDM (6), SDM (10)
+* Conference-Rank 3: ACML (6), ICPR (7), PRICAI (1), PAKDD (11)
 
 #### Interesting Information
 
