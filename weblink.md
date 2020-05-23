@@ -5,9 +5,9 @@ layout: default
 
 #### General Information
 
-| Content Cell  | Content Cell  |
+| Content Cell  | Content Cell  |    Content Cell  |   Content Cell  |   Content Cell  |   
 
-#### What's New
+#### Acedemic Information
 
+#### Interesting Information
 
-#### Article Search
