@@ -15,7 +15,11 @@ layout: default
 * Article Search Native: [软件学报](http://navi.cnki.net/knavi/JournalDetail?pcode=CJFD&pykm=RJXB), [计算机学报](http://navi.cnki.net/knavi/JournalDetail?pcode=CJFD&pykm=JSJX), [中国科学:信息科学](http://navi.cnki.net/knavi/JournalDetail?pcode=CJFD&pykm=PZKX), [计算机研究与发展](http://navi.cnki.net/knavi/JournalDetail?pcode=CJFD&pykm=JFYZ)
 * [KDnuggets: Machine Learning, Data Science, Big Data, Analytics, AI](https://www.kdnuggets.com/)
 
-#### Jour./Conf. Information
+#### Conference Information
+
+* Conference-Rank 1: AAAI (Sep.), ICML (Feb.), IJCAI (Jan.), KDD (Feb.)
+* Conference-Rank 2: CIKM (May.), ICDM (Jun.), SDM (Oct.)
+* Conference-Rank 3: ACML (Jun.), ICPR (Jul.), PRICAI (Jan.)
 
 #### Interesting Information
 
