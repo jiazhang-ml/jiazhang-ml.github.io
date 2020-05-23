@@ -5,9 +5,17 @@ layout: default
 
 #### General Information
 
-
+* [China Education and Research Network](http://www.edu.cn/)
+* [XMU Knowledge Resource Portal](https://information.xmu.edu.cn/)
+* [School of Informatics Xiamen Universuty](https://information.xmu.edu.cn/)
 
 #### Acedemic Information
+
+* [DBLP](https://dblp.uni-trier.de/db/)
+* [软件学报](http://navi.cnki.net/knavi/JournalDetail?pcode=CJFD&pykm=RJXB)
+* [计算机学报](http://navi.cnki.net/knavi/JournalDetail?pcode=CJFD&pykm=JSJX)
+* [中国科学:信息科学](http://navi.cnki.net/knavi/JournalDetail?pcode=CJFD&pykm=PZKX)
+* [计算机研究与发展](http://navi.cnki.net/knavi/JournalDetail?pcode=CJFD&pykm=JFYZ)
 
 #### Interesting Information
 
