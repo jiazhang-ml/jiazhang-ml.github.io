@@ -16,6 +16,10 @@ layout: default
 * [KDnuggets: Machine Learning, Data Science, Big Data, Analytics, AI](https://www.kdnuggets.com/)
 
 #### Conference Information
+* Journal-Rank 1: TKDE
+* Journal-Rank 2: TKDD, TCYB, TNNLS, PR, ML
+* Journal-Rank 3: KBS, Neurocomputing, PRL, FCS, etc
+* Journal-Bioinformatics: Bioinformatics, TCBB, JBHI, BMC Bioinformatics
 
 * Conference-Rank 1: IJCAI (1), ICML (2), KDD (2), AAAI (9)
 * Conference-Rank 2: CIKM (5), ICDM (6), SDM (10)
