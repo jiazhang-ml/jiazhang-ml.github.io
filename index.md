@@ -23,10 +23,10 @@ I am boardly interested in machine learning, data mining, and artificial intelli
 * [code] **J. Zhang**, Z. Luo, C. Li, C. Zhou, S. Li. Manifold regularized discriminative feature selection for multi-label learning. Pattern Recognition, 2019, 95: 136-150. [[pdf](1-s2.0-S0031320319302341-main.pdf)] [[code](MDFS-master.zip)]
 * [data] Multi-label data sets are available at the [KDIS](http://www.uco.es/kdis/mllresources/), [Lambda](http://www.lamda.nju.edu.cn/Data.ashx), and [Extreme Classification Repository](http://manikvarma.org/downloads/XC/XMLRepository.html).
 
+#### Professional Activities
+* Journal Reviewer: [IEEE Transactions on Cybernetics](https://mc.manuscriptcentral.com/cyb-ieee), [IEEE Transactions on Neural Networks and Learning Systems](https://mc.manuscriptcentral.com/tnnls), [Pattern Recognition](https://www.journals.elsevier.com/pattern-recognition/), [Information Sciences](https://www.journals.elsevier.com/information-sciences), [Knowledge-Based Systems](https://www.journals.elsevier.com/knowledge-based-systems)
+
 #### Web Page Link
 * General Information: [China Education and Research Network](http://www.edu.cn/), [School of Informatics Xiamen Universuty](https://information.xmu.edu.cn/), [厦门大学图书馆](https://library.xmu.edu.cn/)
 * Article Search International: [DBLP](https://dblp.uni-trier.de/db/) 
 * Article Search Native: [软件学报](http://navi.cnki.net/knavi/JournalDetail?pcode=CJFD&pykm=RJXB), [计算机学报](http://navi.cnki.net/knavi/JournalDetail?pcode=CJFD&pykm=JSJX), [中国科学:信息科学](http://navi.cnki.net/knavi/JournalDetail?pcode=CJFD&pykm=PZKX), [计算机研究与发展](http://navi.cnki.net/knavi/JournalDetail?pcode=CJFD&pykm=JFYZ)
-
-#### Professional Activities
-* Journal Reviewer: [IEEE Transactions on Cybernetics](https://mc.manuscriptcentral.com/cyb-ieee), [IEEE Transactions on Neural Networks and Learning Systems](https://mc.manuscriptcentral.com/tnnls), [Pattern Recognition](https://www.journals.elsevier.com/pattern-recognition/), [Information Sciences](https://www.journals.elsevier.com/information-sciences), [Knowledge-Based Systems](https://www.journals.elsevier.com/knowledge-based-systems)
