@@ -19,21 +19,18 @@ I am boardly interested in machine learning, data mining, and artificial intelli
 
 #### Publications and Citations by [Google Scholar](https://scholar.google.com.hk/citations?user=yBaTk-gAAAAJ&hl=en)
 #### Code and Data
-###### Selected Publications
 
-* **J. Zhang**, Y. Lin, M. Jiang, S. Li, Y. Tang, K. C. Tan. Multi-label feature selection via global relevance and redundancy optimization. In Proceedings of the 29th International Joint Conference on Artificial Intelligence (IJCAI’20), Yokohama, Japan, 2020. [[code](GRRO-master.zip)]
-* **J. Zhang**, Z. Luo, C. Li, C. Zhou, S. Li. Manifold regularized discriminative feature selection for multi-label learning. Pattern Recognition, 2019, 95: 136-150. [[pdf](MDFS-master.zip)] [[code](MDFS-master.zip)]
+* [code] **J. Zhang**, Y. Lin, M. Jiang, S. Li, Y. Tang, K. C. Tan. Multi-label feature selection via global relevance and redundancy optimization. In Proceedings of the 29th International Joint Conference on Artificial Intelligence (IJCAI’20), Yokohama, Japan, 2020. [[code](GRRO-master.zip)]
+* [code] **J. Zhang**, Z. Luo, C. Li, C. Zhou, S. Li. Manifold regularized discriminative feature selection for multi-label learning. Pattern Recognition, 2019, 95: 136-150. [[pdf](1-s2.0-S0031320319302341-main.pdf)] [[code](MDFS-master.zip)]
+* [data] Multi-label data sets are available at the [KDIS](http://www.uco.es/kdis/mllresources/), [Lambda](http://www.lamda.nju.edu.cn/Data.ashx), and [Extreme Classification Repository](http://manikvarma.org/downloads/XC/XMLRepository.html).
 
-###### Data Sets
-
-* Multi-label data sets are available at the [KDIS](http://www.uco.es/kdis/mllresources/), [Lambda](http://www.lamda.nju.edu.cn/Data.ashx), and [Extreme Classification Repository](http://manikvarma.org/downloads/XC/XMLRepository.html).
+#### Professional Activities
+* Journal Reviewer: [IEEE Transactions on Cybernetics](https://mc.manuscriptcentral.com/cyb-ieee), [IEEE Transactions on Neural Networks and Learning Systems](https://mc.manuscriptcentral.com/tnnls), [Pattern Recognition](https://www.journals.elsevier.com/pattern-recognition/), [Information Sciences](https://www.journals.elsevier.com/information-sciences), [Knowledge-Based Systems](https://www.journals.elsevier.com/knowledge-based-systems)
 
 #### Web Page Link
 * Article Search International: [DBLP](https://dblp.uni-trier.de/db/)
 * Article Search Native: [软件学报](http://navi.cnki.net/knavi/JournalDetail?pcode=CJFD&pykm=RJXB), [计算机学报](http://navi.cnki.net/knavi/JournalDetail?pcode=CJFD&pykm=JSJX), [中国科学:信息科学](http://navi.cnki.net/knavi/JournalDetail?pcode=CJFD&pykm=PZKX), [计算机研究与发展](http://navi.cnki.net/knavi/JournalDetail?pcode=CJFD&pykm=JFYZ)
 * [KDnuggets: Machine Learning, Data Science, Big Data, Analytics, AI](https://www.kdnuggets.com/)
-
-
 * General Information: [China Education and Research Network](http://www.edu.cn/), [School of Informatics Xiamen Universuty](https://information.xmu.edu.cn/)
 * Library: [厦门大学图书馆](https://library.xmu.edu.cn/)
 * Interesting Information: [Initium Media](https://theinitium.com/), [South China Morning Post](https://www.scmp.com/hk)
@@ -41,10 +38,5 @@ I am boardly interested in machine learning, data mining, and artificial intelli
 #### Selected Journals and Conferences
 * Journal-A: TKDE, TKDD, TCYB, TNNLS, PR, ML, Bioinformatics
 * Journal-B: KBS, PRL, Neurocomputing, FCS, TCBB, JBHI, BMC Bioinformatics
-
-
 * Conference-A: IJCAI (1), ICML (2), KDD (2), AAAI (9)
 * Conference-B: CIKM (5), ICDM (6), SDM (10), PRICAI (1), ACML (6), ICPR (7), PAKDD (11)
-
-#### Professional Activities
-* Journal Reviewer: [IEEE Transactions on Cybernetics](https://mc.manuscriptcentral.com/cyb-ieee), [IEEE Transactions on Neural Networks and Learning Systems](https://mc.manuscriptcentral.com/tnnls), [Pattern Recognition](https://www.journals.elsevier.com/pattern-recognition/), [Information Sciences](https://www.journals.elsevier.com/information-sciences), [Knowledge-Based Systems](https://www.journals.elsevier.com/knowledge-based-systems)
