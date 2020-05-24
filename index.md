@@ -13,30 +13,38 @@ I am currently working towards the Ph.D. degree in the Artificial Intelligence D
 
 ---
 
-#### Research Interests 
+#### Research Interests
 
 I am boardly interested in machine learning, data mining, and artificial intelligence. Now I am working on weak label learning, multi-view learning, feature selection, and some data mining applications in medicine, such as TCM health management, drug discovery, hospital readmission, and autism spectrum disorder.
 
-#### Selected Publications
+#### Publications and Citations by [Google Scholar](https://scholar.google.com.hk/citations?user=yBaTk-gAAAAJ&hl=en)
+#### Code and Data
+###### Selected Publications
 
-* *J. Zhang*, Y. Lin, M. Jiang, S. Li\*, Y. Tang, K. C. Tan. Multi-label feature selection via global relevance and redundancy optimization. In Proceedings of the 29th International Joint Conference on Artificial Intelligence (IJCAI’20), Yokohama, Japan, 2020. [[code](GRRO-master.zip)]
-* G. Du, *J. Zhang*, Z. Luo, F. Ma, L. Ma, S. Li. Joint imbalanced classification and feature selection for hospital readmissions. Knowledge-Based Systems, 2020, in press.
-* J. Liu, Y. Li, W. Weng, *J. Zhang*, B. Chen, S. Wu. Feature selection for multi-label learning with streaming label. Neurocomputing, 2020, 387: 268-278.
-* *J. Zhang*, Z. Luo, C. Li, C. Zhou, S. Li\*. Manifold regularized discriminative feature selection for multi-label learning. Pattern Recognition, 2019, 95: 136-150. [[code](MDFS-master.zip)]
-* *J. Zhang*, C. Li, Z. Sun, Z. Luo, C. Zhou, S. Li\*. Towards a unified multi-source-based optimization framework for multi-label learning. Applied Soft Computing, 2019, 76: 425-435.
-* Z. Sun, *J. Zhang*, L. Dai, C. Li, C. Zhou, J. Xin, S. Li. Mutual information based multi-label feature selection via constrained convex optimization. Neurocomputing, 2019, 329: 447-456. 
-* *J. Zhang*, C. Li, D. Cao, Y. Lin, S. Su, L. Dai, S. Li\*. Multi-label learning with label-specific features by resolving label correlations. Knowledge-Based Systems, 2018, 159: 148-157.
-* *J. Zhang*, C. Li, Y. Lin, Y. Shao, S. Li\*. Computational drug repositioning using collaborative filtering via multi-source fusion. Expert Systems with Applications, 2017, 84: 281-289.
-* J. Liu, Y. Lin, M. Lin, S. Wu, *J. Zhang*. Feature selection based on quality of information, Neurocomputing, 2017, 225: 11–22.
-* *J. Zhang*, Y. Lin\*, M. Lin, J. Liu. An effective collaborative filtering algorithm based on user preference clustering. Applied Intelligence, 2016, 45 (2): 230-240.
-* Y. Lin, Q. Hu, *J. Zhang*, X. Wu. Multi-label feature selection with streaming labels. Information Sciences, 2016, 372: 256-275.
+* **J. Zhang**, Y. Lin, M. Jiang, S. Li, Y. Tang, K. C. Tan. Multi-label feature selection via global relevance and redundancy optimization. In Proceedings of the 29th International Joint Conference on Artificial Intelligence (IJCAI’20), Yokohama, Japan, 2020. [[code](GRRO-master.zip)]
+* **J. Zhang**, Z. Luo, C. Li, C. Zhou, S. Li. Manifold regularized discriminative feature selection for multi-label learning. Pattern Recognition, 2019, 95: 136-150. [[pdf](MDFS-master.zip)] [[code](MDFS-master.zip)]
 
-#### Submitted Papers
+###### Data Sets
 
-* *J. Zhang*, S. Li, M. Jiang, K. C. Tan. Learning from weakly labeled data based on manifold regularized sparse model. IEEE Transactions on Cybernetics, 2020.
-* Z.-A. Huang, *J. Zhang*, Z. Zhu, E. Q. Wu, K. C. Tan. Identification of autistic risk candidate genes and toxic chemicals via multi-label learning. IEEE Transactions on Neural Networks and Learning Systems, 2020.
-* G. Du, *J. Zhang*, S. Li, C. Li. Learning from class-imbalanced and heterogeneous data for 30-day hospital readmission. Neurocomputing, 2020.
+* Multi-label data sets are available at the [KDIS](http://www.uco.es/kdis/mllresources/), [Lambda](http://www.lamda.nju.edu.cn/Data.ashx), and [Extreme Classification Repository](http://manikvarma.org/downloads/XC/XMLRepository.html).
+
+#### Web Page Link
+* Article Search International: [DBLP](https://dblp.uni-trier.de/db/)
+* Article Search Native: [软件学报](http://navi.cnki.net/knavi/JournalDetail?pcode=CJFD&pykm=RJXB), [计算机学报](http://navi.cnki.net/knavi/JournalDetail?pcode=CJFD&pykm=JSJX), [中国科学:信息科学](http://navi.cnki.net/knavi/JournalDetail?pcode=CJFD&pykm=PZKX), [计算机研究与发展](http://navi.cnki.net/knavi/JournalDetail?pcode=CJFD&pykm=JFYZ)
+* [KDnuggets: Machine Learning, Data Science, Big Data, Analytics, AI](https://www.kdnuggets.com/)
+
+
+* General Information: [China Education and Research Network](http://www.edu.cn/), [School of Informatics Xiamen Universuty](https://information.xmu.edu.cn/)
+* Library: [厦门大学图书馆](https://library.xmu.edu.cn/)
+* Interesting Information: [Initium Media](https://theinitium.com/), [South China Morning Post](https://www.scmp.com/hk)
+
+#### Selected Journals and Conferences
+* Journal-A: TKDE, TKDD, TCYB, TNNLS, PR, ML, Bioinformatics
+* Journal-B: KBS, PRL, Neurocomputing, FCS, TCBB, JBHI, BMC Bioinformatics
+
+
+* Conference-A: IJCAI (1), ICML (2), KDD (2), AAAI (9)
+* Conference-B: CIKM (5), ICDM (6), SDM (10), PRICAI (1), ACML (6), ICPR (7), PAKDD (11)
 
 #### Professional Activities
-
 * Journal Reviewer: [IEEE Transactions on Cybernetics](https://mc.manuscriptcentral.com/cyb-ieee), [IEEE Transactions on Neural Networks and Learning Systems](https://mc.manuscriptcentral.com/tnnls), [Pattern Recognition](https://www.journals.elsevier.com/pattern-recognition/), [Information Sciences](https://www.journals.elsevier.com/information-sciences), [Knowledge-Based Systems](https://www.journals.elsevier.com/knowledge-based-systems)
