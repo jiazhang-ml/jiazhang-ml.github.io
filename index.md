@@ -25,8 +25,7 @@ I am boardly interested in machine learning, data mining, and artificial intelli
 * [data] Multi-label data sets are available at the [KDIS](http://www.uco.es/kdis/mllresources/), [Lambda](http://www.lamda.nju.edu.cn/Data.ashx), and [Extreme Classification Repository](http://manikvarma.org/downloads/XC/XMLRepository.html).
 
 #### Web Page Link
-* Article Search International: [DBLP](https://dblp.uni-trier.de/db/)
-* Article Search Native: [软件学报](http://navi.cnki.net/knavi/JournalDetail?pcode=CJFD&pykm=RJXB), [计算机学报](http://navi.cnki.net/knavi/JournalDetail?pcode=CJFD&pykm=JSJX), [中国科学:信息科学](http://navi.cnki.net/knavi/JournalDetail?pcode=CJFD&pykm=PZKX), [计算机研究与发展](http://navi.cnki.net/knavi/JournalDetail?pcode=CJFD&pykm=JFYZ)
+* Article Search: International: [DBLP](https://dblp.uni-trier.de/db/); Native: [软件学报](http://navi.cnki.net/knavi/JournalDetail?pcode=CJFD&pykm=RJXB), [计算机学报](http://navi.cnki.net/knavi/JournalDetail?pcode=CJFD&pykm=JSJX), [中国科学:信息科学](http://navi.cnki.net/knavi/JournalDetail?pcode=CJFD&pykm=PZKX), [计算机研究与发展](http://navi.cnki.net/knavi/JournalDetail?pcode=CJFD&pykm=JFYZ)
 * [KDnuggets: Machine Learning, Data Science, Big Data, Analytics, AI](https://www.kdnuggets.com/)
 * General Information: [China Education and Research Network](http://www.edu.cn/), [School of Informatics Xiamen Universuty](https://information.xmu.edu.cn/)
 * Library: [厦门大学图书馆](https://library.xmu.edu.cn/)
@@ -34,9 +33,3 @@ I am boardly interested in machine learning, data mining, and artificial intelli
 
 #### Professional Activities
 * Journal Reviewer: [IEEE Transactions on Cybernetics](https://mc.manuscriptcentral.com/cyb-ieee), [IEEE Transactions on Neural Networks and Learning Systems](https://mc.manuscriptcentral.com/tnnls), [Pattern Recognition](https://www.journals.elsevier.com/pattern-recognition/), [Information Sciences](https://www.journals.elsevier.com/information-sciences), [Knowledge-Based Systems](https://www.journals.elsevier.com/knowledge-based-systems)
-
-#### Selected Journals and Conferences
-* Journal-A: TKDE, TKDD, TCYB, TNNLS, PR, ML, Bioinformatics
-* Journal-B: KBS, PRL, Neurocomputing, FCS, TCBB, JBHI, BMC Bioinformatics
-* Conference-A: IJCAI (1), ICML (2), KDD (2), AAAI (9)
-* Conference-B: CIKM (5), ICDM (6), SDM (10), PRICAI (1), ACML (6), ICPR (7), PAKDD (11)
