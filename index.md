@@ -29,7 +29,7 @@ I am boardly interested in machine learning, data mining, and artificial intelli
 * Article Search Native: [软件学报](http://navi.cnki.net/knavi/JournalDetail?pcode=CJFD&pykm=RJXB), [计算机学报](http://navi.cnki.net/knavi/JournalDetail?pcode=CJFD&pykm=JSJX), [中国科学:信息科学](http://navi.cnki.net/knavi/JournalDetail?pcode=CJFD&pykm=PZKX), [计算机研究与发展](http://navi.cnki.net/knavi/JournalDetail?pcode=CJFD&pykm=JFYZ)
 * [KDnuggets: Machine Learning, Data Science, Big Data, Analytics, AI](https://www.kdnuggets.com/)
 * General Information: [China Education and Research Network](http://www.edu.cn/), [School of Informatics Xiamen Universuty](https://information.xmu.edu.cn/), [厦门大学图书馆](https://library.xmu.edu.cn/)
-* Interesting Information: [Initium Media](https://theinitium.com/), [South China Morning Post](https://www.scmp.com/hk)
+* News: [Initium Media](https://theinitium.com/), [South China Morning Post](https://www.scmp.com/hk)
 
 #### Professional Activities
 * Journal Reviewer: [IEEE Transactions on Cybernetics](https://mc.manuscriptcentral.com/cyb-ieee), [IEEE Transactions on Neural Networks and Learning Systems](https://mc.manuscriptcentral.com/tnnls), [Pattern Recognition](https://www.journals.elsevier.com/pattern-recognition/), [Information Sciences](https://www.journals.elsevier.com/information-sciences), [Knowledge-Based Systems](https://www.journals.elsevier.com/knowledge-based-systems)
