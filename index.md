@@ -26,7 +26,7 @@ I am boardly interested in machine learning, data mining, and artificial intelli
 #### Web Page Link
 * [KDnuggets: Machine Learning, Data Science, Big Data, Analytics, AI](https://www.kdnuggets.com/)
 * List of International Publications at [DBLP](https://dblp.uni-trier.de/db/). Some Links of Native Publications: [软件学报](http://navi.cnki.net/knavi/JournalDetail?pcode=CJFD&pykm=RJXB), [计算机学报](http://navi.cnki.net/knavi/JournalDetail?pcode=CJFD&pykm=JSJX), [中国科学:信息科学](http://navi.cnki.net/knavi/JournalDetail?pcode=CJFD&pykm=PZKX), [计算机研究与发展](http://navi.cnki.net/knavi/JournalDetail?pcode=CJFD&pykm=JFYZ)
-* [CCF](https://www.ccf.org.cn/Academic_Evaluation/By_category/) provides a public CS jour./conf. ranking list for reference purpose.
+* For reference purpose, CCF provides a public CS jour./conf. ranking list. [Link](https://www.ccf.org.cn/Academic_Evaluation/By_category/)
 
 #### Professional Activities
 * Journal Reviewer: [IEEE Transactions on Cybernetics](https://mc.manuscriptcentral.com/cyb-ieee), [IEEE Transactions on Neural Networks and Learning Systems](https://mc.manuscriptcentral.com/tnnls), [Pattern Recognition](https://www.journals.elsevier.com/pattern-recognition/), [Information Sciences](https://www.journals.elsevier.com/information-sciences), [Knowledge-Based Systems](https://www.journals.elsevier.com/knowledge-based-systems)
