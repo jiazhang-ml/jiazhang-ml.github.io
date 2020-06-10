@@ -3,7 +3,7 @@
 layout: default 
 ---
 
-<img class="profile-picture" src="jiazhang.jpg">
+<img class="profile-picture" src="1.jpg">
 
 I am currently working towards the Ph.D. degree in the Artificial Intelligence Department of [Xiamen University](https://www.xmu.edu.cn/), supervised by Prof. [Shaozi Li](http://imt.xmu.edu.cn/szdw.html). During the period of doctoral study, I visited [Kay Chen Tan](http://www.cityu.edu.hk/stfprofile/kaytan.htm)'s group in the [City University of Hong Kong](https://www.cityu.edu.hk/) for three months.
 
