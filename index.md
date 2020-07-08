@@ -15,7 +15,7 @@ I am currently working towards the Ph.D. degree in the Artificial Intelligence D
 
 #### Research Interests
 
-I am boardly interested in machine learning, data mining, and artificial intelligence. Now I am working on weak label learning, multi-view learning, feature selection, and some data mining applications in medicine, such as TCM health management, drug discovery, hospital readmission, and autism spectrum disorder.
+I am broadly interested in machine learning, data mining, and artificial intelligence. Now I am working on weak label learning, multi-view learning, feature selection, and some data mining applications in medicine, such as TCM health management, drug discovery, hospital readmission, and autism spectrum disorder.
 
 #### Publications and Citations by [Google Scholar](https://scholar.google.com.hk/citations?user=yBaTk-gAAAAJ&hl=en)
 #### Code and Data
