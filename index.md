@@ -5,7 +5,7 @@ layout: default
 
 <img class="profile-picture" src="1.jpg">
 
-I am currently working towards the Ph.D. degree in the Artificial Intelligence Department of [Xiamen University](https://www.xmu.edu.cn/), supervised by Prof. [Shaozi Li](http://imt.xmu.edu.cn/szdw.html). During the period of doctoral study, I visited [Kay Chen Tan](http://www.cityu.edu.hk/stfprofile/kaytan.htm)'s group in the [City University of Hong Kong](https://www.cityu.edu.hk/) for three months.
+I received the Ph.D. degree in the Artificial Intelligence Department of [Xiamen University](https://www.xmu.edu.cn/), supervised by Prof. [Shaozi Li](http://imt.xmu.edu.cn/szdw.html). During the period of doctoral study, I visited [Kay Chen Tan](http://www.cityu.edu.hk/stfprofile/kaytan.htm)'s group in the [City University of Hong Kong](https://www.cityu.edu.hk/) for three months.
 
 **Email**: [zhangjia_gl@163.com](mailto:zhangjia_gl@163.com) or [j.zhang@stu.xmu.edu.cn](mailto:j.zhang@stu.xmu.edu.cn)
 
@@ -15,7 +15,7 @@ I am currently working towards the Ph.D. degree in the Artificial Intelligence D
 
 #### Research Interests
 
-I am broadly interested in machine learning, data mining, and artificial intelligence. Now I am working on weak label learning, multi-view learning, feature selection, and some data mining applications in medicine, such as TCM health management, drug discovery, hospital readmission, and autism spectrum disorder.
+I am broadly interested in machine learning, data mining, and artificial intelligence. Now I am working on weak label learning, data fusion, feature selection, knowledge graph, and some AI applications in medicine, such as TCM health management, drug discovery, hospital readmission, and autism spectrum disorder.
 
 #### Publications and Citations by [Google Scholar](https://scholar.google.com.hk/citations?user=yBaTk-gAAAAJ&hl=en)
 #### Code and Data
