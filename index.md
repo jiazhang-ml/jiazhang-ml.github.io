@@ -5,7 +5,7 @@ layout: default
 
 <img class="profile-picture" src="1.jpg">
 
-####**Jia Zhang (张佳)**: Ph.D., Artificial Intelligence Department, [Xiamen University](https://www.xmu.edu.cn/)
+#### **Jia Zhang (张佳)**: Ph.D., Artificial Intelligence Department, [Xiamen University](https://www.xmu.edu.cn/)
 
 **Email**: [zhangjia_gl@163.com](mailto:zhangjia_gl@163.com) 
 
