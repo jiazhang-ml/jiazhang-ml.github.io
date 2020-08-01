@@ -35,7 +35,7 @@ I received the Ph.D. degree from the Artificial Intelligence Department, [Xiamen
     * [Knowledge-Based Systems (KBS)](https://www.journals.elsevier.com/knowledge-based-systems) (2019-)
     
 #### Web Page Link
+* [data] Multi-label data sets are available at the [KDIS](http://www.uco.es/kdis/mllresources/), [Lambda](http://www.lamda.nju.edu.cn/files/MDDM-expdata.rar), and [Extreme Classification Repository](http://manikvarma.org/downloads/XC/XMLRepository.html).
 * [KDnuggets: Machine Learning, Data Science, Big Data, Analytics, AI](https://www.kdnuggets.com/)
 * List of International Publications at [DBLP](https://dblp.uni-trier.de/db/). Some Links of Native Publications: [软件学报](http://navi.cnki.net/knavi/JournalDetail?pcode=CJFD&pykm=RJXB), [计算机学报](http://navi.cnki.net/knavi/JournalDetail?pcode=CJFD&pykm=JSJX), [中国科学:信息科学](http://navi.cnki.net/knavi/JournalDetail?pcode=CJFD&pykm=PZKX), [计算机研究与发展](http://navi.cnki.net/knavi/JournalDetail?pcode=CJFD&pykm=JFYZ)
 * For reference purpose, CCF provides a public CS jour./conf. ranking list. [[link](https://www.ccf.org.cn/Academic_Evaluation/By_category/)]
-* [data] Multi-label data sets are available at the [KDIS](http://www.uco.es/kdis/mllresources/), [Lambda](http://www.lamda.nju.edu.cn/files/MDDM-expdata.rar), and [Extreme Classification Repository](http://manikvarma.org/downloads/XC/XMLRepository.html).
