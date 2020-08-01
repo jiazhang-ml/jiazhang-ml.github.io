@@ -15,7 +15,11 @@ I received the Ph.D. degree from the Artificial Intelligence Department, [Xiamen
 
 #### Research Interests
 
-* I am broadly interested in machine learning, data mining, and artificial intelligence. Now I am working on weak label learning, data fusion, feature selection, knowledge graph, and some AI applications in medicine, such as TCM health management, drug discovery, hospital readmission, and autism spectrum disorder.
+* Complexity Exploitation of Multi-label Data Computation and Its Algorithm
+* Data Fusion: Truth Discovery, Multi-view Learning
+* Feature Selection
+* Knowledge Graph
+* AI Applications in Medicine: TCM Health Management, Drug Discovery, Hospital Readmission, and Autism Spectrum Disorder.
 
 ---
 
