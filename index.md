@@ -23,7 +23,7 @@ I am broadly interested in machine learning, data mining, and artificial intelli
 
 ---
 
-#### Selected Publications [[Google Scholar Citation](https://scholar.google.com/citations?user=yBaTk-gAAAAJ&hl=en)]
+#### Selected Publications [[Google Scholar Citations](https://scholar.google.com/citations?user=yBaTk-gAAAAJ&hl=en)]
 * <u>J. Zhang</u>, Y. Lin, M. Jiang, S. Li, Y. Tang, K. C. Tan. [Multi-label feature selection via global relevance and redundancy optimization](0348.pdf). **In Proceedings of the 29th International Joint Conference on Artificial Intelligence (IJCAI’20)**, Yokohama, Japan, 2020, pp. 2512–2518. [[code](GRRO-master.zip)]
 * <u>J. Zhang</u>, Z. Luo, C. Li, C. Zhou, S. Li. [Manifold regularized discriminative feature selection for multi-label learning](1-s2.0-S0031320319302341-main.pdf). **Pattern Recognition**, 2019, 95: 136-150. [[code](MDFS-master.zip)]
 * <u>J. Zhang</u>, C. Li, Z. Sun, Z. Luo, C. Zhou, S. Li. [Towards a unified multi-source-based optimization framework for multi-label learning](1-s2.0-S1568494618307051-main.pdf). **Applied Soft Computing**, 2019, 76: 425-435.
