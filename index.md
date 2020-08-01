@@ -34,13 +34,7 @@ I am broadly interested in machine learning, data mining, and artificial intelli
 ---
 
 #### Professional Activities
-* Journal Reviewer: 
-    * [IEEE Transactions on Cybernetics (TCYB)](https://mc.manuscriptcentral.com/cyb-ieee) (2020-)
-    * [Applied Intelligence (APIN)](https://www.editorialmanager.com/apin/Default.aspx) (2020-)
-    * [IEEE Transactions on Neural Networks and Learning Systems (TNNLS)](https://mc.manuscriptcentral.com/tnnls) (2019-)
-    * [Pattern Recognition (PR)](https://www.journals.elsevier.com/pattern-recognition/) (2019-)
-    * [Information Sciences (INS)](https://www.journals.elsevier.com/information-sciences) (2019-)
-    * [Knowledge-Based Systems (KBS)](https://www.journals.elsevier.com/knowledge-based-systems) (2019-)
+* Journal Reviewer: [IEEE Transactions on Cybernetics](https://mc.manuscriptcentral.com/cyb-ieee), [IEEE Transactions on Neural Networks and Learning Systems](https://mc.manuscriptcentral.com/tnnls), [Pattern Recognition](https://www.journals.elsevier.com/pattern-recognition/), [Information Sciences](https://www.journals.elsevier.com/information-sciences), [Knowledge-Based Systems](https://www.journals.elsevier.com/knowledge-based-systems), [Applied Intelligence](https://www.editorialmanager.com/apin/Default.aspx) 
 
 ---
 
