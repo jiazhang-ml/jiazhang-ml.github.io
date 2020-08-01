@@ -25,18 +25,17 @@ I received the Ph.D. degree from the Artificial Intelligence Department, [Xiamen
 * <u>J. Zhang</u>, C. Li, Y. Lin, Y. Shao, S. Li. Computational drug repositioning using collaborative filtering via multi-source fusion. **Expert Systems with Applications**, 2017, 84: 281-289. [[pdf](1-s2.0-S0957417417303202-main.pdf)]
 * <u>J. Zhang</u>, Y. Lin, M. Lin, J. Liu. An effective collaborative filtering algorithm based on user preference clustering. **Applied Intelligence**, 2016, 45 (2): 230-240. [[pdf](10.1007_s10489-015-0756-9.pdf)]
 
+#### Professional Activities
+* Journal Reviewer: 
+    * [IEEE Transactions on Cybernetics (TCYB)](https://mc.manuscriptcentral.com/cyb-ieee) (2020-)
+    * [Applied Intelligence (APIN)](https://www.editorialmanager.com/apin/Default.aspx) (2020-)
+    * [IEEE Transactions on Neural Networks and Learning Systems (TNNLS)](https://mc.manuscriptcentral.com/tnnls) (2019-)
+    * [Pattern Recognition (PR)](https://www.journals.elsevier.com/pattern-recognition/) (2019-)
+    * [Information Sciences (INS)](https://www.journals.elsevier.com/information-sciences) (2019-)
+    * [Knowledge-Based Systems (KBS)](https://www.journals.elsevier.com/knowledge-based-systems) (2019-)
+    
 #### Web Page Link
 * [KDnuggets: Machine Learning, Data Science, Big Data, Analytics, AI](https://www.kdnuggets.com/)
-* Library: [XMU Knowledge Resource Portal](https://library.xmu.edu.cn/)
 * List of International Publications at [DBLP](https://dblp.uni-trier.de/db/). Some Links of Native Publications: [软件学报](http://navi.cnki.net/knavi/JournalDetail?pcode=CJFD&pykm=RJXB), [计算机学报](http://navi.cnki.net/knavi/JournalDetail?pcode=CJFD&pykm=JSJX), [中国科学:信息科学](http://navi.cnki.net/knavi/JournalDetail?pcode=CJFD&pykm=PZKX), [计算机研究与发展](http://navi.cnki.net/knavi/JournalDetail?pcode=CJFD&pykm=JFYZ)
 * For reference purpose, CCF provides a public CS jour./conf. ranking list. [[link](https://www.ccf.org.cn/Academic_Evaluation/By_category/)]
 * [data] Multi-label data sets are available at the [KDIS](http://www.uco.es/kdis/mllresources/), [Lambda](http://www.lamda.nju.edu.cn/files/MDDM-expdata.rar), and [Extreme Classification Repository](http://manikvarma.org/downloads/XC/XMLRepository.html).
-
-#### Professional Activities
-* Journal Reviewer: 
-    * [IEEE Transactions on Cybernetics](https://mc.manuscriptcentral.com/cyb-ieee) 
-    * [IEEE Transactions on Neural Networks and Learning Systems](https://mc.manuscriptcentral.com/tnnls)
-    * [Pattern Recognition](https://www.journals.elsevier.com/pattern-recognition/)
-    * [Information Sciences](https://www.journals.elsevier.com/information-sciences)
-    * [Knowledge-Based Systems](https://www.journals.elsevier.com/knowledge-based-systems)
-    * [Applied Intelligence](https://www.editorialmanager.com/apin/Default.aspx)
