@@ -17,7 +17,6 @@ I received the Ph.D. degree from the Artificial Intelligence Department, [Xiamen
 
 * Complexity Exploitation of Multi-label Data Computation and Its Algorithm
 * Data Fusion: Truth Discovery, Multi-view Learning
-* Feature Selection
 * Knowledge Graph
 * AI Applications in Medicine: TCM Health Management, Drug Discovery, Hospital Readmission, and Autism Spectrum Disorder.
 
