@@ -33,4 +33,10 @@ I received the Ph.D. degree from the Artificial Intelligence Department, [Xiamen
 * [data] Multi-label data sets are available at the [KDIS](http://www.uco.es/kdis/mllresources/), [Lambda](http://www.lamda.nju.edu.cn/files/MDDM-expdata.rar), and [Extreme Classification Repository](http://manikvarma.org/downloads/XC/XMLRepository.html).
 
 #### Professional Activities
-* Journal Reviewer: [IEEE Transactions on Cybernetics](https://mc.manuscriptcentral.com/cyb-ieee), [IEEE Transactions on Neural Networks and Learning Systems](https://mc.manuscriptcentral.com/tnnls), [Pattern Recognition](https://www.journals.elsevier.com/pattern-recognition/), [Information Sciences](https://www.journals.elsevier.com/information-sciences), [Knowledge-Based Systems](https://www.journals.elsevier.com/knowledge-based-systems), [Applied Intelligence](https://www.editorialmanager.com/apin/Default.aspx)
+* Journal Reviewer: 
+[IEEE Transactions on Cybernetics](https://mc.manuscriptcentral.com/cyb-ieee) 
+[IEEE Transactions on Neural Networks and Learning Systems](https://mc.manuscriptcentral.com/tnnls)
+[Pattern Recognition](https://www.journals.elsevier.com/pattern-recognition/)
+[Information Sciences](https://www.journals.elsevier.com/information-sciences)
+[Knowledge-Based Systems](https://www.journals.elsevier.com/knowledge-based-systems)
+[Applied Intelligence](https://www.editorialmanager.com/apin/Default.aspx)
