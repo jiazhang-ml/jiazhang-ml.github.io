@@ -5,7 +5,7 @@ layout: default
 
 <img class="profile-picture" src="1.jpg">
 
-I received the Ph.D. degree from the Artificial Intelligence Department, [Xiamen University](https://www.xmu.edu.cn/), Xiamen, China, in 2020, under the supervision of Prof. [Shaozi Li](http://imt.xmu.edu.cn/szdw.html). In 2019, I visited [Kay Chen Tan](http://www.cityu.edu.hk/stfprofile/kaytan.htm)'s group in the [City University of Hong Kong](https://www.cityu.edu.hk/) for three months.
+I received the Ph.D. degree from the Artificial Intelligence Department, [Xiamen University](https://www.xmu.edu.cn/), Xiamen, China, in 2020, under the supervision of Prof. [Shaozi Li](http://imt.xmu.edu.cn/szdw.html). In 2019, I visited [Kay Chen Tan](http://www.cityu.edu.hk/stfprofile/kaytan.htm)'s group in the [City University of Hong Kong](https://www.cityu.edu.hk/) for three months. [CV](resume.pdf)
 
 **Email**: [zhangjia_gl@163.com](mailto:zhangjia_gl@163.com) 
 
