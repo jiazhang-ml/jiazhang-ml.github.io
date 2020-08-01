@@ -17,17 +17,20 @@ I received the Ph.D. degree from the Artificial Intelligence Department, [Xiamen
 
 * I am broadly interested in machine learning, data mining, and artificial intelligence. Now I am working on weak label learning, data fusion, feature selection, knowledge graph, and some AI applications in medicine, such as TCM health management, drug discovery, hospital readmission, and autism spectrum disorder.
 
-#### Publications and Citations by [Google Scholar](https://scholar.google.com.hk/citations?user=yBaTk-gAAAAJ&hl=en)
-#### Code and Data
-* [code] <u>J. Zhang</u>, Y. Lin, M. Jiang, S. Li, Y. Tang, K. C. Tan. Multi-label feature selection via global relevance and redundancy optimization. **In Proceedings of the 29th International Joint Conference on Artificial Intelligence (IJCAI’20)**, Yokohama, Japan, 2020, pp. 2512–2518. [[pdf](0348.pdf)] [[code](GRRO-master.zip)]
-* [code] <u>J. Zhang</u>, Z. Luo, C. Li, C. Zhou, S. Li. Manifold regularized discriminative feature selection for multi-label learning. **Pattern Recognition**, 2019, 95: 136-150. [[pdf](1-s2.0-S0031320319302341-main.pdf)] [[code](MDFS-master.zip)]
-* [data] Multi-label data sets are available at the [KDIS](http://www.uco.es/kdis/mllresources/), [Lambda](http://www.lamda.nju.edu.cn/files/MDDM-expdata.rar), and [Extreme Classification Repository](http://manikvarma.org/downloads/XC/XMLRepository.html).
+#### Selected Publications 
+* <u>J. Zhang</u>, Y. Lin, M. Jiang, S. Li, Y. Tang, K. C. Tan. Multi-label feature selection via global relevance and redundancy optimization. **In Proceedings of the 29th International Joint Conference on Artificial Intelligence (IJCAI’20)**, Yokohama, Japan, 2020, pp. 2512–2518. [[pdf](0348.pdf)] [[code](GRRO-master.zip)]
+* <u>J. Zhang</u>, Z. Luo, C. Li, C. Zhou, S. Li. Manifold regularized discriminative feature selection for multi-label learning. **Pattern Recognition**, 2019, 95: 136-150. [[pdf](1-s2.0-S0031320319302341-main.pdf)] [[code](MDFS-master.zip)]
+* <u>J. Zhang</u>, C. Li, Z. Sun, Z. Luo, C. Zhou, S. Li. Towards a unified multi-source-based optimization framework for multi-label learning. **Applied Soft Computing**, 2019, 76: 425-435.
+* <u>J. Zhang</u>, C. Li, D. Cao, Y. Lin, S. Su, L. Dai, S. Li. Multi-label learning with label-specific features by resolving label correlations. **Knowledge-Based Systems**, 2018, 159: 148-157. 
+* <u>J. Zhang</u>, C. Li, Y. Lin, Y. Shao, S. Li. Computational drug repositioning using collaborative filtering via multi-source fusion. **Expert Systems with Applications**, 2017, 84: 281-289.
+* <u>J. Zhang</u>, Y. Lin, M. Lin, J. Liu. An effective collaborative filtering algorithm based on user preference clustering. **Applied Intelligence**, 2016, 45 (2): 230-240.
 
 #### Web Page Link
 * [KDnuggets: Machine Learning, Data Science, Big Data, Analytics, AI](https://www.kdnuggets.com/)
 * Library: [XMU Knowledge Resource Portal](https://library.xmu.edu.cn/)
 * List of International Publications at [DBLP](https://dblp.uni-trier.de/db/). Some Links of Native Publications: [软件学报](http://navi.cnki.net/knavi/JournalDetail?pcode=CJFD&pykm=RJXB), [计算机学报](http://navi.cnki.net/knavi/JournalDetail?pcode=CJFD&pykm=JSJX), [中国科学:信息科学](http://navi.cnki.net/knavi/JournalDetail?pcode=CJFD&pykm=PZKX), [计算机研究与发展](http://navi.cnki.net/knavi/JournalDetail?pcode=CJFD&pykm=JFYZ)
 * For reference purpose, CCF provides a public CS jour./conf. ranking list. [[link](https://www.ccf.org.cn/Academic_Evaluation/By_category/)]
+* [data] Multi-label data sets are available at the [KDIS](http://www.uco.es/kdis/mllresources/), [Lambda](http://www.lamda.nju.edu.cn/files/MDDM-expdata.rar), and [Extreme Classification Repository](http://manikvarma.org/downloads/XC/XMLRepository.html).
 
 #### Professional Activities
 * Journal Reviewer: [IEEE Transactions on Cybernetics](https://mc.manuscriptcentral.com/cyb-ieee), [IEEE Transactions on Neural Networks and Learning Systems](https://mc.manuscriptcentral.com/tnnls), [Pattern Recognition](https://www.journals.elsevier.com/pattern-recognition/), [Information Sciences](https://www.journals.elsevier.com/information-sciences), [Knowledge-Based Systems](https://www.journals.elsevier.com/knowledge-based-systems), [Applied Intelligence](https://www.editorialmanager.com/apin/Default.aspx)
