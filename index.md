@@ -20,7 +20,7 @@ I am broadly interested in machine learning, data mining, and artificial intelli
 * Classification: multi-label learning, weakly supervised learning, class-imbalance learning
 * Feature selection and sparse learning 
 * AI applications in medicine like TCM health management, drug discovery, hospital readmission, and autism spectrum disorder
-* Others: Data fusion, graph knowledge, collaborative filtering...
+* Others: data fusion, graph knowledge, collaborative filtering...
 
 ---
 
@@ -35,5 +35,5 @@ I am broadly interested in machine learning, data mining, and artificial intelli
 ---
 
 #### Professional Activities
-* Journal Reviewer: [IEEE Transactions on Cybernetics](https://mc.manuscriptcentral.com/cyb-ieee), [IEEE Transactions on Neural Networks and Learning Systems](https://mc.manuscriptcentral.com/tnnls), [Pattern Recognition](https://www.journals.elsevier.com/pattern-recognition/), [Information Sciences](https://www.journals.elsevier.com/information-sciences), [Knowledge-Based Systems](https://www.journals.elsevier.com/knowledge-based-systems), [Applied Intelligence](https://www.editorialmanager.com/apin/Default.aspx)
+* Journal Reviewer: [IEEE Transactions on Cybernetics](https://mc.manuscriptcentral.com/cyb-ieee), [Applied Intelligence](https://www.editorialmanager.com/apin/Default.aspx), [IEEE Transactions on Neural Networks and Learning Systems](https://mc.manuscriptcentral.com/tnnls), [Pattern Recognition](https://www.journals.elsevier.com/pattern-recognition/), [Information Sciences](https://www.journals.elsevier.com/information-sciences), [Knowledge-Based Systems](https://www.journals.elsevier.com/knowledge-based-systems)
     
