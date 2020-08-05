@@ -15,11 +15,12 @@ I received the Ph.D. degree from the Artificial Intelligence Department, [Xiamen
 
 #### Research Interests
 
-I am broadly interested in machine learning, data mining, and artificial intelligence. Now I am working on:
-* Complexity exploitation of multi-label data computation and its algorithm
-* Data fusion: Truth discovery, multi-view learning
-* Knowledge graph
-* AI applications in medicine: TCM health management, drug discovery, hospital readmission, autism spectrum disorder
+I am broadly interested in machine learning, data mining, and artificial intelligence. I am generally interested in design, analysis, and implementation of algorithms for scientific computing problems. Now I am working on:
+
+* Classification: multi-label learning, weakly supervised learning, class-imbalance learning
+* Feature selection and sparse learning 
+* AI applications in medicine like TCM health management, drug discovery, hospital readmission, and autism spectrum disorder
+* Others: Data fusion, graph knowledge, collaborative filtering...
 
 ---
 
@@ -33,20 +34,6 @@ I am broadly interested in machine learning, data mining, and artificial intelli
 
 ---
 
-#### Web Page Link
-* [data] Multi-label data sets are available at the [KDIS](http://www.uco.es/kdis/mllresources/), [Lambda](http://www.lamda.nju.edu.cn/files/MDDM-expdata.rar), and [Extreme Classification Repository](http://manikvarma.org/downloads/XC/XMLRepository.html).
-* [KDnuggets: Machine Learning, Data Science, Big Data, Analytics, AI](https://www.kdnuggets.com/)
-* List of International Publications at [DBLP](https://dblp.uni-trier.de/db/). Some Links of Native Publications: [软件学报](http://navi.cnki.net/knavi/JournalDetail?pcode=CJFD&pykm=RJXB), [计算机学报](http://navi.cnki.net/knavi/JournalDetail?pcode=CJFD&pykm=JSJX), [中国科学:信息科学](http://navi.cnki.net/knavi/JournalDetail?pcode=CJFD&pykm=PZKX), [计算机研究与发展](http://navi.cnki.net/knavi/JournalDetail?pcode=CJFD&pykm=JFYZ)
-* For reference purpose, CCF provides a public CS jour./conf. ranking list. [[link](https://www.ccf.org.cn/Academic_Evaluation/By_category/)]
-
----
-
 #### Professional Activities
-* Journal:
-    * Reviewer for [IEEE Transactions on Cybernetics (TCYB)](https://mc.manuscriptcentral.com/cyb-ieee)
-    * Reviewer for [Applied Intelligence (APIN)](https://www.editorialmanager.com/apin/Default.aspx) 
-    * Reviewer for [IEEE Transactions on Neural Networks and Learning Systems (TNNLS)](https://mc.manuscriptcentral.com/tnnls) 
-    * Reviewer for [Pattern Recognition (PR)](https://www.journals.elsevier.com/pattern-recognition/) 
-    * Reviewer for [Information Sciences (INS)](https://www.journals.elsevier.com/information-sciences) 
-    * Reviewer for [Knowledge-Based Systems (KBS)](https://www.journals.elsevier.com/knowledge-based-systems)
+* Journal Reviewer: [IEEE Transactions on Cybernetics](https://mc.manuscriptcentral.com/cyb-ieee), [IEEE Transactions on Neural Networks and Learning Systems](https://mc.manuscriptcentral.com/tnnls), [Pattern Recognition](https://www.journals.elsevier.com/pattern-recognition/), [Information Sciences](https://www.journals.elsevier.com/information-sciences), [Knowledge-Based Systems](https://www.journals.elsevier.com/knowledge-based-systems), [Applied Intelligence](https://www.editorialmanager.com/apin/Default.aspx)
     
