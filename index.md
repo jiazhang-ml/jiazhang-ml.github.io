@@ -45,3 +45,10 @@ I am broadly interested in machine learning, data mining, and artificial intelli
 
 #### Professional Activities
 * Journal Reviewer: [IEEE Transactions on Cybernetics](https://mc.manuscriptcentral.com/cyb-ieee), [Applied Intelligence](https://www.editorialmanager.com/apin/Default.aspx), [IEEE Transactions on Neural Networks and Learning Systems](https://mc.manuscriptcentral.com/tnnls), [Pattern Recognition](https://www.journals.elsevier.com/pattern-recognition/), [Information Sciences](https://www.journals.elsevier.com/information-sciences), [Knowledge-Based Systems](https://www.journals.elsevier.com/knowledge-based-systems)
+
+---
+
+#### Web Page Link
+* [KDnuggets: Machine Learning, Data Science, Big Data, Analytics, AI](https://www.kdnuggets.com/)
+* For reference purpose, CCF provides a public CS journal/conference ranking list [[link](https://www.ccf.org.cn/Academic_Evaluation/By_category/)]
+* Multi-label data sets are available at the [KDIS](http://www.uco.es/kdis/mllresources/), [Mulan Library](http://mulan.sourceforge.net/datasets.html), [Sourceforge Network](http://waikato.github.io/meka/datasets/), [Lambda](http://www.lamda.nju.edu.cn/files/MDDM-expdata.rar), and [Extreme Classification Repository](http://manikvarma.org/downloads/XC/XMLRepository.html)
