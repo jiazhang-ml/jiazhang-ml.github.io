@@ -49,7 +49,7 @@ I am broadly interested in machine learning, data mining, and artificial intelli
 ---
 
 #### Web Page Link
-* [KDnuggets: Machine Learning, Data Science, Big Data, Analytics, AI](https://www.kdnuggets.com/)
-* Multi-label data sets are available at the [KDIS](http://www.uco.es/kdis/mllresources/), [Mulan Library](http://mulan.sourceforge.net/datasets.html), [Sourceforge Network](http://waikato.github.io/meka/datasets/), [Lambda](http://www.lamda.nju.edu.cn/files/MDDM-expdata.rar), and [Extreme Classification Repository](http://manikvarma.org/downloads/XC/XMLRepository.html)
-* For reference purpose, CCF provides a public CS journal/conference ranking list [[link](https://www.ccf.org.cn/Academic_Evaluation/By_category/)]
+* [KDnuggets: Machine Learning, Data Science, Big Data, Analytics, AI](https://www.kdnuggets.com/).
+* Multi-label data sets are available at the [KDIS](http://www.uco.es/kdis/mllresources/), [Mulan Library](http://mulan.sourceforge.net/datasets.html), [Sourceforge Network](http://waikato.github.io/meka/datasets/), [Lambda](http://www.lamda.nju.edu.cn/files/MDDM-expdata.rar), and [Extreme Classification Repository](http://manikvarma.org/downloads/XC/XMLRepository.html).
+* For reference purpose, CCF provides a public CS journal/conference ranking list. [[link](https://www.ccf.org.cn/Academic_Evaluation/By_category/)]
 
