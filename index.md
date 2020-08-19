@@ -7,6 +7,10 @@ layout: default
 
 I received the Ph.D. degree from the Artificial Intelligence Department, [Xiamen University](https://www.xmu.edu.cn/), Xiamen, China, in 2020, under the supervision of Prof. [Shaozi Li](https://imt.xmu.edu.cn/szdw/js.htm), and received the M.S. degree from the School of Computer Science, Minnan Normal University, Zhangzhou, China, in 2016. During my doctoral study, I visited [Kay Chen Tan](http://www.cityu.edu.hk/stfprofile/kaytan.htm)'s group in the [City University of Hong Kong](https://www.cityu.edu.hk/) for three months. [[Curriculum Vitae](resume.pdf)]
 
+**Email**: [zhangjia_gl@163.com](mailto:zhangjia_gl@163.com) 
+
+**Mailing Address**: Room 304, Scientific Research Building, Haiyun Campus of Xiamen University, Xiamen 361005, P. R. China
+
 ---
 
 #### Research Interests
@@ -50,12 +54,3 @@ I am broadly interested in machine learning, data mining, and artificial intelli
 * [KDnuggets: Machine Learning, Data Science, Big Data, Analytics, AI](https://www.kdnuggets.com/)
 * For reference purpose, CCF provides a public CS journal/conference ranking list. [[link](https://www.ccf.org.cn/Academic_Evaluation/By_category/)]
 * [Resource] Multi-label data sets are available at the [KDIS](http://www.uco.es/kdis/mllresources/), [Mulan Library](http://mulan.sourceforge.net/datasets.html), [Sourceforge Network](http://waikato.github.io/meka/datasets/), [Lambda](http://www.lamda.nju.edu.cn/files/MDDM-expdata.rar), and [Extreme Classification Repository](http://manikvarma.org/downloads/XC/XMLRepository.html).
-
----
-
-#### Correspondence
-
-|Mail:  | Jia Zhang| Office: |Room 304, Scientific Research Building, Haiyun Campus of Xiamen University|
-| ------------- | ------------- | ------------- | ------------- |
-|   | **Artificial Intelligence Department of Xiamen University** | **URL:** |[https://jiazhang-ml.pub/](https://jiazhang-ml.pub/)|
-|   | **Xiamen 361005, Fujian, P. R. China** |**Email:** |[zhangjia_gl@163.com](mailto:zhangjia_gl@163.com) **or** [j.zhang@stu.xmu.edu.cn](mailto:j.zhang@stu.xmu.edu.cn)|
