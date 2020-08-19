@@ -61,4 +61,4 @@ I am broadly interested in machine learning, data mining, and artificial intelli
 |Mail:  | Jia Zhang| Office: Room 304, Scientific Research Building, Haiyun Campus of Xiamen University|
 | ------------- | ------------- | ------------- |
 |   | **Artificial Intelligence Department of Xiamen University** | **URL:** [https://jiazhang-ml.pub/](https://jiazhang-ml.pub/)|
-|   | **Xiamen 361005, Fujian, P. R. China** |**Email:** [zhangjia_gl@163.com](mailto:zhangjia_gl@163.com) or [j.zhang@stu.xmu.edu.cn](mailto:j.zhang@stu.xmu.edu.cn)|
+|   | **Xiamen 361005, Fujian, P. R. China** |**Email:** [zhangjia_gl@163.com](mailto:zhangjia_gl@163.com) **or** [j.zhang@stu.xmu.edu.cn](mailto:j.zhang@stu.xmu.edu.cn)|
