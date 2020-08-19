@@ -28,6 +28,7 @@ I am broadly interested in machine learning, data mining, and artificial intelli
 * L. Dai, G. Du, <u>J. Zhang</u>, C. Li, R. Wei, S. Li. Joint multi-label classification and feature selection based on deep canonical correlation analysis. **Concurrency and Computation: Practice and Experience**, 2020, in press. 
 * J. Liu, Y. Li, W. Weng, <u>J. Zhang</u>, B. Chen, S. Wu. Feature selection for multi-label learning with streaming label. **Neurocomputing**, 2020, 387: 268-278.
 * Y. Lin, J. Li, A. Tan, <u>J. Zhang</u>. Granular matrix-based knowledge reductions of formal fuzzy contexts. **International Journal of Machine Learning and Cybernetics**, 2020, 11 (3): 643–656.
+* Y. Lin, J. Li, S. Liao, <u>J. Zhang</u>, J. Liu. Reduction of fuzzy-crisp concept lattice based on order-class matrix. **Journal of Intelligent & Fuzzy Systems**, 2020, in press.
 * <u>J. Zhang</u>, Z. Luo, C. Li, C. Zhou, S. Li. [Manifold regularized discriminative feature selection for multi-label learning](1-s2.0-S0031320319302341-main.pdf). **Pattern Recognition**, 2019, 95: 136-150. [[code](MDFS-master.zip)]
 * <u>J. Zhang</u>, C. Li, Z. Sun, Z. Luo, C. Zhou, S. Li. [Towards a unified multi-source-based optimization framework for multi-label learning](1-s2.0-S1568494618307051-main.pdf). **Applied Soft Computing**, 2019, 76: 425-435.
 * Z. Sun, <u>J. Zhang</u>, L. Dai, C. Li, C. Zhou, J. Xin, S. Li. Mutual information based multi-label feature selection via constrained convex optimization. **Neurocomputing**, 2019, 329: 447-456.
