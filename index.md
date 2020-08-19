@@ -7,7 +7,7 @@ layout: default
 
 #### Brief Biography
 
-I received the Ph.D. degree from the Artificial Intelligence Department, [Xiamen University](https://www.xmu.edu.cn/), Xiamen, China, in 2020, under the supervision of Prof. [Shaozi Li](https://imt.xmu.edu.cn/szdw/js.htm), and received the M.S. degree from the School of Computer Science, Minnan Normal University, Zhangzhou, China, in 2016. During my doctoral study, I visited [Kay Chen Tan](http://www.cityu.edu.hk/stfprofile/kaytan.htm)'s group in the [City University of Hong Kong](https://www.cityu.edu.hk/) for three months. [[Curriculum Vitae](resume.pdf)]
+I received the Ph.D. degree from the Artificial Intelligence Department, [Xiamen University](https://www.xmu.edu.cn/), Xiamen, China, in 2020, under the supervision of Prof. [Shaozi Li](https://imt.xmu.edu.cn/szdw/js.htm), and received the M.S. degree from the School of Computer Science, Minnan Normal University, Zhangzhou, China, in 2016. During my doctoral study, I visited [Kay Chen Tan](http://www.cityu.edu.hk/stfprofile/kaytan.htm)'s group in the [City University of Hong Kong](https://www.cityu.edu.hk/) for three months. You can find my (possibly out-of-date) C.V. [here](resume.pdf).
 
 ---
 
@@ -55,7 +55,6 @@ I am broadly interested in machine learning, data mining, and artificial intelli
 ---
 
 #### Correspondence
-
 |Mail:  | Jia Zhang| Office: Room 304, Scientific Research Building, Haiyun Campus of Xiamen University|
 | ------------- | ------------- | ------------- |
 |   | **Artificial Intelligence Department of Xiamen University** | **URL:** [https://jiazhang-ml.pub/](https://jiazhang-ml.pub/)|
