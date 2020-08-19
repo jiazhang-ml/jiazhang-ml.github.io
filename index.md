@@ -54,7 +54,10 @@ I am broadly interested in machine learning, data mining, and artificial intelli
 * For reference purpose, CCF provides a public CS journal/conference ranking list. [[link](https://www.ccf.org.cn/Academic_Evaluation/By_category/)]
 * [Resource] Multi-label data sets are available at the [KDIS](http://www.uco.es/kdis/mllresources/), [Mulan Library](http://mulan.sourceforge.net/datasets.html), [Sourceforge Network](http://waikato.github.io/meka/datasets/), [Lambda](http://www.lamda.nju.edu.cn/files/MDDM-expdata.rar), and [Extreme Classification Repository](http://manikvarma.org/downloads/XC/XMLRepository.html).
 
-|**Mail**:  | Jia Zhang| **Office**: Room 304, Scientific Research Building, Haiyun Campus of Xiamen University|
+---
+
+#### Correspondence
+|Mail:  | Jia Zhang| Office: Room 304, Scientific Research Building, Haiyun Campus of Xiamen University|
 | ------------- | ------------- | ------------- |
-|   | Artificial Intelligence Department of Xiamen University | **URL**: https://jiazhang-ml.pub/|
-|   | Xiamen 361005, P. R. China |**Email**: zhangjia_gl@163.com or j.zhang@stu.xmu.edu.cn|
+|   | **Artificial Intelligence Department of Xiamen University** | **URL: https://jiazhang-ml.pub/**|
+|   | **Xiamen 361005, Fujian, P. R. China** |**Email: [zhangjia_gl@163.com](mailto:zhangjia_gl@163.com)  or [j.zhang@stu.xmu.edu.cn](mailto:j.zhang@stu.xmu.edu.cn) **|
