@@ -5,11 +5,9 @@ layout: default
 
 <img class="profile-picture" src="1.jpg">
 
-I received the Ph.D. degree from the Artificial Intelligence Department, [Xiamen University](https://www.xmu.edu.cn/), Xiamen, China, in 2020, under the supervision of Prof. [Shaozi Li](https://imt.xmu.edu.cn/szdw/js.htm). In 2019, I visited [Kay Chen Tan](http://www.cityu.edu.hk/stfprofile/kaytan.htm)'s group in the [City University of Hong Kong](https://www.cityu.edu.hk/) for three months. [[Curriculum Vitae](resume.pdf)]
+#### Brief Biography
 
-**Email**: [zhangjia_gl@163.com](mailto:zhangjia_gl@163.com) 
-
-**Mailing Address**: Room 304, Scientific Research Building, Haiyun Campus, Xiamen 361005, P. R. China
+I received the Ph.D. degree from the Artificial Intelligence Department, [Xiamen University](https://www.xmu.edu.cn/), Xiamen, China, in 2020, under the supervision of Prof. [Shaozi Li](https://imt.xmu.edu.cn/szdw/js.htm), and received the M.S. degree from the School of Computer Science, Minnan Normal University, Zhangzhou, China, in 2016. In 2019, I visited [Kay Chen Tan](http://www.cityu.edu.hk/stfprofile/kaytan.htm)'s group in the [City University of Hong Kong](https://www.cityu.edu.hk/) for three months. [[Curriculum Vitae](resume.pdf)]
 
 ---
 
