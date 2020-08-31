@@ -29,6 +29,7 @@ I am broadly interested in machine learning, data mining, and artificial intelli
 * <u>J. Zhang</u>, Y. Lin, M. Jiang, S. Li, Y. Tang, K. C. Tan. [Multi-label feature selection via global relevance and redundancy optimization](0348.pdf). **In Proceedings of the 29th International Joint Conference on Artificial Intelligence (IJCAI’20)**, Yokohama, Japan, 2020, pp. 2512–2518. [[code](GRRO-master.zip)]
 * Z.-A. Huang, <u>J. Zhang</u>, Z. Zhu, E. Wu, K. C. Tan. Identification of autistic risk candidate genes and toxic chemicals via multi-label learning. **IEEE Transactions on Neural Networks and Learning Systems**, 2020, in press.
 * G. Du, <u>J. Zhang</u>, Z. Luo, F. Ma, L. Ma, S. Li. Joint imbalanced classification and feature selection for hospital readmissions. **Knowledge-Based Systems**, 2020, 200: 106020.
+* G. Du, <u>J. Zhang</u>, S. Li, C. Li. Learning from class-imbalance and heterogeneous data for 30-day hospital readmission. **Neurocomputing**, 2020, in press.
 * L. Dai, G. Du, <u>J. Zhang</u>, C. Li, R. Wei, S. Li. Joint multi-label classification and feature selection based on deep canonical correlation analysis. **Concurrency and Computation: Practice and Experience**, 2020, in press. 
 * J. Liu, Y. Li, W. Weng, <u>J. Zhang</u>, B. Chen, S. Wu. Feature selection for multi-label learning with streaming label. **Neurocomputing**, 2020, 387: 268-278.
 * Y. Lin, J. Li, A. Tan, <u>J. Zhang</u>. Granular matrix-based knowledge reductions of formal fuzzy contexts. **International Journal of Machine Learning and Cybernetics**, 2020, 11 (3): 643–656.
