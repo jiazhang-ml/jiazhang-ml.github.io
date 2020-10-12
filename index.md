@@ -20,7 +20,7 @@ I am broadly interested in machine learning, data mining, and artificial intelli
 * Classification: multi-label learning, weakly supervised learning, class-imbalance learning
 * Feature selection and sparse learning 
 * AI applications in medicine like TCM health management, drug discovery, hospital readmission, and autism spectrum disorder
-* Others: data fusion, graph knowledge, collaborative filtering...
+* Others: data fusion, knowledge graph, recommendation systems...
 
 ---
 
@@ -54,4 +54,3 @@ I am broadly interested in machine learning, data mining, and artificial intelli
 #### Web Page Link
 * [KDnuggets: Machine Learning, Data Science, Big Data, Analytics, AI](https://www.kdnuggets.com/)
 * For reference purpose, CCF provides a public CS journal/conference ranking list. [[link](https://www.ccf.org.cn/Academic_Evaluation/By_category/)]
-* [Resource] Multi-label data sets are available at the [KDIS](http://www.uco.es/kdis/mllresources/), [Mulan Library](http://mulan.sourceforge.net/datasets.html), [Sourceforge Network](http://waikato.github.io/meka/datasets/), [Lambda](http://www.lamda.nju.edu.cn/files/MDDM-expdata.rar), and [Extreme Classification Repository](http://manikvarma.org/downloads/XC/XMLRepository.html).
