@@ -15,9 +15,5 @@ sass:
 
 nav:
 
-# - name: "Google Scholar"
-#   link: "https://scholar.google.com/citations?user=yBaTk-gAAAAJ&hl=en"
-# - name: "SCHOLAT"
-#   link: "http://www.scholat.com/jiazhang"
-# - name: "Curriculum Vitae"
-#   link: "resume.pdf"
+ - name: "Contact"
+   link: "contact.md"
