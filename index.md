@@ -11,6 +11,8 @@ I received the Ph.D. degree from the Artificial Intelligence Department, [Xiamen
 
 **Mailing Address**: Room 304, Scientific Research Building, Haiyun Campus of Xiamen University, Xiamen 361005, P. R. China
 
+<div itemscope itemtype="https://schema.org/Person"><a itemprop="sameAs" content="https://orcid.org/0000-0002-6079-2818" href="https://orcid.org/0000-0002-6079-2818" target="orcid.widget" rel="me noopener noreferrer" style="vertical-align:top;"><img src="https://orcid.org/sites/default/files/images/orcid_16x16.png" style="width:1em;margin-right:.5em;" alt="ORCID iD icon">https://orcid.org/0000-0002-6079-2818</a></div>
+
 ---
 
 #### Research Interests
