@@ -3,11 +3,11 @@ layout: default
 is_contact: true
 ---
 
-Email: [zhangjia_gl@163.com](mailto:zhangjia_gl@163.com)
+**Email**: [zhangjia_gl@163.com](mailto:zhangjia_gl@163.com)
 
 ---
 
-## Mailing Address
+#### Mailing Address
 
 >Artificial Intelligence Department
 >
