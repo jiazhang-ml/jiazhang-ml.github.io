@@ -7,7 +7,7 @@ layout: default
 
 I received the Ph.D. degree from the Artificial Intelligence Department, [Xiamen University](https://www.xmu.edu.cn/), Xiamen, China, in 2020, under the supervision of Prof. [Shaozi Li](https://imt.xmu.edu.cn/szdw/js.htm), and received the M.S. degree from the School of Computer Science, Minnan Normal University, Zhangzhou, China, in 2016, under the supervision of Prof. Menglei Lin and Prof. [Yaojin Lin](http://cs.mnnu.edu.cn/info/1070/1225.htm). In 2019, I visited [Kay Chen Tan](http://www.cityu.edu.hk/stfprofile/kaytan.htm)'s group in the [City University of Hong Kong](https://www.cityu.edu.hk/) for three months. [[Curriculum Vitae](resume.pdf)]
 
-**Research Interests**: I am broadly interested in machine learning, data mining, and artificial intelligence. I am generally interested in design, analysis, and implementation of algorithms for scientific computing problems. Now I am working on weak-label learning, feature selection, and some AI applications in medicine like TCM health management, drug discovery, hospital readmission, and autism spectrum disorder.
+**Research Interests**: I am broadly interested in machine learning and data mining. I am generally interested in design, analysis, and implementation of algorithms for scientific computing problems. Now I am working on weak-label learning, feature selection, and some AI applications in medicine like TCM health management, drug discovery, hospital readmission, and autism spectrum disorder.
 
 **Email**: [zhangjia_gl@163.com](mailto:zhangjia_gl@163.com) 
 
