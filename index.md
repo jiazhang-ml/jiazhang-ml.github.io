@@ -12,6 +12,7 @@ I received the Ph.D. degree from the Artificial Intelligence Department, [Xiamen
 **Mailing Address**: Room 304, Scientific Research Building, Haiyun Campus of Xiamen University, Xiamen 361005, P. R. China
 
 ---
+&nbsp;
 
 #### Research Interests
 
