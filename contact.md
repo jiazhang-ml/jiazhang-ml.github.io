@@ -3,16 +3,16 @@ layout: default
 is_contact: true
 ---
 
-Email: [zhangjia_gl@163.com](mailto:zhangjia_gl@163.com) or [j.zhang@stu.xmu.edu.cn](mailto:j.zhang@stu.xmu.edu.cn)
+Email: [zhangjia_gl@163.com](mailto:zhangjia_gl@163.com)
 
 ---
 
 ## Mailing Address
 
->Scientific Research Building, #304
+>Artificial Intelligence Department
 >
->Artificial Intelligence Department, School of Informatics,
+>School of Informatics
 >
->Xiamen University in Xiamen, Fujian
+>Haiyun Campus, Xiamen University
 >
->P. R. China, 361005 
+>Xiamen, China, 361005 
