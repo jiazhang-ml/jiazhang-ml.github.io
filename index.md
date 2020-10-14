@@ -5,13 +5,11 @@ layout: default
 
 <img class="profile-picture" src="1.jpg">
 
-I received the Ph.D. degree from the Artificial Intelligence Department, [Xiamen University](https://www.xmu.edu.cn/), Xiamen, China, in 2020, under the supervision of Prof. [Shaozi Li](https://imt.xmu.edu.cn/szdw/js.htm), and received the M.S. degree from the School of Computer Science, Minnan Normal University, Zhangzhou, China, in 2016. During my doctoral study, I visited [Kay Chen Tan](http://www.cityu.edu.hk/stfprofile/kaytan.htm)'s group in the [City University of Hong Kong](https://www.cityu.edu.hk/) for three months. [[Curriculum Vitae](resume.pdf)]
+I received the Ph.D. degree from the Artificial Intelligence Department, [Xiamen University](https://www.xmu.edu.cn/), Xiamen, China, in 2020, under the supervision of Prof. [Shaozi Li](https://imt.xmu.edu.cn/szdw/js.htm), and received the M.S. degree from the School of Computer Science, Minnan Normal University, Zhangzhou, China, in 2016, under the supervision of Prof. [Yaojin Lin](http://cs.mnnu.edu.cn/info/1070/1225.htm). In 2019, I visited [Kay Chen Tan](http://www.cityu.edu.hk/stfprofile/kaytan.htm)'s group in the [City University of Hong Kong](https://www.cityu.edu.hk/) for three months. [[Curriculum Vitae](resume.pdf)]
 
 **Email**: [zhangjia_gl@163.com](mailto:zhangjia_gl@163.com) 
 
 **Mailing Address**: Room 304, Scientific Research Building, Haiyun Campus of Xiamen University, Xiamen 361005, P. R. China
-
----
 
 #### Research Interests
 
@@ -41,7 +39,7 @@ I am broadly interested in machine learning, data mining, and artificial intelli
 ---
 
 #### Professional Activities
-* Journal Reviewer: [IEEE Transactions on Cybernetics](https://mc.manuscriptcentral.com/cyb-ieee), [Applied Intelligence](https://www.editorialmanager.com/apin/Default.aspx), [IEEE Transactions on Neural Networks and Learning Systems](https://mc.manuscriptcentral.com/tnnls), [Pattern Recognition](https://www.journals.elsevier.com/pattern-recognition/), [Information Sciences](https://www.journals.elsevier.com/information-sciences), [Knowledge-Based Systems](https://www.journals.elsevier.com/knowledge-based-systems)
+* Journal Reviewer: [IEEE Transactions on Cybernetics](https://mc.manuscriptcentral.com/cyb-ieee), [IEEE Transactions on Neural Networks and Learning Systems](https://mc.manuscriptcentral.com/tnnls), [Pattern Recognition](https://www.journals.elsevier.com/pattern-recognition/), [Information Sciences](https://www.journals.elsevier.com/information-sciences), [Knowledge-Based Systems](https://www.journals.elsevier.com/knowledge-based-systems), [Applied Intelligence](https://www.editorialmanager.com/apin/Default.aspx), [PLOS ONE](https://www.editorialmanager.com/pone/default.aspx)
 
 ---
 
