@@ -9,10 +9,6 @@ I received the Ph.D. degree from the Artificial Intelligence Department, [Xiamen
 
 **Research Interests**: I am broadly interested in machine learning and data mining. I am generally interested in design, analysis, and implementation of algorithms for scientific computing problems. Now I am working on weak-label learning, feature selection, and some AI applications in medicine like TCM health management, drug discovery, hospital readmission, and autism spectrum disorder.
 
-**Email**: [zhangjia_gl@163.com](mailto:zhangjia_gl@163.com) 
-
-**Mailing Address**: Room 304, Scientific Research Building, Haiyun Campus of Xiamen University, Xiamen 361005, P. R. China
-
 <div itemscope itemtype="https://schema.org/Person"><a itemprop="sameAs" content="https://orcid.org/0000-0002-6079-2818" href="https://orcid.org/0000-0002-6079-2818" target="orcid.widget" rel="me noopener noreferrer" style="vertical-align:top;"><img src="https://orcid.org/sites/default/files/images/orcid_16x16.png" style="width:1em;margin-right:.5em;" alt="ORCID iD icon">https://orcid.org/0000-0002-6079-2818</a></div>
 
 ---
