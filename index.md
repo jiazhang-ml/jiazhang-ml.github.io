@@ -29,11 +29,6 @@ I received the Ph.D. degree from the Artificial Intelligence Department, [Xiamen
 
 ---
 
-#### Teaching Experience
-* **Computer Vision** (For Graduate Students), Teaching Assistant, Fall 2017, Xiamen University
-
----
-
 #### Honors and Awards
 * First Prize of Science and Technology (Ranking: 10/15), China Association of Chinese Medicine, 2020
 * Excellent Graduate Student, Xiamen University, 2020
