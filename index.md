@@ -24,7 +24,7 @@ I am broadly interested in machine learning, data mining, and artificial intelli
 
 ---
 
-#### Selected Recent Publications [[Google Scholar Citations](https://scholar.google.com/citations?user=yBaTk-gAAAAJ&hl=en)]
+#### Selected Publications [[Google Scholar Citations](https://scholar.google.com/citations?user=yBaTk-gAAAAJ&hl=en)]
 * <u>J. Zhang</u>, S. Li, M. Jiang, K. C. Tan. [Learning from weakly labeled data based on manifold regularized sparse model](09185009.pdf). **IEEE Transactions on Cybernetics**, in press. [[code](MSWL-master.zip)]
 * Z.-A. Huang, <u>J. Zhang</u>, Z. Zhu, E. Wu, K. C. Tan. Identification of autistic risk candidate genes and toxic chemicals via multi-label learning. **IEEE Transactions on Neural Networks and Learning Systems**, in press.
 * G. Du, <u>J. Zhang</u>, S. Li, C. Li. Learning from class-imbalance and heterogeneous data for 30-day hospital readmission. **Neurocomputing**, 2021, 420: 27-35.
