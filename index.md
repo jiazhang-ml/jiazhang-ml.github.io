@@ -34,13 +34,6 @@ I received the Ph.D. degree from the Artificial Intelligence Department, [Xiamen
 
 ---
 
-#### Honors and Awards
-* First Prize of Science and Technology (Ranking: 10/15), China Association of Chinese Medicine, 2020
-* Excellent Graduate Student, Xiamen University, 2020
-* Outstanding Winner of the 1st Innovation & Entrepreneurship Contest for PhD Candiadates of CMS, Macao, 2019
-
----
-
 #### Web Page Link
 * [KDnuggets: Machine Learning, Data Science, Big Data, Analytics, AI](https://www.kdnuggets.com/)
 * For reference purpose, there are some reasonable public CS conference ranking lists provided by China Computer Federation: [Ref1](https://www.ccf.org.cn/Academic_Evaluation/By_category/), [Ref2](https://www.ccf.org.cn/c/2019-07-31/667609.shtml).
