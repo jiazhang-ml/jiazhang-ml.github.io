@@ -30,7 +30,7 @@ I received the Ph.D. degree from the Artificial Intelligence Department, [Xiamen
 ---
 
 #### Teaching Experience
-* Teaching Assistant for **Computer Vision**, Xiamen University, Fall 2017
+* Teaching Assistant for **Computer Vision** (For Graduate Students), Xiamen University, Fall 2017
 
 ---
 
