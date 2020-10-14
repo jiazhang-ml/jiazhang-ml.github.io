@@ -16,4 +16,4 @@ sass:
 nav:
 
  - name: "Contact"
-   link: "contact.md"
+   link: "contact"
