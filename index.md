@@ -29,15 +29,15 @@ I received the Ph.D. degree from the Artificial Intelligence Department, [Xiamen
 
 ---
 
+#### Professional Activities
+* Journal Reviewer: [IEEE Transactions on Cybernetics](https://mc.manuscriptcentral.com/cyb-ieee), [IEEE Transactions on Neural Networks and Learning Systems](https://mc.manuscriptcentral.com/tnnls), [Pattern Recognition](https://www.journals.elsevier.com/pattern-recognition/), [Information Sciences](https://www.journals.elsevier.com/information-sciences), [Knowledge-Based Systems](https://www.journals.elsevier.com/knowledge-based-systems), [Applied Intelligence](https://www.editorialmanager.com/apin/Default.aspx), [PLOS ONE](https://www.editorialmanager.com/pone/default.aspx)
+
+---
+
 #### Honors and Awards
 * First Prize of Science and Technology (Ranking: 10/15), China Association of Chinese Medicine, 2020
 * Excellent Graduate Student, Xiamen University, 2020
 * Outstanding Winner of the 1st Innovation & Entrepreneurship Contest for PhD Candiadates of CMS, Macao, 2019
-
----
-
-#### Professional Activities
-* Journal Reviewer: [IEEE Transactions on Cybernetics](https://mc.manuscriptcentral.com/cyb-ieee), [IEEE Transactions on Neural Networks and Learning Systems](https://mc.manuscriptcentral.com/tnnls), [Pattern Recognition](https://www.journals.elsevier.com/pattern-recognition/), [Information Sciences](https://www.journals.elsevier.com/information-sciences), [Knowledge-Based Systems](https://www.journals.elsevier.com/knowledge-based-systems), [Applied Intelligence](https://www.editorialmanager.com/apin/Default.aspx), [PLOS ONE](https://www.editorialmanager.com/pone/default.aspx)
 
 ---
 
