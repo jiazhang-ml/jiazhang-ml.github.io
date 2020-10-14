@@ -19,10 +19,10 @@ I received the Ph.D. degree from the Artificial Intelligence Department, [Xiamen
 
 I am broadly interested in machine learning, data mining, and artificial intelligence. I am generally interested in design, analysis, and implementation of algorithms for scientific computing problems. Now I am working on:
 
-* Classification: multi-label learning, weakly supervised learning, class-imbalance learning
-* Feature selection and sparse learning 
-* AI applications in medicine like TCM health management, drug discovery, hospital readmission, and autism spectrum disorder
-* Others: data fusion, knowledge graph, recommendation systems...
+1. Classification: multi-label learning, weakly supervised learning, class-imbalance learning
+1. Feature selection and sparse learning 
+1. AI applications in medicine like TCM health management, drug discovery, hospital readmission, and autism spectrum disorder
+1. Others: data fusion, knowledge graph, recommendation systems...
 
 ---
 
