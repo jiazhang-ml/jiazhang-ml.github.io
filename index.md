@@ -11,6 +11,8 @@ I received the Ph.D. degree from the Artificial Intelligence Department, [Xiamen
 
 **Mailing Address**: Room 304, Scientific Research Building, Haiyun Campus of Xiamen University, Xiamen 361005, P. R. China
 
+---
+
 #### Research Interests
 
 I am broadly interested in machine learning, data mining, and artificial intelligence. I am generally interested in design, analysis, and implementation of algorithms for scientific computing problems. Now I am working on:
