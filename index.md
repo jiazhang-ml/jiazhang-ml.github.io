@@ -15,7 +15,7 @@ I received the Ph.D. degree from the Artificial Intelligence Department, [Xiamen
 
 #### Selected Publications [[Google Scholar Citations](https://scholar.google.com/citations?user=yBaTk-gAAAAJ&hl=en)]
 * <u>J. Zhang</u>, S. Li, M. Jiang, K. C. Tan. [Learning from weakly labeled data based on manifold regularized sparse model](09185009.pdf). **IEEE Transactions on Cybernetics**, in press. [[code](MSWL-master.zip)]
-* Z.-A. Huang, <u>J. Zhang</u>, Z. Zhu, E. Wu, K. C. Tan. Identification of autistic risk candidate genes and toxic chemicals via multi-label learning. **IEEE Transactions on Neural Networks and Learning Systems**, in press.
+* Z.-A. Huang, <u>J. Zhang</u>, Z. Zhu, E. Q. Wu, K. C. Tan. Identification of autistic risk candidate genes and toxic chemicals via multi-label learning. **IEEE Transactions on Neural Networks and Learning Systems**, in press.
 * G. Du, <u>J. Zhang</u>, S. Li, C. Li. Learning from class-imbalance and heterogeneous data for 30-day hospital readmission. **Neurocomputing**, 2021, 420: 27-35.
 * <u>J. Zhang</u>, Y. Lin, M. Jiang, S. Li, Y. Tang, K. C. Tan. [Multi-label feature selection via global relevance and redundancy optimization](0348.pdf). **In Proceedings of the 29th International Joint Conference on Artificial Intelligence (IJCAI’20)**, Yokohama, Japan, 2020, pp. 2512–2518. [[code](GRRO-master.zip)]
 * G. Du, <u>J. Zhang</u>, Z. Luo, F. Ma, L. Ma, S. Li. Joint imbalanced classification and feature selection for hospital readmissions. **Knowledge-Based Systems**, 2020, 200: 106020.
