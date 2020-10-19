@@ -15,5 +15,7 @@ sass:
 
 nav:
 
+ - name: "中文简历"
+   link: "http://www.scholat.com/jiazhang"
  - name: "Contact Information"
    link: "contact"
