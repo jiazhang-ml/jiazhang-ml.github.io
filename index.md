@@ -5,7 +5,7 @@ layout: default
 
 <img class="profile-picture" src="jiazhang1.jpg">
 
-I received the Ph.D. degree from the Artificial Intelligence Department, [Xiamen University](https://www.xmu.edu.cn/), Xiamen, China, in 2020, under the supervision of Prof. [Shaozi Li](https://imt.xmu.edu.cn/szdw/js.htm), and received the M.S. degree from the School of Computer Science, Minnan Normal University, Zhangzhou, China, in 2016, under the supervision of Prof. Menglei Lin and Prof. [Yaojin Lin](http://cs.mnnu.edu.cn/info/1070/1225.htm). In 2019, I visited [Kay Chen Tan](http://www.cityu.edu.hk/stfprofile/kaytan.htm)'s group in the [City University of Hong Kong](https://www.cityu.edu.hk/) for three months. [[Curriculum Vitae](resume.pdf)]
+I received the Ph.D. degree from the Artificial Intelligence Department, [Xiamen University](https://www.xmu.edu.cn/), Xiamen, China, in 2020, under the supervision of Prof. [Shaozi Li](https://imt.xmu.edu.cn/szdw/js.htm). In 2019, I visited [Kay Chen Tan](http://www.cityu.edu.hk/stfprofile/kaytan.htm)'s group in the [City University of Hong Kong](https://www.cityu.edu.hk/) for three months.
 
 **Research Interests**: I am broadly interested in machine learning and data mining. I am generally interested in design, analysis, and implementation of algorithms for scientific computing problems. Now I am working on weak label learning, data fusion, feature selection, knowledge graph, and some AI applications in medicine, such as TCM health management, drug discovery, hospital readmission, and autism spectrum disorder.
 
@@ -27,13 +27,9 @@ I received the Ph.D. degree from the Artificial Intelligence Department, [Xiamen
 * <u>J. Zhang</u>, Y. Lin, M. Lin, J. Liu. [An effective collaborative filtering algorithm based on user preference clustering](10.1007_s10489-015-0756-9.pdf). **Applied Intelligence**, 2016, 45 (2): 230-240.
 * Y. Lin, Q. Hu, <u>J. Zhang</u>, X. Wu. Multi-label feature selection with streaming labels. **Information Sciences**, 2016, 372: 256-275. 
 
+*For reference purpose, there is a reasonable public CS conference ranking list provided by China Computer Federation: [Ref](https://www.ccf.org.cn/Academic_Evaluation/By_category/).*
+
 ---
 
 #### Professional Activities
 * Journal Reviewer: [IEEE Transactions on Cybernetics](https://mc.manuscriptcentral.com/cyb-ieee), [IEEE Transactions on Neural Networks and Learning Systems](https://mc.manuscriptcentral.com/tnnls), [Pattern Recognition](https://www.journals.elsevier.com/pattern-recognition/), [Information Sciences](https://www.journals.elsevier.com/information-sciences), [Knowledge-Based Systems](https://www.journals.elsevier.com/knowledge-based-systems), [Applied Intelligence](https://www.editorialmanager.com/apin/Default.aspx), [PLOS ONE](https://www.editorialmanager.com/pone/default.aspx)
-
----
-
-#### Web Page Link
-* [KDnuggets: Machine Learning, Data Science, Big Data, Analytics, AI](https://www.kdnuggets.com/)
-* For reference purpose, there are some reasonable public CS conference ranking lists provided by China Computer Federation: [Ref1](https://www.ccf.org.cn/Academic_Evaluation/By_category/), [Ref2](https://www.ccf.org.cn/c/2019-07-31/667609.shtml).
