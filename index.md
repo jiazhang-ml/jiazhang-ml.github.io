@@ -20,9 +20,7 @@ I received the Ph.D. degree from the Artificial Intelligence Department, [Xiamen
 * <u>Jia Zhang</u>, Zhiming Luo, Candong Li, Changen Zhou, Shaozi Li. [Manifold regularized discriminative feature selection for multi-label learning](1-s2.0-S0031320319302341-main.pdf). **Pattern Recognition**, 2019, 95: 136-150. [[code](MDFS-master.zip)]
 * <u>Jia Zhang</u>, Candong Li, Zhenqiang Sun, Zhiming Luo, Changen Zhou, Shaozi Li. [Towards a unified multi-source-based optimization framework for multi-label learning](1-s2.0-S1568494618307051-main.pdf). **Applied Soft Computing**, 2019, 76: 425-435.
 * <u>Jia Zhang</u>, Candong Li, Donglin Cao, Yaojin Lin, Songzhi Su, Liang Dai, Shaozi Li. [Multi-label learning with label-specific features by resolving label correlations](1-s2.0-S0950705118303472-main.pdf). **Knowledge-Based Systems**, 2018, 159: 148-157.
-* <u>Jia Zhang</u>, Candong Li, Yaojin Lin, Youwei Shao, Shaozi Li. [Computational drug repositioning using collaborative filtering via multi-source fusion](1-s2.0-S0957417417303202-main.pdf). **Expert Systems with Applications**, 2017, 84: 281-289.
-* <u>Jia Zhang</u>, Candong Li, Yaojin Lin, Youwei Shao, Shaozi Li. [An effective collaborative filtering algorithm based on user preference clustering](10.1007_s10489-015-0756-9.pdf). **Applied Intelligence**, 2016, 45 (2): 230-240.
-* Yaojin Lin, Qinghua Hu, <u>Jia Zhang</u>, Xindong Wu. Multi-label feature selection with streaming labels. **Information Sciences**, 2016, 372: 256-275. 
+* <u>Jia Zhang</u>, Candong Li, Yaojin Lin, Youwei Shao, Shaozi Li. [Computational drug repositioning using collaborative filtering via multi-source fusion](1-s2.0-S0957417417303202-main.pdf). **Expert Systems with Applications**, 2017, 84: 281-289. 
 
 *For reference purpose, there is a reasonable public CS conference ranking list provided by China Computer Federation: [Ref](https://www.ccf.org.cn/Academic_Evaluation/By_category/).*
 
