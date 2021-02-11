@@ -5,7 +5,7 @@ layout: default
 
 <img class="profile-picture" src="jiazhang1.jpg">
 
-I received the Ph.D. degree from the Artificial Intelligence Department, [Xiamen University](https://www.xmu.edu.cn/), Xiamen, China, in 2020, under the supervision of Prof. [Shaozi Li](https://imt.xmu.edu.cn/szdw/js.htm). In 2019, I visited [Kay Chen Tan](http://www.cityu.edu.hk/stfprofile/kaytan.htm)'s group in the [City University of Hong Kong](https://www.cityu.edu.hk/) for three months.
+I received the Ph.D. degree from the Artificial Intelligence Department, [Xiamen University](https://www.xmu.edu.cn/), Xiamen, China, in 2020, under the supervision of Prof. [Shaozi Li](https://imt.xmu.edu.cn/szdw/js.htm). In 2019, I visited [Kay Chen Tan](https://www.comp.polyu.edu.hk/en-us/staffs/detail/8135)'s group in the [City University of Hong Kong](https://www.cityu.edu.hk/) for three months.
 
 **Research Interests**: I am broadly interested in machine learning, data mining, and artificial intelligence. I am generally interested in design, analysis, and implementation of algorithms for scientific computing problems. Now I am working on large-scale multi-label learning and various AI applications in medicine and education.
 
