@@ -15,7 +15,7 @@ I received the Ph.D. degree from the Artificial Intelligence Department, [Xiamen
 
 ---
 
-### Research & Publications
+#### Research & Publications
 I am broadly interested in machine learning, data mining, and pattern recognition. I am generally interested in design, analysis, and implementation of algorithms for scientific computing problems. Now I am working on large-scale multi-label learning and various AI applications in medicine and education.
 
 I have a few recent manuscripts available on-line: ( More Publications in [[Google Scholar Link](https://scholar.google.com/citations?user=yBaTk-gAAAAJ&hl=en)])
@@ -30,7 +30,7 @@ I have a few recent manuscripts available on-line: ( More Publications in [[Goog
 
 ---
 
-### Professional Activities
+#### Professional Activities
 **Journal Reviewer:** [IEEE Transactions on Cybernetics](https://mc.manuscriptcentral.com/cyb-ieee), [IEEE Transactions on Neural Networks and Learning Systems](https://mc.manuscriptcentral.com/tnnls), [Pattern Recognition](https://www.journals.elsevier.com/pattern-recognition/), [Information Sciences](https://www.journals.elsevier.com/information-sciences), [Knowledge-Based Systems](https://www.journals.elsevier.com/knowledge-based-systems), [Applied Intelligence](https://www.editorialmanager.com/apin/Default.aspx)
 
 **PC Member:** 
@@ -38,6 +38,6 @@ I have a few recent manuscripts available on-line: ( More Publications in [[Goog
 
 ---
 
-### Useful Webpage Links
+#### Useful Webpage Links
 * [IEEE *Xplore* Digital Library](https://ieeexplore.ieee.org/Xplore/home.jsp)
 * For reference purpose, there is a reasonable public CS conference ranking list provided by China Computer Federation: [Ref](https://www.ccf.org.cn/Academic_Evaluation/By_category/).
