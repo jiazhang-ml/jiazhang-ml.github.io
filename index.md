@@ -15,7 +15,7 @@ I received the Ph.D. degree from the Artificial Intelligence Department, [Xiamen
 
 ---
 
-#### Research and Publications
+### Research and Publications
 **Research Interests**: I am broadly interested in machine learning, data mining, and pattern recognition. I am generally interested in design, analysis, and implementation of algorithms for scientific computing problems. Now I am working on large-scale multi-label learning and various AI applications in medicine and education.
 
 I have a few recent manuscripts available on-line: ( More Publications in [[Google Scholar Link](https://scholar.google.com/citations?user=yBaTk-gAAAAJ&hl=en)])
@@ -28,12 +28,14 @@ I have a few recent manuscripts available on-line: ( More Publications in [[Goog
 * <u>J. Zhang</u>, C. Li, Y. Lin, Y. Shao, S. Li. [Computational drug repositioning using collaborative filtering via multi-source fusion](1-s2.0-S0957417417303202-main.pdf). **Expert Systems with Applications**, 2017, 84: 281-289. 
 * <u>J. Zhang</u>, Y. Lin, M. Lin, J. Liu. An effective collaborative filtering algorithm based on user preference clustering. **Applied Intelligence**, 2016, 45(2): 230--240.
 
-*For reference purpose, there is a reasonable public CS conference ranking list provided by China Computer Federation: [Ref](https://www.ccf.org.cn/Academic_Evaluation/By_category/).*
+---
+
+### Professional Activities
+**Journal Reviewer:** [IEEE Transactions on Cybernetics](https://mc.manuscriptcentral.com/cyb-ieee), [IEEE Transactions on Neural Networks and Learning Systems](https://mc.manuscriptcentral.com/tnnls), [Pattern Recognition](https://www.journals.elsevier.com/pattern-recognition/), [Information Sciences](https://www.journals.elsevier.com/information-sciences), [Knowledge-Based Systems](https://www.journals.elsevier.com/knowledge-based-systems), [Applied Intelligence](https://www.editorialmanager.com/apin/Default.aspx)
+**PC Member:** 
+* The 2021 International Joint Conference on Neural Networks ([IJCNN 2021](https://www.ijcnn.org/))
 
 ---
 
-#### Professional Activities
-**Journal Reviewer:** [IEEE Transactions on Cybernetics](https://mc.manuscriptcentral.com/cyb-ieee), [IEEE Transactions on Neural Networks and Learning Systems](https://mc.manuscriptcentral.com/tnnls), [Pattern Recognition](https://www.journals.elsevier.com/pattern-recognition/), [Information Sciences](https://www.journals.elsevier.com/information-sciences), [Knowledge-Based Systems](https://www.journals.elsevier.com/knowledge-based-systems), [Applied Intelligence](https://www.editorialmanager.com/apin/Default.aspx)
-
-**PC Member:** 
-* The 2021 International Joint Conference on Neural Networks ([IJCNN 2021](https://www.ijcnn.org/))
+### Useful Webpage link
+* For reference purpose, there is a reasonable public CS conference ranking list provided by China Computer Federation: [Ref](https://www.ccf.org.cn/Academic_Evaluation/By_category/).
