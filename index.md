@@ -31,9 +31,9 @@ I have a few recent manuscripts available on-line: ( More Publications in [[Goog
 ---
 
 #### Professional Activities
-**Journal Reviewer**: [IEEE Transactions on Cybernetics](https://mc.manuscriptcentral.com/cyb-ieee), [IEEE Transactions on Neural Networks and Learning Systems](https://mc.manuscriptcentral.com/tnnls), [Pattern Recognition](https://www.journals.elsevier.com/pattern-recognition/), [Information Sciences](https://www.journals.elsevier.com/information-sciences), [Knowledge-Based Systems](https://www.journals.elsevier.com/knowledge-based-systems), [Applied Intelligence](https://www.editorialmanager.com/apin/Default.aspx)
+*Journal Reviewer*: [IEEE Transactions on Cybernetics](https://mc.manuscriptcentral.com/cyb-ieee), [IEEE Transactions on Neural Networks and Learning Systems](https://mc.manuscriptcentral.com/tnnls), [Pattern Recognition](https://www.journals.elsevier.com/pattern-recognition/), [Information Sciences](https://www.journals.elsevier.com/information-sciences), [Knowledge-Based Systems](https://www.journals.elsevier.com/knowledge-based-systems), [Applied Intelligence](https://www.editorialmanager.com/apin/Default.aspx)
 
-**PC Member**: 
+*PC Member*: 
 * The International Joint Conference on Neural Networks ([IJCNN 2021](https://www.ijcnn.org/))
 
 ---
