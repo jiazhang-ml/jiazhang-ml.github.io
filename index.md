@@ -37,5 +37,5 @@ I have a few recent manuscripts available on-line: ( More Publications in [[Goog
 ---
 
 #### Useful Webpage Links
-* *Library*: [IEEE *Xplore* Digital Library](https://ieeexplore.ieee.org/Xplore/home.jsp), Publications @[DBLP](https://dblp.org/), Native Publications @[CNKI】(https://kns.cnki.net/kns/brief/result.aspx?dbprefix=CJFQ),
+* *Library*: [IEEE *Xplore* Digital Library](https://ieeexplore.ieee.org/Xplore/home.jsp), Publications @[DBLP](https://dblp.org/), Native Publications @[CNKI](https://kns.cnki.net/kns/brief/result.aspx?dbprefix=CJFQ),
 * For reference purpose, there is a reasonable public CS conference ranking list provided by China Computer Federation: [Ref](https://www.ccf.org.cn/Academic_Evaluation/By_category/).
