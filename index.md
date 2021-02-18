@@ -33,4 +33,4 @@ I received the Ph.D. degree from the Artificial Intelligence Department, [Xiamen
 * Springer: [Applied Intelligence](https://www.editorialmanager.com/apin/Default.aspx)
 
 ###### **PC Member:** 
-* The 2021 International Joint Conference on Neural Networks [IJCNN 2021](https://www.ijcnn.org/)
+* The 2021 International Joint Conference on Neural Networks ([IJCNN 2021](https://www.ijcnn.org/))
