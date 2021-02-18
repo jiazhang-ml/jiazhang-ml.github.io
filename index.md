@@ -16,7 +16,7 @@ I received the Ph.D. degree from the Artificial Intelligence Department, [Xiamen
 ---
 
 #### Research & Publications
-I am broadly interested in machine learning, data mining, and pattern recognition. I am generally interested in design, analysis, and implementation of algorithms for scientific computing problems. Now I am working on large-scale multi-label learning and various AI applications in medicine and education.
+I am broadly interested in machine learning, data mining, and pattern recognition. I am generally interested in design, analysis, and implementation of algorithms for scientific computing problems. Now I am working on <u>large-scale multi-label learning and various AI applications in medicine and education</u>.
 
 I have a few recent manuscripts available on-line: ( More Publications in [[Google Scholar Link](https://scholar.google.com/citations?user=yBaTk-gAAAAJ&hl=en)])
 * <u>J. Zhang</u>, S. Li, M. Jiang, K. C. Tan. [Learning from weakly labeled data based on manifold regularized sparse model](09185009.pdf). **IEEE Transactions on Cybernetics**, in press. [[code](MSWL-master.zip)]
