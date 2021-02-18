@@ -18,7 +18,7 @@ I received the Ph.D. degree from the Artificial Intelligence Department, [Xiamen
 #### Research & Publications
 I am broadly interested in machine learning, data mining, and pattern recognition. I am generally interested in design, analysis, and implementation of algorithms for scientific computing problems. Now I am working on <u>large-scale multi-label learning and various AI applications in medicine and education</u>.
 
-I have a few recent manuscripts available on-line: ( More Publications in [[Google Scholar Link](https://scholar.google.com/citations?user=yBaTk-gAAAAJ&hl=en)])
+I have a few recent manuscripts available on-line: ( More Publications in [Google Scholar Link](https://scholar.google.com/citations?user=yBaTk-gAAAAJ&hl=en))
 * <u>J. Zhang</u>, S. Li, M. Jiang, K. C. Tan. [Learning from weakly labeled data based on manifold regularized sparse model](09185009.pdf). **IEEE Transactions on Cybernetics**, in press. [[code](MSWL-master.zip)]
 * Z.-A. Huang, <u>J. Zhang</u>, Z. Zhu, E. Q. Wu, K. C. Tan. [Identification of autistic risk candidate genes and toxic chemicals via multi-label learning](09177287.pdf). **IEEE Transactions on Neural Networks and Learning Systems**, in press.
 * <u>J. Zhang</u>, Y. Lin, M. Jiang, S. Li, Y. Tang, K. C. Tan. [Multi-label feature selection via global relevance and redundancy optimization](0348.pdf). **In Proceedings of the 29th International Joint Conference on Artificial Intelligence (IJCAI’20)**, Yokohama, Japan, 2020, pp. 2512–2518. [[code](GRRO-master.zip)] [[report](v15.pptx)] [[poster](poster.pdf)]
