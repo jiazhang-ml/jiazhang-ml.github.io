@@ -7,6 +7,10 @@ layout: default
 
 I received the Ph.D. degree from the Artificial Intelligence Department, [Xiamen University](https://www.xmu.edu.cn/), Xiamen, China, in 2020, under the supervision of Prof. [Shaozi Li](https://imt.xmu.edu.cn/szdw/js.htm). In 2019, I visited [Kay Chen Tan](https://www.comp.polyu.edu.hk/en-us/staffs/detail/8135)'s group in the [City University of Hong Kong](https://www.cityu.edu.hk/) for three months.
 
+**Email:** zhangjia_gl@163.com
+
+**Mailing Address:** Artificial Intelligence Department, School of Informatics, Haiyun Campus, Xiamen University, Xiamen, China, 361005
+
 <div itemscope itemtype="https://schema.org/Person"><a itemprop="sameAs" content="https://orcid.org/0000-0002-6079-2818" href="https://orcid.org/0000-0002-6079-2818" target="orcid.widget" rel="me noopener noreferrer" style="vertical-align:top;"><img src="https://orcid.org/sites/default/files/images/orcid_16x16.png" style="width:1em;margin-right:.5em;" alt="ORCID iD icon">https://orcid.org/0000-0002-6079-2818</a></div>
 
 ---
