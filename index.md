@@ -31,5 +31,6 @@ I received the Ph.D. degree from the Artificial Intelligence Department, [Xiamen
 * IEEE: [IEEE Transactions on Cybernetics](https://mc.manuscriptcentral.com/cyb-ieee), [IEEE Transactions on Neural Networks and Learning Systems](https://mc.manuscriptcentral.com/tnnls)
 * Elsevier: [Pattern Recognition](https://www.journals.elsevier.com/pattern-recognition/), [Information Sciences](https://www.journals.elsevier.com/information-sciences), [Knowledge-Based Systems](https://www.journals.elsevier.com/knowledge-based-systems)
 * Springer: [Applied Intelligence](https://www.editorialmanager.com/apin/Default.aspx)
+
 ##### **PC Member:** 
 * The 2021 International Joint Conference on Neural Networks ([IJCNN 2021](https://www.ijcnn.org/))
