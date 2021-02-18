@@ -21,6 +21,7 @@ I received the Ph.D. degree from the Artificial Intelligence Department, [Xiamen
 * <u>J. Zhang</u>, C. Li, Z. Sun, Z. Luo, C. Zhou, S. Li. [Towards a unified multi-source-based optimization framework for multi-label learning](1-s2.0-S1568494618307051-main.pdf). **Applied Soft Computing**, 2019, 76: 425-435.
 * <u>J. Zhang</u>, C. Li, D. Cao, Y. Lin, S. Su, L. Dai, S. Li. [Multi-label learning with label-specific features by resolving label correlations](1-s2.0-S0950705118303472-main.pdf). **Knowledge-Based Systems**, 2018, 159: 148-157.
 * <u>J. Zhang</u>, C. Li, Y. Lin, Y. Shao, S. Li. [Computational drug repositioning using collaborative filtering via multi-source fusion](1-s2.0-S0957417417303202-main.pdf). **Expert Systems with Applications**, 2017, 84: 281-289. 
+* <u>J. Zhang</u>, Y. Lin, M. Lin, J. Liu. An effective collaborative filtering algorithm based on user preference clustering. **Applied Intelligence**, 2016, 45(2): 230--240.
 
 *For reference purpose, there is a reasonable public CS conference ranking list provided by China Computer Federation: [Ref](https://www.ccf.org.cn/Academic_Evaluation/By_category/).*
 
