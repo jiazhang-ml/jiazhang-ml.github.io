@@ -7,7 +7,7 @@ layout: default
 
 Currently, I work as a lecturer in the [College of Information Science and Technology](http://xxxy2016.jnu.edu.cn/), [Jinan University](https://www.jnu.edu.cn/). I received the Ph.D. degree from the [School of Informatics](https://informatics.xmu.edu.cn/), [Xiamen University](https://www.xmu.edu.cn/), Xiamen, China, in 2020, under the supervision of Prof. [Shaozi Li](https://imt.xmu.edu.cn/szdw/js.htm). In 2019, I visited [Kay Chen Tan](https://www.comp.polyu.edu.hk/en-us/staffs/detail/8135)'s group in the [City University of Hong Kong](https://www.cityu.edu.hk/) for three months.
 
-**Email:** [zhangjia_gl@163.com](mailto:zhangjia_gl@163.com)
+**Email:** [jiazhang@jnu.edu.cn](mailto:jiazhang@jnu.edu.cn)
 
 **Mailing Address:** College of Information Science and Technology, Jinan University, No. 601 West Huangpu Avenue, Tianhe District, Guangzhou, China, 510632
 
