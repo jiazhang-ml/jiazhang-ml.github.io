@@ -3,7 +3,7 @@ layout: default
 is_contact: true
 ---
 
-**Email**: [zhangjia_gl@163.com](mailto:zhangjia_gl@163.com)
+**Email**: [jiazhang@jnu.edu.cn](mailto:jiazhang@jnu.edu.cn)
 
 ---
 
