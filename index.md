@@ -15,7 +15,7 @@ Currently, I work as a lecturer in the [College of Information Science and Techn
 
 ---
 
-### Research & Publications
+#### Research & Publications
 I am broadly interested in machine learning, data mining, and pattern recognition. I am generally interested in design, analysis, and implementation of algorithms for scientific computing problems. Now I am working on <u>large-scale multi-label learning and various AI applications in medicine and education</u>.
 
 I have a few recent manuscripts available on-line: ( More Publications in [Google Scholar Link](https://scholar.google.com/citations?user=yBaTk-gAAAAJ&hl=en))
@@ -33,7 +33,7 @@ I have a few recent manuscripts available on-line: ( More Publications in [Googl
 
 ---
 
-### Professional Activities
+#### Professional Activities
 *Journal Reviewer*: [IEEE Transactions on Cybernetics](https://mc.manuscriptcentral.com/cyb-ieee), [IEEE Transactions on Neural Networks and Learning Systems](https://mc.manuscriptcentral.com/tnnls), [Pattern Recognition](https://www.journals.elsevier.com/pattern-recognition/), [Information Sciences](https://www.journals.elsevier.com/information-sciences), [Knowledge-Based Systems](https://www.journals.elsevier.com/knowledge-based-systems), [Applied Intelligence](https://www.editorialmanager.com/apin/Default.aspx)
 
 *PC Member*: The International Joint Conference on Neural Networks ([IJCNN 2021](https://www.ijcnn.org/))
