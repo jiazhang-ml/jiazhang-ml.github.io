@@ -9,7 +9,7 @@ is_contact: true
 
 #### Mailing Address
 
->College of Information Science and Technology
+>Room 615, Nanhai Building
 >
 >Jinan University
 >
