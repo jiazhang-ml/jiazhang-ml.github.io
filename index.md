@@ -6,7 +6,6 @@ layout: default
 <img class="profile-picture" src="jiazhang1.jpg">
 
 Ph.D., Lecturer ([College of Information Science and Technology](http://xxxy2016.jnu.edu.cn/), [Jinan University](https://www.jnu.edu.cn/), Since 2021)
-Currently, I work as a lecturer in the [College of Information Science and Technology](http://xxxy2016.jnu.edu.cn/), [Jinan University](https://www.jnu.edu.cn/). I received the Ph.D. degree from the [School of Informatics](https://informatics.xmu.edu.cn/), [Xiamen University](https://www.xmu.edu.cn/), Xiamen, China, in 2020, under the supervision of Prof. [Shaozi Li](https://imt.xmu.edu.cn/szdw/js.htm). In 2019, I visited [Kay Chen Tan](https://www.comp.polyu.edu.hk/en-us/staffs/detail/8135)'s group in the [City University of Hong Kong](https://www.cityu.edu.hk/) for three months.
 
 **Email:** [jiazhang@jnu.edu.cn](mailto:jiazhang@jnu.edu.cn)
 
@@ -16,7 +15,7 @@ Currently, I work as a lecturer in the [College of Information Science and Techn
 
 ---
 
-#### About Me
+#### Brief CV
 Currently, I work as a lecturer in the [College of Information Science and Technology](http://xxxy2016.jnu.edu.cn/), [Jinan University](https://www.jnu.edu.cn/). I received the Ph.D. degree from the [School of Informatics](https://informatics.xmu.edu.cn/), [Xiamen University](https://www.xmu.edu.cn/), Xiamen, China, in 2020, under the supervision of Prof. [Shaozi Li](https://imt.xmu.edu.cn/szdw/js.htm). In 2019, I visited [Kay Chen Tan](https://www.comp.polyu.edu.hk/en-us/staffs/detail/8135)'s group in the [City University of Hong Kong](https://www.cityu.edu.hk/) for three months.
 
 ---
