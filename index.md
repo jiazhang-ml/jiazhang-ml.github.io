@@ -5,8 +5,6 @@ layout: default
 
 <img class="profile-picture" src="jiazhang1.jpg">
 
-<img class="profile-picture" src="jnu.jpg">
-
 Ph.D., Lecturer (at [College of Information Science and Technology](http://xxxy2016.jnu.edu.cn/), [Jinan University](https://www.jnu.edu.cn/), China, Since 2021)
 
 **Email:** [jiazhang@jnu.edu.cn](mailto:jiazhang@jnu.edu.cn)
