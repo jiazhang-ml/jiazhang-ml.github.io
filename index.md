@@ -13,7 +13,7 @@ Ph.D., Lecturer (at [College of Information Science and Technology](http://xxxy2
 
 <div itemscope itemtype="https://schema.org/Person"><a itemprop="sameAs" content="https://orcid.org/0000-0002-6079-2818" href="https://orcid.org/0000-0002-6079-2818" target="orcid.widget" rel="me noopener noreferrer" style="vertical-align:top;"><img src="https://orcid.org/sites/default/files/images/orcid_16x16.png" style="width:1em;margin-right:.5em;" alt="ORCID iD icon">https://orcid.org/0000-0002-6079-2818</a></div>
 
-<img class="profile-picture" src="jiazhang1.jpg">
+<img class="profile-picture" src="jnu.jpg">
 
 ---
 
