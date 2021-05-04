@@ -21,12 +21,7 @@ Currently, I work as a lecturer in the [College of Information Science and Techn
 ---
 
 #### Research & Publications
-I am broadly interested in machine learning, data mining, and pattern recognition. I am generally interested in design, analysis, and implementation of algorithms for scientific computing problems. Now I am working on:
-
-* Multi-label learning, feature selection, weakly supervised learning, class-imbalance learning
-* Large-scale optimation, data fusion
-* Intelligent human-computer interaction and EEG signal analysis
-* AI in medicine, e.g., TCM Health Management,  drug repositioning, readmission prediction, ASD prediction
+I am broadly interested in machine learning, data mining, and pattern recognition. I am generally interested in design, analysis, and implementation of algorithms for scientific computing problems. Now I am working on large-scale multi-label learning and AI applications in medicine and education.
 
 I have a few recent manuscripts available on-line: ( More Publications in [Google Scholar Link](https://scholar.google.com/citations?user=yBaTk-gAAAAJ&hl=en))
 
