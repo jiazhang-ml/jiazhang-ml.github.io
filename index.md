@@ -7,7 +7,7 @@ layout: default
 
 **Short Biography:** I am now a lecturer at the [College of Information Science and Technology](http://xxxy2016.jnu.edu.cn/), [Jinan University](https://www.jnu.edu.cn/). 
 
- I received the Ph.D. degree from the School of Informatics, Xiamen University in 2020, supervised by Prof. Shaozi Li. I was a visiting scholar at City University of Hong Kong, supervised by Kay Chen Tan.
+ I received the Ph.D. degree from the School of Informatics, Xiamen University, Xiamen, China, in 2020, supervised by Prof. Shaozi Li. I was a visiting scholar at City University of Hong Kong, supervised by Kay Chen Tan.
 
 **Email:** [jiazhang@jnu.edu.cn](mailto:jiazhang@jnu.edu.cn)
 
