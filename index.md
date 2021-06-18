@@ -5,11 +5,8 @@ layout: default
 
 <img class="profile-picture" src="jiazhang1.jpg">
 
-Currently, I work as a lecturer in the [College of Information Science and Technology](http://xxxy2016.jnu.edu.cn/), [Jinan University](https://www.jnu.edu.cn/). 
+Currently, I work as a lecturer in the [College of Information Science and Technology](http://xxxy2016.jnu.edu.cn/), [Jinan University](https://www.jnu.edu.cn/). I received the Ph.D. degree from the School of Informatics, Xiamen University in 2020, supervised by Prof. Shaozi Li. I was a visiting scholar at City University of Hong Kong, supervised by Kay Chen Tan.
 
-I received the Ph.D. degree from the School of Informatics, Xiamen University in 2020, supervised by Prof. Shaozi Li. I was a visiting scholar at City University of Hong Kong, supervised by Kay Chen Tan.
-
-**Research Interests:** Machine Learning, Data Mining, human-computer interactions
 
 **Email:** [jiazhang@jnu.edu.cn](mailto:jiazhang@jnu.edu.cn)
 
@@ -17,7 +14,7 @@ I received the Ph.D. degree from the School of Informatics, Xiamen University in
 
 #### Research & Publications
 
-I have a few recent manuscripts available on-line: ( More Publications in [Google Scholar Link](https://scholar.google.com/citations?user=yBaTk-gAAAAJ&hl=en))
+My Research Interests imclude machine learning, data mining, human-computer interactions. I have a few recent manuscripts available on-line: ( More Publications in [Google Scholar Link](https://scholar.google.com/citations?user=yBaTk-gAAAAJ&hl=en))
 
 * <u>J. Zhang</u>, S. Li, M. Jiang, K. C. Tan. [Learning from weakly labeled data based on manifold regularized sparse model](09185009.pdf). **IEEE Transactions on Cybernetics**, in press. [[code](MSWL-master.zip)]
 * Z.-A. Huang, <u>J. Zhang</u>, Z. Zhu, E. Q. Wu, K. C. Tan. [Identification of autistic risk candidate genes and toxic chemicals via multi-label learning](09177287.pdf). **IEEE Transactions on Neural Networks and Learning Systems**, in press.
@@ -39,6 +36,6 @@ I have a few recent manuscripts available on-line: ( More Publications in [Googl
 ---
 
 #### Professional Activities
-*Journal Reviewer*: [IEEE Transactions on Cybernetics](https://mc.manuscriptcentral.com/cyb-ieee), [IEEE Transactions on Neural Networks and Learning Systems](https://mc.manuscriptcentral.com/tnnls), [Pattern Recognition](https://www.journals.elsevier.com/pattern-recognition/), [Information Sciences](https://www.journals.elsevier.com/information-sciences), [Knowledge-Based Systems](https://www.journals.elsevier.com/knowledge-based-systems), [Applied Intelligence](https://www.editorialmanager.com/apin/Default.aspx)
+* Journal Reviewer: [IEEE Transactions on Cybernetics](https://mc.manuscriptcentral.com/cyb-ieee), [IEEE Transactions on Neural Networks and Learning Systems](https://mc.manuscriptcentral.com/tnnls), [Pattern Recognition](https://www.journals.elsevier.com/pattern-recognition/), [Information Sciences](https://www.journals.elsevier.com/information-sciences), [Knowledge-Based Systems](https://www.journals.elsevier.com/knowledge-based-systems), [Applied Intelligence](https://www.editorialmanager.com/apin/Default.aspx)
 
-*PC Member*: The International Joint Conference on Neural Networks ([IJCNN 2021](https://www.ijcnn.org/))
+* PC Member: The International Joint Conference on Neural Networks ([IJCNN 2021](https://www.ijcnn.org/))
