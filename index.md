@@ -5,18 +5,17 @@ layout: default
 
 <img class="profile-picture" src="jiazhang1.jpg">
 
-Currently, I work as a lecturer in the [College of Information Science and Technology](http://xxxy2016.jnu.edu.cn/), [Jinan University](https://www.jnu.edu.cn/). I received the Ph.D. degree from the [School of Informatics](https://informatics.xmu.edu.cn/), [Xiamen University](https://www.xmu.edu.cn/), Xiamen, China, in 2020, under the supervision of Prof. [Shaozi Li](https://imt.xmu.edu.cn/szdw/js.htm). In 2019, I visited [Kay Chen Tan](https://www.comp.polyu.edu.hk/en-us/staffs/detail/8135)'s group in the [City University of Hong Kong](https://www.cityu.edu.hk/) for three months.
+Currently, I work as a lecturer in the [College of Information Science and Technology](http://xxxy2016.jnu.edu.cn/), [Jinan University](https://www.jnu.edu.cn/). 
+
+I received the Ph.D. degree from the School of Informatics, Xiamen University in 2020, supervised by Prof. Shaozi Li. I was a visiting scholar at City University of Hong Kong, supervised by Kay Chen Tan.
+
+**Research Interests:** Machine Learning, Data Mining, human-computer interactions
 
 **Email:** [jiazhang@jnu.edu.cn](mailto:jiazhang@jnu.edu.cn)
-
-**Mailing Address:** : Room 615, Nanhai Building, Jinan University, No. 601 West Huangpu Avenue, Tianhe District, Guangzhou, China, 510632
-
-<div itemscope itemtype="https://schema.org/Person"><a itemprop="sameAs" content="https://orcid.org/0000-0002-6079-2818" href="https://orcid.org/0000-0002-6079-2818" target="orcid.widget" rel="me noopener noreferrer" style="vertical-align:top;"><img src="https://orcid.org/sites/default/files/images/orcid_16x16.png" style="width:1em;margin-right:.5em;" alt="ORCID iD icon">https://orcid.org/0000-0002-6079-2818</a></div>
 
 ---
 
 #### Research & Publications
-I am broadly interested in machine learning, data mining, and pattern recognition. I am generally interested in design, analysis, and implementation of algorithms for scientific computing problems. Now I am working on large-scale multi-label learning and various AI applications in medicine and education.
 
 I have a few recent manuscripts available on-line: ( More Publications in [Google Scholar Link](https://scholar.google.com/citations?user=yBaTk-gAAAAJ&hl=en))
 
@@ -30,6 +29,12 @@ I have a few recent manuscripts available on-line: ( More Publications in [Googl
 * <u>J. Zhang</u>, C. Li, Y. Lin, Y. Shao, S. Li. [Computational drug repositioning using collaborative filtering via multi-source fusion](1-s2.0-S0957417417303202-main.pdf). **Expert Systems with Applications**, 2017, 84: 281-289. 
 * <u>J. Zhang</u>, Y. Lin, M. Lin, J. Liu. An effective collaborative filtering algorithm based on user preference clustering. **Applied Intelligence**, 2016, 45(2): 230--240.
 * Y. Lin, Q. Hu, <u>J. Zhang</u>, X. Wu. Multi-label feature selection with streaming labels. **Information Sciences**, 2016, 372: 256-275.
+
+---
+
+##### Teaching Experience
+
+* Principles of Artificial Intelligence (for undergraduate students), Fall, 2021
 
 ---
 
