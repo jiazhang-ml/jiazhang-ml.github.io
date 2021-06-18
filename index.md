@@ -32,7 +32,7 @@ I have a few recent manuscripts available on-line: ( More Publications in [Googl
 
 ---
 
-##### Teaching Experience
+#### Teaching Experience
 
 * Principles of Artificial Intelligence (for undergraduate students), Fall, 2021
 
