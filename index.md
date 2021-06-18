@@ -15,7 +15,7 @@ Currently, I work as a lecturer in the [College of Information Science and Techn
 
 #### Research & Publications
 
-My research interests include machine learning, data mining, and human-computer interactions. I have a few recent manuscripts available on-line: ( More Publications in [Google Scholar Link](https://scholar.google.com/citations?user=yBaTk-gAAAAJ&hl=en))
+My research interests include machine learning, data mining, and intelligent human-computer interactions. I have a few recent manuscripts available on-line: ( More Publications in [Google Scholar Link](https://scholar.google.com/citations?user=yBaTk-gAAAAJ&hl=en))
 
 * <u>J. Zhang</u>, S. Li, M. Jiang, K. C. Tan. [Learning from weakly labeled data based on manifold regularized sparse model](09185009.pdf). **IEEE Transactions on Cybernetics**, in press. [[code](MSWL-master.zip)]
 * Z.-A. Huang, <u>J. Zhang</u>, Z. Zhu, E. Q. Wu, K. C. Tan. [Identification of autistic risk candidate genes and toxic chemicals via multi-label learning](09177287.pdf). **IEEE Transactions on Neural Networks and Learning Systems**, in press.
