@@ -3,7 +3,7 @@
 layout: default 
 ---
 
-<img class="profile-picture" src="jiazhang1.jpg">
+<img class="profile-picture" src="222.jpg">
 
 **Short Biography:** I am now a lecturer at the [College of Information Science and Technology](http://xxxy2016.jnu.edu.cn/), [Jinan University](https://www.jnu.edu.cn/). 
 
