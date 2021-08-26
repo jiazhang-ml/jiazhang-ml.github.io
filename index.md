@@ -32,7 +32,7 @@ My research interests include *machine learning*, *data mining*, and *human-comp
 
 #### Teaching Experience
 
-* Principles of Artificial Intelligence (for undergraduate students), Fall, 2021
+* AI Principles (for undergraduate students), Fall, 2021
 * Computer Fundamentals (for undergraduate students, in English), Fall, 2021
 
 ---
