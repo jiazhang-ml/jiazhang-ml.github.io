@@ -38,5 +38,5 @@ My research interests include *machine learning*, *data mining*, and *human-comp
 ---
 
 #### Professional Activities
-* Journal Reviewer: [IEEE Transactions on Cybernetics](https://mc.manuscriptcentral.com/cyb-ieee), [IEEE Transactions on Neural Networks and Learning Systems](https://mc.manuscriptcentral.com/tnnls), [Pattern Recognition](https://www.journals.elsevier.com/pattern-recognition/), [Information Sciences](https://www.journals.elsevier.com/information-sciences), [Knowledge-Based Systems](https://www.journals.elsevier.com/knowledge-based-systems), [Applied Intelligence](https://www.editorialmanager.com/apin/Default.aspx)
-* PC Member: The International Joint Conference on Neural Networks ([IJCNN 2021](https://www.ijcnn.org/))
+* Journal Reviewer: [IEEE Transactions on Cybernetics](https://mc.manuscriptcentral.com/cyb-ieee); [IEEE Transactions on Neural Networks and Learning Systems](https://mc.manuscriptcentral.com/tnnls); [Pattern Recognition](https://www.journals.elsevier.com/pattern-recognition/); [Information Sciences](https://www.journals.elsevier.com/information-sciences); [Knowledge-Based Systems](https://www.journals.elsevier.com/knowledge-based-systems); [Applied Intelligence](https://www.editorialmanager.com/apin/Default.aspx)
+* PC Member: The AAAI Conference on Artificial Intelligence ([AAAI 2022](https://aaai.org/Conferences/AAAI-22/)); The International Joint Conference on Neural Networks ([IJCNN 2021](https://www.ijcnn.org/))
