@@ -18,7 +18,7 @@ I received the Ph.D. degree from the School of Informatics, Xiamen University, X
 My research interests include *machine learning*, *data mining*, and *human-computer interaction*. I have a few recent manuscripts available on-line: ( More Publications in [Google Scholar Link](https://scholar.google.com/citations?user=yBaTk-gAAAAJ&hl=en))
 
 * <u>J. Zhang</u>, S. Li, M. Jiang, K. C. Tan. Learning from weakly labeled data based on manifold regularized sparse model. **IEEE Transactions on Cybernetics**, in press. [[code](MSWL-master.zip)]
-* Z.-A. Huang, <u>J. Zhang</u>, Z. Zhu, E. Q. Wu, K. C. Tan. Identification of autistic risk candidate genes and toxic chemicals via multi-label learning. **IEEE Transactions on Neural Networks and Learning Systems**, in press.
+* Z.-A. Huang, <u>J. Zhang</u>, Z. Zhu, E. Q. Wu, K. C. Tan. Identification of autistic risk candidate genes and toxic chemicals via multi-label learning. **IEEE Transactions on Neural Networks and Learning Systems**, 2021, 32(9): 3971-3984.
 * G. Du, <u>J. Zhang</u>, F. Ma, M. Zhao, Y. Lin, S. Li. Towards graph-based class-imbalance learning for hospital readmission. **Expert Systems with Applications**, 2021, 176: 114791.
 * <u>J. Zhang</u>, Y. Lin, M. Jiang, S. Li, Y. Tang, K. C. Tan. Multi-label feature selection via global relevance and redundancy optimization. **In Proceedings of the 29th International Joint Conference on Artificial Intelligence (IJCAI’20)**, Yokohama, Japan, 2020, pp. 2512–2518. [[code](GRRO-master.zip)] [[report](v15.pptx)] [[poster](poster.pdf)]
 * <u>J. Zhang</u>, Z. Luo, C. Li, C. Zhou, S. Li. Manifold regularized discriminative feature selection for multi-label learning. **Pattern Recognition**, 2019, 95: 136-150. [[code](MDFS-master.zip)]
