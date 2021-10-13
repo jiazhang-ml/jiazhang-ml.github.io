@@ -15,7 +15,7 @@ I received the Ph.D. degree from the School of Informatics, Xiamen University, X
 
 #### Research & Publications
 
-My research interests include *machine learning*, *data mining*, and *human-computer interaction*. I have a few recent manuscripts available on-line: (More Publications [here](https://scholar.google.com/citations?user=yBaTk-gAAAAJ&hl=en))
+My research interests include *machine learning*, *data mining*, and *human-computer interaction*. I have a few recent manuscripts available on-line: (More Publications [Google Scholar Link](https://scholar.google.com/citations?user=yBaTk-gAAAAJ&hl=en))
 
 * <u>J. Zhang</u>, S. Li, M. Jiang, K. C. Tan. Learning from weakly labeled data based on manifold regularized sparse model. **IEEE Transactions on Cybernetics**, in press. [[code](MSWL-master.zip)]
 * Z.-A. Huang, <u>J. Zhang</u>, Z. Zhu, E. Q. Wu, K. C. Tan. Identification of autistic risk candidate genes and toxic chemicals via multi-label learning. **IEEE Transactions on Neural Networks and Learning Systems**, 2021, 32(9): 3971-3984.
