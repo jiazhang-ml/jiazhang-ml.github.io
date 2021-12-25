@@ -19,7 +19,8 @@ My research interests include *machine learning*, *data mining*, and *human-comp
 
 There are a few recent manuscripts available on-line: (More Publications in [Google Scholar Link](https://scholar.google.com/citations?user=yBaTk-gAAAAJ&hl=en))
 
-* <u>J. Zhang</u>, S. Li, M. Jiang, K. C. Tan. Learning from weakly labeled data based on manifold regularized sparse model. **IEEE Transactions on Cybernetics**, in press. [[code](MSWL-master.zip)]
+* G. Du, <u>J. Zhang</u>, M. Jiang, J. Long, Y. Lin, S. Li, K. C. Tan. Graph-based class-imbalance learning with label enhancement. **IEEE Transactions on Neural Networks and Learning Systems**, 2021, http://doi.org/10.1109/TNNLS.2021.3133262.
+* <u>J. Zhang</u>, S. Li, M. Jiang, K. C. Tan. Learning from weakly labeled data based on manifold regularized sparse model. **IEEE Transactions on Cybernetics**, 2020, http://doi.org/10.1109/TCYB.2020.3015269. [[code](MSWL-master.zip)]
 * Z.-A. Huang, <u>J. Zhang</u>, Z. Zhu, E. Q. Wu, K. C. Tan. Identification of autistic risk candidate genes and toxic chemicals via multi-label learning. **IEEE Transactions on Neural Networks and Learning Systems**, 2021, 32(9): 3971-3984.
 * G. Du, <u>J. Zhang</u>, F. Ma, M. Zhao, Y. Lin, S. Li. Towards graph-based class-imbalance learning for hospital readmission. **Expert Systems with Applications**, 2021, 176: 114791.
 * <u>J. Zhang</u>, Y. Lin, M. Jiang, S. Li, Y. Tang, K. C. Tan. Multi-label feature selection via global relevance and redundancy optimization. **In Proceedings of the 29th International Joint Conference on Artificial Intelligence (IJCAI’20)**, Yokohama, Japan, 2020, pp. 2512–2518. [[code](GRRO-master.zip)] [[report](v15.pptx)] [[poster](poster.pdf)]
