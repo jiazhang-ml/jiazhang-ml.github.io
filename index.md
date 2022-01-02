@@ -14,7 +14,7 @@ I received the Ph.D. degree from the School of Informatics, Xiamen University, X
 
 ---
 
-#### Publications and Citations by [Google Scholar](https://scholar.google.com/citations?user=yBaTk-gAAAAJ&hl=en))
+#### Publications and Citations by [Google Scholar](https://scholar.google.com/citations?user=yBaTk-gAAAAJ&hl=en)
 
 * G. Du, <u>J. Zhang</u>, M. Jiang, J. Long, Y. Lin, S. Li, K. C. Tan. Graph-based class-imbalance learning with label enhancement. **IEEE Transactions on Neural Networks and Learning Systems** (Early Access), 2021.
 * <u>J. Zhang</u>, S. Li, M. Jiang, K. C. Tan. Learning from weakly labeled data based on manifold regularized sparse model. **IEEE Transactions on Cybernetics** (Early Access), 2020. [[code](MSWL-master.zip)]
