@@ -7,17 +7,14 @@ layout: default
 
 **Short Biography:** I am now a lecturer at the [College of Information Science and Technology](https://xxxy.jnu.edu.cn/main.htm), [Jinan University](https://www.jnu.edu.cn/). 
 
-I received the Ph.D. degree from the School of Informatics, Xiamen University, Xiamen, China, in 2020, supervised by Prof. Shaozi Li. I was a visiting scholar at City University of Hong Kong, supervised by Kay Chen Tan.
+I received the Ph.D. degree from the School of Informatics, Xiamen University, Xiamen, China, in 2020, supervised by [Prof. Shaozi Li](https://imt.xmu.edu.cn/info/1003/1182.htm). I was a visiting scholar at City University of Hong Kong, supervised by [Prof. Kay Chen Tan](https://www.polyu.edu.hk/comp/people/academic-staff/prof-tan-kay-chen/). My research interests include *machine learning*, *data mining*, and *human-computer interaction*. I am generally interested in design, analysis, and implementation of algorithms for scientific computing problems. 
+
 
 **Email:** [jiazhang@jnu.edu.cn](mailto:jiazhang@jnu.edu.cn)
 
 ---
 
-#### Research & Publications
-
-My research interests include *machine learning*, *data mining*, and *human-computer interaction*. I am generally interested in design, analysis, and implementation of algorithms for scientific computing problems. 
-
-There are a few recent manuscripts available on-line: (More Publications in [Google Scholar Link](https://scholar.google.com/citations?user=yBaTk-gAAAAJ&hl=en))
+#### Selected Publications (More Publications in [Google Scholar Link](https://scholar.google.com/citations?user=yBaTk-gAAAAJ&hl=en))
 
 * G. Du, <u>J. Zhang</u>, M. Jiang, J. Long, Y. Lin, S. Li, K. C. Tan. Graph-based class-imbalance learning with label enhancement. **IEEE Transactions on Neural Networks and Learning Systems** (Early Access), 2021.
 * <u>J. Zhang</u>, S. Li, M. Jiang, K. C. Tan. Learning from weakly labeled data based on manifold regularized sparse model. **IEEE Transactions on Cybernetics** (Early Access), 2020. [[code](MSWL-master.zip)]
