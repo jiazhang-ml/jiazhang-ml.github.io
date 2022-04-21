@@ -17,5 +17,7 @@ nav:
 
  - name: "Homepage"
    link: "index"
- - name: "中文简历"
+ - name: "Chinese Resume“
    link: "ch-resume"
+ - name: "Contact“
+   link: "Contact"
