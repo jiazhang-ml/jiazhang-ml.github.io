@@ -17,7 +17,7 @@ nav:
 
  - name: "Homepage"
    link: "index"
- - name: "Chinese Resume“
+ - name: "Chinese Resume"
    link: "ch-resume"
  - name: "Contact"
    link: "contact"
