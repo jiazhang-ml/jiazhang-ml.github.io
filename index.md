@@ -10,9 +10,11 @@ layout: default
 I received the Ph.D. degree from the School of Informatics, Xiamen University, Xiamen, China, in 2020, supervised by [Prof. Shaozi Li](https://imt.xmu.edu.cn/info/1003/1182.htm). I was a visiting scholar at City University of Hong Kong, supervised by [Prof. Kay Chen Tan](https://www.polyu.edu.hk/comp/people/academic-staff/prof-tan-kay-chen/). My research interests include *machine learning*, *data mining*, and *human-computer interaction*. I am generally interested in design, analysis, and implementation of algorithms for scientific computing problems. 
 
 
+
 **Email:** [jiazhang@jnu.edu.cn](mailto:jiazhang@jnu.edu.cn)
 
-**Mailing Address:** Room 615, Nanhai Building, Jinan University, No. 601 West Huangpu Avenue, Guangzhou, China, 510632
+**Email:** Room 615, Nanhai Building, Jinan University, No. 601 West Huangpu Avenue, Guangzhou, China, 510632
+
 ---
 
 #### Selected Publications (More Details in [Google Scholar Link](https://scholar.google.com/citations?user=yBaTk-gAAAAJ&hl=en))
