@@ -17,6 +17,7 @@ I received the Ph.D. degree from the School of Informatics, Xiamen University, X
 
 #### Selected Publications (More Details in [Google Scholar Link](https://scholar.google.com/citations?user=yBaTk-gAAAAJ&hl=en))
 
+* A. Tan, J. Liang, W.-Z. Wu, <u>J. Zhang</u>. Semi-Supervised Partial Multi-Label Classification via Consistency Learning. **Pattern Recognition**, Elsevier BV, 2022: 108839.
 * G. Du, <u>J. Zhang</u>, M. Jiang, J. Long, Y. Lin, S. Li, K. C. Tan. Graph-based class-imbalance learning with label enhancement. **IEEE Transactions on Neural Networks and Learning Systems** (Early Access), 2021.
 * <u>J. Zhang</u>, S. Li, M. Jiang, K. C. Tan. Learning from weakly labeled data based on manifold regularized sparse model. **IEEE Transactions on Cybernetics** (Early Access), 2020. [[code](MSWL-master.zip)]
 * Z.-A. Huang, <u>J. Zhang</u>, Z. Zhu, E. Q. Wu, K. C. Tan. Identification of autistic risk candidate genes and toxic chemicals via multi-label learning. **IEEE Transactions on Neural Networks and Learning Systems**, 2021, 32(9): 3971-3984.
@@ -40,4 +41,4 @@ I received the Ph.D. degree from the School of Informatics, Xiamen University, X
 
 #### Professional Activities
 * Journal Reviewer: [IEEE Transactions on Knowledge and Data Engineering](https://mc.manuscriptcentral.com/tkde-cs); [IEEE Transactions on Cybernetics](https://mc.manuscriptcentral.com/cyb-ieee); [IEEE Transactions on Neural Networks and Learning Systems](https://mc.manuscriptcentral.com/tnnls); [Pattern Recognition](https://www.journals.elsevier.com/pattern-recognition/); [Information Sciences](https://www.journals.elsevier.com/information-sciences); [Knowledge-Based Systems](https://www.journals.elsevier.com/knowledge-based-systems); [Applied Intelligence](https://www.editorialmanager.com/apin/Default.aspx)
-* Program Committee: [AAAI 2022](https://aaai.org/Conferences/AAAI-22/); [IJCNN 2021](https://www.ijcnn.org/)
+* Program Committee: AAAI; IJCNN
