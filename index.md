@@ -34,11 +34,12 @@ I received the Ph.D. degree from the School of Informatics, Xiamen University, X
 
 #### Teaching Experience
 
-* AI Principles (for undergraduate students), Fall, 2021
+* AI Principles (for undergraduate students), Fall, 2021, 2022
+* Systems Analysis and Design (for undergraduate students), Fall, 2022
 * Computer Fundamentals (for undergraduate students, in English), Fall, 2021
 
 ---
 
 #### Professional Activities
 * Journal Reviewer: [IEEE Transactions on Knowledge and Data Engineering](https://mc.manuscriptcentral.com/tkde-cs); [IEEE Transactions on Cybernetics](https://mc.manuscriptcentral.com/cyb-ieee); [IEEE Transactions on Neural Networks and Learning Systems](https://mc.manuscriptcentral.com/tnnls); [Pattern Recognition](https://www.journals.elsevier.com/pattern-recognition/); [Information Sciences](https://www.journals.elsevier.com/information-sciences); [Knowledge-Based Systems](https://www.journals.elsevier.com/knowledge-based-systems); [Applied Intelligence](https://www.editorialmanager.com/apin/Default.aspx)
-* Program Committee: AAAI; IJCNN
+* Program Committee: AAAI; IJCNN; 
