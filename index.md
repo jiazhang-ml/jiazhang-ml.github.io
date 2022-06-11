@@ -15,7 +15,7 @@ I received the Ph.D. degree from the School of Informatics, Xiamen University, X
 
 ---
 
-#### Selected Publications (More Details in [Google Scholar Link](https://scholar.google.com/citations?user=yBaTk-gAAAAJ&hl=en))
+#### Selected Publications
 
 * A. Tan, J. Liang, W.-Z. Wu, <u>J. Zhang</u>. Semi-Supervised Partial Multi-Label Classification via Consistency Learning. **Pattern Recognition**, Elsevier BV, 2022: 108839.
 * G. Du, <u>J. Zhang</u>, M. Jiang, J. Long, Y. Lin, S. Li, K. C. Tan. Graph-based class-imbalance learning with label enhancement. **IEEE Transactions on Neural Networks and Learning Systems** (Early Access), 2021.
