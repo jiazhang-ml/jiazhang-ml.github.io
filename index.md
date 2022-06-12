@@ -18,7 +18,7 @@ I received the Ph.D. degree from the School of Informatics, Xiamen University, X
 #### Selected Publications
 
 * A. Tan, J. Liang, W.-Z. Wu, <u>J. Zhang</u>. Semi-Supervised Partial Multi-Label Classification via Consistency Learning. **Pattern Recognition**, Elsevier BV, 2022: 108839.
-* <u>J. Zhang</u>, S. Li, M. Jiang, K. C. Tan. Learning from weakly labeled data based on manifold regularized sparse model. **IEEE Transactions on Cybernetics** (Early Access), 2022, 52(5): 3841-3854. [[code](MSWL-master.zip)]
+* <u>J. Zhang</u>, S. Li, M. Jiang, K. C. Tan. Learning from weakly labeled data based on manifold regularized sparse model. **IEEE Transactions on Cybernetics**, 2022, 52(5): 3841-3854. [[code](MSWL-master.zip)]
 * Z.-A. Huang, <u>J. Zhang</u>, Z. Zhu, E. Q. Wu, K. C. Tan. Identification of autistic risk candidate genes and toxic chemicals via multi-label learning. **IEEE Transactions on Neural Networks and Learning Systems**, 2021, 32(9): 3971-3984.
 * G. Du, <u>J. Zhang</u>, M. Jiang, J. Long, Y. Lin, S. Li, K. C. Tan. Graph-based class-imbalance learning with label enhancement. **IEEE Transactions on Neural Networks and Learning Systems** (Early Access), 2021.
 * G. Du, <u>J. Zhang</u>, F. Ma, M. Zhao, Y. Lin, S. Li. Towards graph-based class-imbalance learning for hospital readmission. **Expert Systems with Applications**, 2021, 176: 114791.
