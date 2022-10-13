@@ -17,8 +17,8 @@ I received the Ph.D. degree from the School of Informatics, Xiamen University, X
 
 #### Selected Publications
 
-* <u>J. Zhang</u>, Y. Lin, M. Jiang, S. Li, Y. Tang, J. Long, J. Weng, K. C. Tan. Fast multilabel feature selection via global relevance and redundancy optimization. **IEEE Transactions on Neural Networks and Learning Systems** (Early Access), 2022.
 * <u>J. Zhang</u>, H. Wu, M. Jiang, J. Liu, S. Li, Y. Tang, J. Long. Group-preserving label-specific feature selection for multi-label learning. **Expert Systems with Applications**, 2023, 213: 118861. [[code](https://codeocean.com/capsule/1281687/tree/v1)]
+* <u>J. Zhang</u>, Y. Lin, M. Jiang, S. Li, Y. Tang, J. Long, J. Weng, K. C. Tan. Fast multilabel feature selection via global relevance and redundancy optimization. **IEEE Transactions on Neural Networks and Learning Systems** (Early Access), 2022.
 * A. Tan, J. Liang, W.-Z. Wu, <u>J. Zhang</u>. Semi-supervised partial multi-label classification via consistency learning. **Pattern Recognition**, Elsevier BV, 2022, 131: 108839.
 * <u>J. Zhang</u>, S. Li, M. Jiang, K. C. Tan. Learning from weakly labeled data based on manifold regularized sparse model. **IEEE Transactions on Cybernetics**, 2022, 52(5): 3841-3854. [[code](MSWL-master.zip)]
 * Z.-A. Huang, <u>J. Zhang</u>, Z. Zhu, E. Q. Wu, K. C. Tan. Identification of autistic risk candidate genes and toxic chemicals via multi-label learning. **IEEE Transactions on Neural Networks and Learning Systems**, 2021, 32(9): 3971-3984.
