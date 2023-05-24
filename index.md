@@ -17,10 +17,10 @@ layout: default
 #### Selected Publications
 
 * <u>J. Zhang</u>, H. Wu, M. Jiang, J. Liu, S. Li, Y. Tang, J. Long. Group-preserving label-specific feature selection for multi-label learning. **Expert Systems with Applications**, 2023, 213: 118861. [[code](https://codeocean.com/capsule/1281687/tree/v1)]
+* D. Liu, <u>J. Zhang</u>, H. Wu, S. Liu, J. Long. Multi-source transfer learning for EEG classification based on domain adversarial neural network. **IEEE Transactions on Neural Systems and Rehabilitation Engineering**, 2023, 31: 218-228.
 * H. Wu, C. W. Wong, <u>J. Zhang</u>, Y. Yan, D. Yu, J. Long, M. Ng. Cold-start next-item recommendation by user-item matching and auto-encoders. **IEEE Transactions on Services Computing** (Early Access), 2023.
 * <u>J. Zhang</u>, Y. Lin, M. Jiang, S. Li, Y. Tang, J. Long, J. Weng, K. C. Tan. Fast multilabel feature selection via global relevance and redundancy optimization. **IEEE Transactions on Neural Networks and Learning Systems** (Early Access), 2022.
-* D. Liu, <u>J. Zhang</u>, H. Wu, S. Liu, J. Long. Multi-source transfer learning for EEG classification based on domain adversarial neural network. **IEEE Transactions on Neural Systems and Rehabilitation Engineering** (Early Access), 2022.
-* S. Liu, <u>J. Zhang</u>, A. Wang, H. Wu,  Q. Zhao, J. Long. Subject adaptation convolutional neural network for EEG-based motor imagery classification. **Journal of Neural Engineering** (Early Access), 2022.
+* S. Liu, <u>J. Zhang</u>, A. Wang, H. Wu,  Q. Zhao, J. Long. Subject adaptation convolutional neural network for EEG-based motor imagery classification. **Journal of Neural Engineering**, 2022, 19(6): 066003.
 * A. Tan, J. Liang, W.-Z. Wu, <u>J. Zhang</u>. Semi-supervised partial multi-label classification via consistency learning. **Pattern Recognition**, Elsevier BV, 2022, 131: 108839.
 * <u>J. Zhang</u>, S. Li, M. Jiang, K. C. Tan. Learning from weakly labeled data based on manifold regularized sparse model. **IEEE Transactions on Cybernetics**, 2022, 52(5): 3841-3854. [[code](MSWL-master.zip)]
 * Z.-A. Huang, <u>J. Zhang</u>, Z. Zhu, E. Q. Wu, K. C. Tan. Identification of autistic risk candidate genes and toxic chemicals via multi-label learning. **IEEE Transactions on Neural Networks and Learning Systems**, 2021, 32(9): 3971-3984.
@@ -47,7 +47,5 @@ layout: default
 #### Professional Activities
 * Journal Reviewer: [IEEE Transactions on Knowledge and Data Engineering](https://mc.manuscriptcentral.com/tkde-cs); [ACM Transactions on Knowledge Discovery from Data](https://mc.manuscriptcentral.com/tkdd); [IEEE Transactions on Evolutionary Computation](https://mc.manuscriptcentral.com/tevc-ieee); [IEEE Transactions on Cybernetics](https://mc.manuscriptcentral.com/cyb-ieee); [IEEE Transactions on Neural Networks and Learning Systems](https://mc.manuscriptcentral.com/tnnls); [IEEE Transactions on Emerging Topics in Computational Intelligence](https://mc.manuscriptcentral.com/tetci-ieee)；[Pattern Recognition](https://www.journals.elsevier.com/pattern-recognition/); [Information Sciences](https://www.journals.elsevier.com/information-sciences); [Knowledge-Based Systems](https://www.journals.elsevier.com/knowledge-based-systems); [Applied Intelligence](https://www.editorialmanager.com/apin/Default.aspx); Knowledge and Information Systems; Artificial Intelligence Review; Information Fusion
 * Program Committee: AAAI; IJCNN; 
-
----
 
 <font color=silver>Last updated: May 2023. Copyright (c) 2023 Jia Zhang. All rights reserved.</font>
