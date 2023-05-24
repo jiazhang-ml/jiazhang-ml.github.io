@@ -48,4 +48,6 @@ layout: default
 * Journal Reviewer: [IEEE Transactions on Knowledge and Data Engineering](https://mc.manuscriptcentral.com/tkde-cs); [ACM Transactions on Knowledge Discovery from Data](https://mc.manuscriptcentral.com/tkdd); [IEEE Transactions on Evolutionary Computation](https://mc.manuscriptcentral.com/tevc-ieee); [IEEE Transactions on Cybernetics](https://mc.manuscriptcentral.com/cyb-ieee); [IEEE Transactions on Neural Networks and Learning Systems](https://mc.manuscriptcentral.com/tnnls); [IEEE Transactions on Emerging Topics in Computational Intelligence](https://mc.manuscriptcentral.com/tetci-ieee)；[Pattern Recognition](https://www.journals.elsevier.com/pattern-recognition/); [Information Sciences](https://www.journals.elsevier.com/information-sciences); [Knowledge-Based Systems](https://www.journals.elsevier.com/knowledge-based-systems); [Applied Intelligence](https://www.editorialmanager.com/apin/Default.aspx); Knowledge and Information Systems; Artificial Intelligence Review; Information Fusion
 * Program Committee: AAAI; IJCNN; 
 
+---
+
 <font color=silver>Last updated: May 2023. Copyright (c) 2023 Jia Zhang. All rights reserved.</font>
