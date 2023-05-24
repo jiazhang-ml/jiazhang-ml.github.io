@@ -5,10 +5,8 @@ layout: default
 
 <img class="profile-picture" src="222.jpg">
 
-**Short Biography:** I am now a lecturer at the [College of Information Science and Technology](https://xxxy.jnu.edu.cn/main.htm), [Jinan University](https://www.jnu.edu.cn/). 
-
-I received the Ph.D. degree from the School of Informatics, Xiamen University, Xiamen, China, in 2020, supervised by [Prof. Shaozi Li](https://imt.xmu.edu.cn/info/1003/1182.htm). I was a visiting scholar at City University of Hong Kong, supervised by [Prof. Kay Chen Tan](https://www.polyu.edu.hk/comp/people/academic-staff/prof-tan-kay-chen/). My research interests include *machine learning*, *data mining*, and *human-computer interaction*. I am generally interested in design, analysis, and implementation of algorithms for scientific computing problems. 
-
+**Short Biography:** I am now a lecturer at the [College of Information Science and Technology](https://xxxy.jnu.edu.cn/main.htm), [Jinan University](https://www.jnu.edu.cn/). I received the Ph.D. degree from the School of Informatics, Xiamen University, Xiamen, China, in 2020, supervised by [Prof. Shaozi Li](https://imt.xmu.edu.cn/info/1003/1182.htm). I was a visiting scholar at City University of Hong Kong, supervised by [Prof. Kay Chen Tan](https://www.polyu.edu.hk/comp/people/academic-staff/prof-tan-kay-chen/). 
+**SResearch Interests:** My research interests include *machine learning* and *data mining*. In particular, I am interested in multi-label learning, weak label learning, feature selection, and information fusion. I am also interested in various machine learning applications in health care, bioinformatics, and human-computer interaction.
 
 
 **Email:** [jiazhang@jnu.edu.cn](mailto:jiazhang@jnu.edu.cn)
@@ -46,5 +44,5 @@ I received the Ph.D. degree from the School of Informatics, Xiamen University, X
 ---
 
 #### Professional Activities
-* Journal Reviewer: [IEEE Transactions on Knowledge and Data Engineering](https://mc.manuscriptcentral.com/tkde-cs); [ACM Transactions on Knowledge Discovery from Data](https://mc.manuscriptcentral.com/tkdd); Knowledge and Information Systems; [IEEE Transactions on Evolutionary Computation](https://mc.manuscriptcentral.com/tevc-ieee); [IEEE Transactions on Cybernetics](https://mc.manuscriptcentral.com/cyb-ieee); [IEEE Transactions on Neural Networks and Learning Systems](https://mc.manuscriptcentral.com/tnnls); [IEEE Transactions on Emerging Topics in Computational Intelligence](https://mc.manuscriptcentral.com/tetci-ieee)；[Pattern Recognition](https://www.journals.elsevier.com/pattern-recognition/); Artificial Intelligence Review; Information Fusion; [Information Sciences](https://www.journals.elsevier.com/information-sciences); [Knowledge-Based Systems](https://www.journals.elsevier.com/knowledge-based-systems); [Applied Intelligence](https://www.editorialmanager.com/apin/Default.aspx)
+* Journal Reviewer: [IEEE Transactions on Knowledge and Data Engineering](https://mc.manuscriptcentral.com/tkde-cs); [ACM Transactions on Knowledge Discovery from Data](https://mc.manuscriptcentral.com/tkdd); [IEEE Transactions on Evolutionary Computation](https://mc.manuscriptcentral.com/tevc-ieee); [IEEE Transactions on Cybernetics](https://mc.manuscriptcentral.com/cyb-ieee); [IEEE Transactions on Neural Networks and Learning Systems](https://mc.manuscriptcentral.com/tnnls); [IEEE Transactions on Emerging Topics in Computational Intelligence](https://mc.manuscriptcentral.com/tetci-ieee)；[Pattern Recognition](https://www.journals.elsevier.com/pattern-recognition/); [Information Sciences](https://www.journals.elsevier.com/information-sciences); [Knowledge-Based Systems](https://www.journals.elsevier.com/knowledge-based-systems); [Applied Intelligence](https://www.editorialmanager.com/apin/Default.aspx); Knowledge and Information Systems; Artificial Intelligence Review; Information Fusion.
 * Program Committee: AAAI; IJCNN; 
