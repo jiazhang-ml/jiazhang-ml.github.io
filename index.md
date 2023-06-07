@@ -3,7 +3,7 @@
 layout: default 
 ---
 
-<img class="profile-picture" src="222.jpg">
+<img class="profile-picture" src="jiazhang.jpg">
 
 **Short Biography:** I am now a lecturer at the [College of Information Science and Technology](https://xxxy.jnu.edu.cn/main.htm), [Jinan University](https://www.jnu.edu.cn/). I received the Ph.D. degree from the School of Informatics, Xiamen University, Xiamen, China, in 2020, supervised by [Prof. Shaozi Li](https://imt.xmu.edu.cn/info/1003/1182.htm). I was a visiting scholar at City University of Hong Kong, supervised by [Prof. Kay Chen Tan](https://www.polyu.edu.hk/comp/people/academic-staff/prof-tan-kay-chen/). 
 
