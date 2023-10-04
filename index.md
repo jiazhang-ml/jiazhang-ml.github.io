@@ -32,7 +32,7 @@ layout: default
 
 #### Teaching Experience
 
-* AI Principles (for undergraduate students), Fall, 2021, 2022, 2023
+* Artificial Intelligence Principles (for undergraduate students), Fall, 2021, 2022, 2023
 * Systems Analysis and Design (for undergraduate students), Fall, 2022, 2023
 * Computer Fundamentals (for undergraduate students, in English), Fall, 2021
 
