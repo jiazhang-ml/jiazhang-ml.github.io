@@ -17,22 +17,16 @@ layout: default
 #### Selected Publications
 
 * <u>J. Zhang</u>, H. Wu, M. Jiang, J. Liu, S. Li, Y. Tang, J. Long. Group-preserving label-specific feature selection for multi-label learning. **Expert Systems with Applications**, 2023, 213: 118861. [[code](https://codeocean.com/capsule/1281687/tree/v1)]
+* G. Du, <u>J. Zhang</u>, M. Jiang, J. Long, Y. Lin, S. Li, K. C. Tan. Graph-based class-imbalance learning with label enhancement. **IEEE Transactions on Neural Networks and Learning Systems**, 2023, 34 (9): 6081-6095.
 * D. Liu, <u>J. Zhang</u>, H. Wu, S. Liu, J. Long. Multi-source transfer learning for EEG classification based on domain adversarial neural network. **IEEE Transactions on Neural Systems and Rehabilitation Engineering**, 2023, 31: 218-228.
-* H. Wu, C. W. Wong, <u>J. Zhang</u>, Y. Yan, D. Yu, J. Long, M. Ng. Cold-start next-item recommendation by user-item matching and auto-encoders. **IEEE Transactions on Services Computing** (Early Access), 2023.
+* H. Wu, C. W. Wong, <u>J. Zhang</u>, Y. Yan, D. Yu, J. Long, M. Ng. Cold-start next-item recommendation by user-item matching and auto-encoders. **IEEE Transactions on Services Computing**, 2023, 16 (4): 2477-2489.
 * <u>J. Zhang</u>, Y. Lin, M. Jiang, S. Li, Y. Tang, J. Long, J. Weng, K. C. Tan. Fast multilabel feature selection via global relevance and redundancy optimization. **IEEE Transactions on Neural Networks and Learning Systems** (Early Access), 2022.
 * S. Liu, <u>J. Zhang</u>, A. Wang, H. Wu,  Q. Zhao, J. Long. Subject adaptation convolutional neural network for EEG-based motor imagery classification. **Journal of Neural Engineering**, 2022, 19(6): 066003.
 * A. Tan, J. Liang, W.-Z. Wu, <u>J. Zhang</u>. Semi-supervised partial multi-label classification via consistency learning. **Pattern Recognition**, Elsevier BV, 2022, 131: 108839.
 * <u>J. Zhang</u>, S. Li, M. Jiang, K. C. Tan. Learning from weakly labeled data based on manifold regularized sparse model. **IEEE Transactions on Cybernetics**, 2022, 52(5): 3841-3854. [[code](MSWL-master.zip)]
 * Z.-A. Huang, <u>J. Zhang</u>, Z. Zhu, E. Q. Wu, K. C. Tan. Identification of autistic risk candidate genes and toxic chemicals via multi-label learning. **IEEE Transactions on Neural Networks and Learning Systems**, 2021, 32(9): 3971-3984.
-* G. Du, <u>J. Zhang</u>, M. Jiang, J. Long, Y. Lin, S. Li, K. C. Tan. Graph-based class-imbalance learning with label enhancement. **IEEE Transactions on Neural Networks and Learning Systems** (Early Access), 2021.
-* G. Du, <u>J. Zhang</u>, F. Ma, M. Zhao, Y. Lin, S. Li. Towards graph-based class-imbalance learning for hospital readmission. **Expert Systems with Applications**, 2021, 176: 114791.
 * <u>J. Zhang</u>, Y. Lin, M. Jiang, S. Li, Y. Tang, K. C. Tan. Multi-label feature selection via global relevance and redundancy optimization. **In Proceedings of the 29th International Joint Conference on Artificial Intelligence (IJCAI’20)**, Yokohama, Japan, 2020, pp. 2512–2518. [[code](GRRO-master.zip)] [[report](v15.pptx)] [[poster](poster.pdf)]
 * <u>J. Zhang</u>, Z. Luo, C. Li, C. Zhou, S. Li. Manifold regularized discriminative feature selection for multi-label learning. **Pattern Recognition**, 2019, 95: 136-150. [[code](MDFS-master.zip)]
-* <u>J. Zhang</u>, C. Li, Z. Sun, Z. Luo, C. Zhou, S. Li. Towards a unified multi-source-based optimization framework for multi-label learning. **Applied Soft Computing**, 2019, 76: 425-435.
-* <u>J. Zhang</u>, C. Li, D. Cao, Y. Lin, S. Su, L. Dai, S. Li. Multi-label learning with label-specific features by resolving label correlations. **Knowledge-Based Systems**, 2018, 159: 148-157.
-* <u>J. Zhang</u>, C. Li, Y. Lin, Y. Shao, S. Li. Computational drug repositioning using collaborative filtering via multi-source fusion. **Expert Systems with Applications**, 2017, 84: 281-289. 
-* <u>J. Zhang</u>, Y. Lin, M. Lin, J. Liu. An effective collaborative filtering algorithm based on user preference clustering. **Applied Intelligence**, 2016, 45(2): 230--240.
-* Y. Lin, Q. Hu, <u>J. Zhang</u>, X. Wu. Multi-label feature selection with streaming labels. **Information Sciences**, 2016, 372: 256-275.
 
 ---
 
