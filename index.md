@@ -14,7 +14,7 @@ layout: default
 
 ---
 
-#### Selected Publications [[Google Scholar Citaions](https://scholar.google.com.hk/citations?user=yBaTk-gAAAAJ&hl=en)]
+#### Selected Publications [[Google Scholar Citations](https://scholar.google.com.hk/citations?user=yBaTk-gAAAAJ&hl=en)]
 
 * <u>J. Zhang</u>, H. Wu, M. Jiang, J. Liu, S. Li, Y. Tang, J. Long. Group-preserving label-specific feature selection for multi-label learning. **Expert Systems with Applications**, 2023, 213: 118861. [[code](https://codeocean.com/capsule/1281687/tree/v1)]
 * G. Du, <u>J. Zhang</u>, M. Jiang, J. Long, Y. Lin, S. Li, K. C. Tan. Graph-based class-imbalance learning with label enhancement. **IEEE Transactions on Neural Networks and Learning Systems**, 2023, 34 (9): 6081-6095.
@@ -47,5 +47,5 @@ layout: default
 #### Talks
 * "Discriminative Feature Learning Algorithms for Multilabel Classification", Minnan Normal University, Zhangzhou, June 18, 2023.
 * "Recent Progress on Several Multilabel Learning Topics", Huaqiao University, Xiamen, May 19, 2022.
-* "Identification of Health State Based on Large-Scale Traditional Chinese Medicin Data", Jinan University, Guangzhou, June 19, 2021.
+* "Identification of Health State Based on Large-Scale Traditional Chinese Medicine Data", Jinan University, Guangzhou, June 19, 2021.
 * "Research on Key Technologies for Multilabel Learning under Complex Data Environments", Zhejiang Ocean University, Zhoushan, June 6, 2020.
