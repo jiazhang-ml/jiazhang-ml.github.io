@@ -30,6 +30,12 @@ layout: default
 
 ---
 
+#### Professional Activities
+* Journal Reviewer: [IEEE Transactions on Pattern Analysis and Machine Intelligence](https://mc.manuscriptcentral.com/tpami-cs); [IEEE Transactions on Knowledge and Data Engineering](https://mc.manuscriptcentral.com/tkde-cs); [ACM Transactions on Knowledge Discovery from Data](https://mc.manuscriptcentral.com/tkdd); [IEEE Transactions on Evolutionary Computation](https://mc.manuscriptcentral.com/tevc-ieee); [IEEE Transactions on Cybernetics](https://mc.manuscriptcentral.com/cyb-ieee); [IEEE Transactions on Neural Networks and Learning Systems](https://mc.manuscriptcentral.com/tnnls); [IEEE Transactions on Big Data](https://mc.manuscriptcentral.com/tbd-cs); [IEEE Transactions on Emerging Topics in Computational Intelligence](https://mc.manuscriptcentral.com/tetci-ieee); [IEEE Transactions on Artificial Intelligence](https://mc.manuscriptcentral.com/tai-ieee); [Pattern Recognition](https://www.journals.elsevier.com/pattern-recognition/); [Knowledge and Information Systems](https://www.springer.com/journal/10115)...
+* Program Committee: AAAI; IJCNN; 
+
+---
+
 #### Teaching Experience
 
 * AI Principles (for undergraduate students), Fall, 2021, 2022, 2023
@@ -37,10 +43,6 @@ layout: default
 * Computer Fundamentals (for undergraduate students, in English), Fall, 2021
 
 ---
-
-#### Professional Activities
-* Journal Reviewer: [IEEE Transactions on Pattern Analysis and Machine Intelligence](https://mc.manuscriptcentral.com/tpami-cs); [IEEE Transactions on Knowledge and Data Engineering](https://mc.manuscriptcentral.com/tkde-cs); [ACM Transactions on Knowledge Discovery from Data](https://mc.manuscriptcentral.com/tkdd); [IEEE Transactions on Evolutionary Computation](https://mc.manuscriptcentral.com/tevc-ieee); [IEEE Transactions on Cybernetics](https://mc.manuscriptcentral.com/cyb-ieee); [IEEE Transactions on Neural Networks and Learning Systems](https://mc.manuscriptcentral.com/tnnls); [IEEE Transactions on Big Data](https://mc.manuscriptcentral.com/tbd-cs); [IEEE Transactions on Emerging Topics in Computational Intelligence](https://mc.manuscriptcentral.com/tetci-ieee); [IEEE Transactions on Artificial Intelligence](https://mc.manuscriptcentral.com/tai-ieee); [Pattern Recognition](https://www.journals.elsevier.com/pattern-recognition/); [Knowledge and Information Systems](https://www.springer.com/journal/10115)...
-* Program Committee: AAAI; IJCNN; 
 
 #### Talks
 * "Discriminative Feature Learning Algorithms for Multilabel Classification", Minnan Normal University, Zhangzhou, June 18, 2023.
