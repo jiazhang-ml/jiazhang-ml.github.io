@@ -30,7 +30,7 @@ layout: default
 
 ---
 
-#### Fundings
+#### Selected Funded Research Projects
 
 ---
 
