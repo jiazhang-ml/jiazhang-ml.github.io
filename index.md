@@ -14,7 +14,7 @@ layout: default
 
 ---
 
-#### Selected Publications
+#### Selected Publications [Google Scholar Citaions](https://scholar.google.com.hk/citations?user=yBaTk-gAAAAJ&hl=en)
 
 * <u>J. Zhang</u>, H. Wu, M. Jiang, J. Liu, S. Li, Y. Tang, J. Long. Group-preserving label-specific feature selection for multi-label learning. **Expert Systems with Applications**, 2023, 213: 118861. [[code](https://codeocean.com/capsule/1281687/tree/v1)]
 * G. Du, <u>J. Zhang</u>, M. Jiang, J. Long, Y. Lin, S. Li, K. C. Tan. Graph-based class-imbalance learning with label enhancement. **IEEE Transactions on Neural Networks and Learning Systems**, 2023, 34 (9): 6081-6095.
@@ -41,3 +41,9 @@ layout: default
 #### Professional Activities
 * Journal Reviewer: [IEEE Transactions on Pattern Analysis and Machine Intelligence](https://mc.manuscriptcentral.com/tpami-cs); [IEEE Transactions on Knowledge and Data Engineering](https://mc.manuscriptcentral.com/tkde-cs); [ACM Transactions on Knowledge Discovery from Data](https://mc.manuscriptcentral.com/tkdd); [IEEE Transactions on Evolutionary Computation](https://mc.manuscriptcentral.com/tevc-ieee); [IEEE Transactions on Cybernetics](https://mc.manuscriptcentral.com/cyb-ieee); [IEEE Transactions on Neural Networks and Learning Systems](https://mc.manuscriptcentral.com/tnnls); [IEEE Transactions on Big Data](https://mc.manuscriptcentral.com/tbd-cs); [IEEE Transactions on Emerging Topics in Computational Intelligence](https://mc.manuscriptcentral.com/tetci-ieee); [IEEE Transactions on Artificial Intelligence](https://mc.manuscriptcentral.com/tai-ieee); [Pattern Recognition](https://www.journals.elsevier.com/pattern-recognition/)...
 * Program Committee: AAAI; IJCNN; 
+
+#### Talks
+* "Discriminative Feature Learning Algorithms for Multilabel Classification", Minnan Normal University, Zhangzhou, June 18, 2023.
+* "Recent Progress on Several Multilabel Learning Topics", Huaqiao University, Xiamen, May 19, 2022.
+* "Identification of Health State Based on Large-Scale Traditional Chinese Medicin Data", Jinan University, Guangzhou, June 19, 2021.
+* "key Technologies for Multilabel Learning under Complex Data Environments", Zhejiang Ocean University, Zhoushan, June 6, 2020.
