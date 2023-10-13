@@ -33,7 +33,7 @@ layout: default
 #### Selected Funded Research Projects
 
 * "Key Techniques of Multilabel Classification Modeling with Ultrahigh Dimensional Label and Feature Data", National Natural Science Foundation of China (2022-2024), PI
-* "Key Techniques of Weakly Supervised Multilabel Classification Modeling with Multi-Modal Data", Natural Science Foundation of Guangdong Province (2022-2024), PI
+* "Key Techniques of Weakly Supervised Multilabel Classification Modeling with Multi-Modal Data", Natural Science Foundation of Guangdong Province, China (2022-2024), PI
 
 ---
 
