@@ -32,9 +32,13 @@ layout: default
 
 #### Selected Funded Research Projects
 
+* "Key Techniques of Multilabel Classification Modeling with Ultrahigh Dimensional Label and Feature Data", National Natural Science Foundation of China, 2022.01-2024.12, PI
+* "Key Techniques of Weakly Supervised Multilabel Classification Modeling with Multi-Model Data", Natural Science Foundation of Guangdong Province, 2022.01-2024.12, PI
+
 ---
 
 #### Professional Activities
+
 * Journal Reviewer: [IEEE Transactions on Pattern Analysis and Machine Intelligence](https://mc.manuscriptcentral.com/tpami-cs); [IEEE Transactions on Knowledge and Data Engineering](https://mc.manuscriptcentral.com/tkde-cs); [ACM Transactions on Knowledge Discovery from Data](https://mc.manuscriptcentral.com/tkdd); [IEEE Transactions on Evolutionary Computation](https://mc.manuscriptcentral.com/tevc-ieee); [IEEE Transactions on Cybernetics](https://mc.manuscriptcentral.com/cyb-ieee); [IEEE Transactions on Neural Networks and Learning Systems](https://mc.manuscriptcentral.com/tnnls); [IEEE Transactions on Big Data](https://mc.manuscriptcentral.com/tbd-cs); [IEEE Transactions on Emerging Topics in Computational Intelligence](https://mc.manuscriptcentral.com/tetci-ieee); [IEEE Transactions on Artificial Intelligence](https://mc.manuscriptcentral.com/tai-ieee); [Pattern Recognition](https://www.journals.elsevier.com/pattern-recognition/); [Knowledge and Information Systems](https://www.springer.com/journal/10115)...
 * Program Committee: AAAI; IJCNN; 
 
@@ -49,6 +53,7 @@ layout: default
 ---
 
 #### Talks
+
 * "Discriminative Feature Learning Algorithms for Multilabel Classification", Minnan Normal University, Zhangzhou, June 18, 2023.
 * "Recent Progress on Several Multilabel Learning Topics", Huaqiao University, Xiamen, May 19, 2022.
 * "Identification of Health State Based on Large-Scale Traditional Chinese Medicine Data", Jinan University, Guangzhou, June 19, 2021.
