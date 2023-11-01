@@ -15,18 +15,18 @@ layout: default
 
 #### Selected Publications [[Google Scholar Citations](https://scholar.google.com.hk/citations?user=yBaTk-gAAAAJ&hl=en)]
 
-* H. Wu, A. Yip, J. Long, <u>J. Zhang</u>, M. K. Ng. Simplicial complex neural networks. **IEEE Transactions on Pattern Analysis and Machine Intelligence** (Early Access), 2023.
-* <u>J. Zhang</u>, H. Wu, M. Jiang, J. Liu, S. Li, Y. Tang, J. Long. Group-preserving label-specific feature selection for multi-label learning. **Expert Systems with Applications**, 2023, 213: 118861. [[code](https://codeocean.com/capsule/1281687/tree/v1)]
-* G. Du, <u>J. Zhang</u>, M. Jiang, J. Long, Y. Lin, S. Li, K. C. Tan. Graph-based class-imbalance learning with label enhancement. **IEEE Transactions on Neural Networks and Learning Systems**, 2023, 34 (9): 6081-6095.
-* D. Liu, <u>J. Zhang</u>, H. Wu, S. Liu, J. Long. Multi-source transfer learning for EEG classification based on domain adversarial neural network. **IEEE Transactions on Neural Systems and Rehabilitation Engineering**, 2023, 31: 218-228.
-* H. Wu, C. W. Wong, <u>J. Zhang</u>, Y. Yan, D. Yu, J. Long, M. Ng. Cold-start next-item recommendation by user-item matching and auto-encoders. **IEEE Transactions on Services Computing**, 2023, 16 (4): 2477-2489.
-* <u>J. Zhang</u>, Y. Lin, M. Jiang, S. Li, Y. Tang, J. Long, J. Weng, K. C. Tan. Fast multilabel feature selection via global relevance and redundancy optimization. **IEEE Transactions on Neural Networks and Learning Systems** (Early Access), 2022. [[Supplementary Material](SM-GRROfast.pdf)]
-* S. Liu, <u>J. Zhang</u>, A. Wang, H. Wu,  Q. Zhao, J. Long. Subject adaptation convolutional neural network for EEG-based motor imagery classification. **Journal of Neural Engineering**, 2022, 19(6): 066003.
-* A. Tan, J. Liang, W.-Z. Wu, <u>J. Zhang</u>. Semi-supervised partial multi-label classification via consistency learning. **Pattern Recognition**, 2022, 131: 108839.
-* <u>J. Zhang</u>, S. Li, M. Jiang, K. C. Tan. Learning from weakly labeled data based on manifold regularized sparse model. **IEEE Transactions on Cybernetics**, 2022, 52(5): 3841-3854. [[code](MSWL-master.zip)]
-* Z.-A. Huang, <u>J. Zhang</u>, Z. Zhu, E. Q. Wu, K. C. Tan. Identification of autistic risk candidate genes and toxic chemicals via multi-label learning. **IEEE Transactions on Neural Networks and Learning Systems**, 2021, 32(9): 3971-3984.
-* <u>J. Zhang</u>, Y. Lin, M. Jiang, S. Li, Y. Tang, K. C. Tan. Multi-label feature selection via global relevance and redundancy optimization. **In Proceedings of the 29th International Joint Conference on Artificial Intelligence (IJCAI’20)**, Yokohama, Japan, 2020, pp. 2512–2518. [[code](GRRO-master.zip)] [[report](v15.pptx)] [[poster](poster.pdf)]
-* <u>J. Zhang</u>, Z. Luo, C. Li, C. Zhou, S. Li. Manifold regularized discriminative feature selection for multi-label learning. **Pattern Recognition**, 2019, 95: 136-150. [[code](MDFS-master.zip)]
+* Wu, H., et al. "Simplicial complex neural networks." **IEEE Transactions on Pattern Analysis and Machine Intelligence** (Early Access), 2023.
+* Zhang, J., et al. "Group-preserving label-specific feature selection for multi-label learning." **Expert Systems with Applications**, 2023, 213: 118861. [[code](https://codeocean.com/capsule/1281687/tree/v1)]
+* Du, G., et al. "Graph-based class-imbalance learning with label enhancement." **IEEE Transactions on Neural Networks and Learning Systems**, 2023, 34 (9): 6081-6095.
+* Liu, D., et al. "Multi-source transfer learning for EEG classification based on domain adversarial neural network." **IEEE Transactions on Neural Systems and Rehabilitation Engineering**, 2023, 31: 218-228.
+* Wu, H., et al. "Cold-start next-item recommendation by user-item matching and auto-encoders." **IEEE Transactions on Services Computing**, 2023, 16 (4): 2477-2489.
+* Zhang, J., et al. "Fast multilabel feature selection via global relevance and redundancy optimization." **IEEE Transactions on Neural Networks and Learning Systems** (Early Access), 2022. [[Supplementary Material](SM-GRROfast.pdf)]
+* Liu, S., et al. "Subject adaptation convolutional neural network for EEG-based motor imagery classification." **Journal of Neural Engineering**, 2022, 19(6): 066003.
+* Tan, A., et al. "Semi-supervised partial multi-label classification via consistency learning." **Pattern Recognition**, 2022, 131: 108839.
+* Zhang, J., et al. "Learning from weakly labeled data based on manifold regularized sparse model." **IEEE Transactions on Cybernetics**, 2022, 52(5): 3841-3854. [[code](MSWL-master.zip)]
+* Huang, Z.-A., et al. "Identification of autistic risk candidate genes and toxic chemicals via multi-label learning." **IEEE Transactions on Neural Networks and Learning Systems**, 2021, 32(9): 3971-3984.
+* Zhang, J., et al. "Multi-label feature selection via global relevance and redundancy optimization." **In Proceedings of the 29th International Joint Conference on Artificial Intelligence (IJCAI’20)**, Yokohama, Japan, 2020, pp. 2512–2518. [[code](GRRO-master.zip)] [[report](v15.pptx)] [[poster](poster.pdf)]
+* Zhang, J., et al. "Manifold regularized discriminative feature selection for multi-label learning." **Pattern Recognition**, 2019, 95: 136-150. [[code](MDFS-master.zip)]
 
 ---
 
@@ -54,7 +54,7 @@ layout: default
 
 #### Talks
 
-* "Discriminative Feature Learning Algorithms for Multilabel Classification", Minnan Normal University, Zhangzhou, June 18, 2023.
-* "Recent Progress on Several Multilabel Learning Topics", Huaqiao University, Xiamen, May 19, 2022.
-* "Identification of Health State Based on Large-Scale Traditional Chinese Medicine Data", Jinan University, Guangzhou, June 19, 2021.
-* "Research on Key Technologies for Multilabel Learning under Complex Data Environments", Zhejiang Ocean University, Zhoushan, June 6, 2020.
+* "Discriminative Feature Learning Algorithms for Multilabel Classification", Minnan Normal University, Zhangzhou, June 18, 2023
+* "Recent Progress on Several Multilabel Learning Topics", Huaqiao University, Xiamen, May 19, 2022
+* "Identification of Health State Based on Large-Scale Traditional Chinese Medicine Data", Jinan University, Guangzhou, June 19, 2021
+* "Research on Key Technologies for Multilabel Learning under Complex Data Environments", Zhejiang Ocean University, Zhoushan, June 6, 2020
