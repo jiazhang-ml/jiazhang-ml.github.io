@@ -3,8 +3,18 @@
 layout: default 
 ---
 
+ <div id-"content">
+
+<diy id="left">
+<table style="background-color:white:">
+<tbody><tr nosave-"">
+<td valign="CENTER>
+
 <img class="profile-picture" src="jiazhang.jpg">
 <iframe frameborder="no" border="0" marginwidth="0" marginheight="0" width=150 height=52 src="//music.163.com/outchain/player?type=2&id=519870772&auto=1&height=32"></iframe>
+
+<td valign="CENTER” width-"2%”> 
+</td>
 
 **Short Biography:** I am currently a Lecturer in the [College of Information Science and Technology](https://xxxy.jnu.edu.cn/main.htm) of [Jinan University](https://www.jnu.edu.cn/). I got my PhD from the [School of Informatics](https://informatics.xmu.edu.cn/), [Xiamen University](https://www.xmu.edu.cn/), Xiamen, China, in 2020, supervised by [Prof. Shaozi Li](https://imt.xmu.edu.cn/info/1003/1182.htm). I was a visiting student at the City University of Hong Kong, supervised by [Prof. Kay Chen Tan](https://www.polyu.edu.hk/comp/people/academic-staff/prof-tan-kay-chen/). 
 
