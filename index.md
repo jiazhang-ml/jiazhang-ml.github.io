@@ -58,3 +58,12 @@ layout: default
 * "Recent Progress on Several Multilabel Learning Topics", Huaqiao University, Xiamen, May 19, 2022
 * "Identification of Health State Based on Large-Scale Traditional Chinese Medicine Data", Jinan University, Guangzhou, June 19, 2021
 * "Research on Key Technologies for Multilabel Learning under Complex Data Environments", Zhejiang Ocean University, Zhoushan, June 6, 2020
+
+#### Useful Links
+* Guidance for Writing Technical Papers by [Andrew M. Ibrahim](https://mp.weixin.qq.com/s/Hq1Gqpe1uRBQCzXu3_n3zg)/[Jennifer Widom](https://cs.stanford.edu/people/widom/paper-writing.html)/[Andrew Hendry](http://redpath-staff.mcgill.ca/hendry/writingtips.pdf)/[Zhihua Zhou](https://mp.weixin.qq.com/s/MbukwR8X6KC-IIGpBpFJMg)
+* [CS Journal/Conference Ranking List](https://www.ccf.org.cn/Academic_Evaluation/By_category/) by China Computer Federation
+* [一个研究生导师的肺腑之言](https://www.scholat.com/vpost.html?pid=32513)（来源：人人网，彭宽军老师日志）
+* [我为什么鼓励你读博士](https://www.scholat.com/vpost.html?pid=15725) （来源：《中国计算机学会通讯》第7期《专栏》）
+ 	
+ 	
+  
