@@ -58,6 +58,3 @@ layout: default
 * "Recent Progress on Several Multilabel Learning Topics", Huaqiao University, Xiamen, May 19, 2022
 * "Identification of Health State Based on Large-Scale Traditional Chinese Medicine Data", Jinan University, Guangzhou, June 19, 2021
 * "Research on Key Technologies for Multilabel Learning under Complex Data Environments", Zhejiang Ocean University, Zhoushan, June 6, 2020
- 	
-<font color= #DCDCDC>Last updated: December 2023. Copyright (c) 2023 Jia Zhang. All rights reserved.</font>
-  
