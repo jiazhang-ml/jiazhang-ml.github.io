@@ -15,6 +15,7 @@ layout: default
 
 #### Selected Publications [[Google Scholar Citations](https://scholar.google.com.hk/citations?user=yBaTk-gAAAAJ&hl=en)]
 
+* Du, G., et al. "Semi-supervised imbalanced multi-label classification with label propagation". Pattern Recognition, Elsevier BV, 2024, XX: 110358.
 * Wu, H., et al. "Simplicial complex neural networks." IEEE Transactions on Pattern Analysis and Machine Intelligence, 2024, 46(1): 561-575.
 * Zhang, J., et al. "Group-preserving label-specific feature selection for multi-label learning." Expert Systems with Applications, 2023, 213: 118861. [[code](https://codeocean.com/capsule/1281687/tree/v1)]
 * Du, G., et al. "Graph-based class-imbalance learning with label enhancement." IEEE Transactions on Neural Networks and Learning Systems, 2023, 34 (9): 6081-6095.
