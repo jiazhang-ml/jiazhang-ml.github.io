@@ -38,7 +38,7 @@ layout: default
 * Zhang, J., et al. "Computational drug repositioning using collaborative filtering via multi-source fusion." Expert Systems with Applications, 2017, 84: 281-289.
 
 -Native Publication
-* 赵文, 张佳, 徐佳君, 辛基梁, 周常恩, 李绍滋, 李灿东. 四诊合参智能化发展现状及实现路径. 中医杂志, 2021, 61(1): 58-62, 67.
+* 赵文, 张佳, 徐佳君, 辛基梁, 周常恩, 李绍滋, 李灿东. 四诊合参智能化发展现状及实现路径. 中医杂志, 2020, 61(1): 58-62, 67.
 
 ---
 
