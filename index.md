@@ -25,6 +25,7 @@ layout: default
 * Zhang, J., et al. "Learning from weakly labeled data based on manifold regularized sparse model." IEEE Transactions on Cybernetics, 2022, 52(5): 3841-3854. [[code](MSWL-master.zip)]
 * Zhang, J., et al. "Multi-label feature selection via global relevance and redundancy optimization." In Proceedings of the 29th International Joint Conference on Artificial Intelligence (IJCAI’20), Yokohama, Japan, 2020, pp. 2512–2518. [[code](GRRO-master.zip)] [[report](v15.pptx)] [[poster](poster.pdf)]
 * Zhang, J., et al. "Manifold regularized discriminative feature selection for multi-label learning." Pattern Recognition, 2019, 95: 136-150. [[code](MDFS-master.zip)]
+
 -Applied Research:
 * Liu, D., et al. "Multi-source transfer learning for EEG classification based on domain adversarial neural network." IEEE Transactions on Neural Systems and Rehabilitation Engineering, 2023, 31: 218-228.
 * Wu, H., et al. "Cold-start next-item recommendation by user-item matching and auto-encoders." IEEE Transactions on Services Computing, 2023, 16 (4): 2477-2489.
