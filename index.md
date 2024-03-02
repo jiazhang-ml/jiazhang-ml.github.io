@@ -25,7 +25,7 @@ layout: default
 * Zhang, J., et al. "Learning from weakly labeled data based on manifold regularized sparse model." IEEE Transactions on Cybernetics, 2022, 52(5): 3841-3854. [[code](MSWL-master.zip)]
 * Zhang, J., et al. "Multi-label feature selection via global relevance and redundancy optimization." In Proceedings of the 29th International Joint Conference on Artificial Intelligence (IJCAI’20), Yokohama, Japan, 2020, pp. 2512–2518. [[code](GRRO-master.zip)] [[report](v15.pptx)] [[poster](poster.pdf)]
 * Zhang, J., et al. "Manifold regularized discriminative feature selection for multi-label learning." Pattern Recognition, 2019, 95: 136-150. [[code](MDFS-master.zip)]
-* Zhang, J., et al. "Towards a unified multi-source-based optimization framework for multi-label learning". Applied Soft Computing, 2019, 76: 425-435.
+* Zhang, J., et al. "Towards a unified multi-source-based optimization framework for multi-label learning." Applied Soft Computing, 2019, 76: 425-435.
 * Zhang, J., et al. "Multi-label learning with label-specific features by resolving label correlations." Knowledge-Based Systems, 2018, 159: 148-157.
 
 -Applied Research
