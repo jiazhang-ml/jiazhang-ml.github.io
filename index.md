@@ -33,12 +33,12 @@ layout: default
 * Wu, H., et al. "Cold-start next-item recommendation by user-item matching and auto-encoders." IEEE Transactions on Services Computing, 2023, 16 (4): 2477-2489.
 * Liu, S., et al. "Subject adaptation convolutional neural network for EEG-based motor imagery classification." Journal of Neural Engineering, 2022, 19(6): 066003.
 * Huang, Z.-A., et al. "Identification of autistic risk candidate genes and toxic chemicals via multi-label learning." IEEE Transactions on Neural Networks and Learning Systems, 2021, 32(9): 3971-3984.
-* Du, G., et al. "Learning from class-imbalance and heterogeneous data for 30-day hospital readmission." Neurocomputing, 2021, 420: 27-35
+* Du, G., et al. "Learning from class-imbalance and heterogeneous data for 30-day hospital readmission." Neurocomputing, 2021, 420: 27-35.
 * Xia, S., et al. "A microcosmic syndrome differentiation model for metabolic syndrome with multi-label learning." Evidence-Based Complementary and Alternative Medicine, 2020, 2020: 9081641.
 * Zhang, J., et al. "Computational drug repositioning using collaborative filtering via multi-source fusion." Expert Systems with Applications, 2017, 84: 281-289.
 
 -Native Publication
-* 赵文, 张佳, 徐佳君, 辛基梁, 周常恩, 李绍滋, 李灿东. 四诊合参智能化发展现状及实现路径. 中医杂志, 2020, 61(1): 58-62, 67
+* 赵文, 张佳, 徐佳君, 辛基梁, 周常恩, 李绍滋, 李灿东. 四诊合参智能化发展现状及实现路径. 中医杂志, 2020, 61(1): 58-62, 67.
 
 ---
 
