@@ -15,7 +15,7 @@ layout: default
 
 #### Selected Publications [[Google Scholar Citations](https://scholar.google.com.hk/citations?user=yBaTk-gAAAAJ&hl=en)]
 
--Applied Foundational Research:
+-Applied Foundational Research
 * Du, G., et al. "Semi-supervised imbalanced multi-label classification with label propagation." Pattern Recognition, Elsevier BV, 2024, 150: 110358.
 * Wu, H., et al. "Simplicial complex neural networks." IEEE Transactions on Pattern Analysis and Machine Intelligence, 2024, 46(1): 561-575.
 * Zhang, J., et al. "Group-preserving label-specific feature selection for multi-label learning." Expert Systems with Applications, 2023, 213: 118861. [[code](https://codeocean.com/capsule/1281687/tree/v1)]
@@ -28,7 +28,7 @@ layout: default
 * Zhang, J., et al. "Towards a unified multi-source-based optimization framework for multi-label learning". Applied Soft Computing, 2019, 76: 425-435.
 * Zhang, J., et al. "Multi-label learning with label-specific features by resolving label correlations." Knowledge-Based Systems, 2018, 159: 148-157.
 
--Applied Research:
+-Applied Research
 * Liu, D., et al. "Multi-source transfer learning for EEG classification based on domain adversarial neural network." IEEE Transactions on Neural Systems and Rehabilitation Engineering, 2023, 31: 218-228.
 * Wu, H., et al. "Cold-start next-item recommendation by user-item matching and auto-encoders." IEEE Transactions on Services Computing, 2023, 16 (4): 2477-2489.
 * Liu, S., et al. "Subject adaptation convolutional neural network for EEG-based motor imagery classification." Journal of Neural Engineering, 2022, 19(6): 066003.
