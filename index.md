@@ -26,7 +26,7 @@ layout: default
 * Liu, S., et al. "Subject adaptation convolutional neural network for EEG-based motor imagery classification." Journal of Neural Engineering, 2022, 19 (6): 066003.
 * Tan, A., et al. "Semi-supervised partial multi-label classification via consistency learning." Pattern Recognition, 2022, 131: 108839.
 * Huang, Z.-A., et al. "Identification of autistic risk candidate genes and toxic chemicals via multi-label learning." IEEE Transactions on Neural Networks and Learning Systems, 2021, 32 (9): 3971-3984.
-* Zhang, J., et al. "Multi-label feature selection via global relevance and redundancy optimization." In Proceedings of the 29th International Joint Conference on Artificial Intelligence (IJCAI’20), Yokohama, Japan, 2020, pp. 2512–2518. [[code](GRRO-master.zip)] [[report](v15.pptx)] [[poster](poster.pdf)]
+* Zhang, J., et al. "Multi-label feature selection via global relevance and redundancy optimization." In IJCAI, Yokohama, Japan, 2020, pp. 2512–2518. [[code](GRRO-master.zip)] [[report](v15.pptx)] [[poster](poster.pdf)]
 * Xia, S., et al. "A microcosmic syndrome differentiation model for metabolic syndrome with multi-label learning." Evidence-Based Complementary and Alternative Medicine, 2020, 2020: 9081641.
 * Zhang, J., et al. "Manifold regularized discriminative feature selection for multi-label learning." Pattern Recognition, 2019, 95: 136-150. [[code](MDFS-master.zip)]
 * Zhang, J., et al. "Towards a unified multi-source-based optimization framework for multi-label learning." Applied Soft Computing, 2019, 76: 425-435.
