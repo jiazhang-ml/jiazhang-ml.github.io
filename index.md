@@ -32,7 +32,9 @@ layout: default
 * Zhang, J., et al. "Towards a unified multi-source-based optimization framework for multi-label learning." Applied Soft Computing, 2019, 76: 425-435.
 * Zhang, J., et al. "Multi-label learning with label-specific features by resolving label correlations." Knowledge-Based Systems, 2018, 159: 148-157.
 * Zhang, J., et al. "Computational drug repositioning using collaborative filtering via multi-source fusion." Expert Systems with Applications, 2017, 84: 281-289.
-
+* Zhang, J., et al. "An effective collaborative filtering algorithm based on user preference clustering." Applied Intelligence, 2016, 45: 230-240.
+* Lin, Y., et al. "Multi-label feature selection with streaming labels." Information Sciences, 2016, 372: 256-275.
+  
 <u>Native Publication:</u>
 * 赵文, 张佳, 徐佳君, 辛基梁, 周常恩, 李绍滋, 李灿东. 四诊合参智能化发展现状及实现路径. 中医杂志, 2020, 61 (1): 58-62, 67.
 
