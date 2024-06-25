@@ -16,8 +16,9 @@ layout: default
 #### Selected Publications [[Google Scholar Citations](https://scholar.google.com.hk/citations?user=yBaTk-gAAAAJ&hl=en)]
 
 * Zhang, J., et al. "Fast multilabel feature selection via global relevance and redundancy optimization." IEEE Transactions on Neural Networks and Learning Systems, 2024, 35 (4): 5721-5734. [[Suppl. Material](SM-GRROfast.pdf)]
-* Du, G., et al. "Semi-supervised imbalanced multi-label classification with label propagation." Pattern Recognition, Elsevier BV, 2024, 150: 110358.
+* Du, G., et al. "Semi-supervised imbalanced multi-label classification with label propagation." Pattern Recognition, 2024, 150: 110358.
 * Wu, H., et al. "Simplicial complex neural networks." IEEE Transactions on Pattern Analysis and Machine Intelligence, 2024, 46 (1): 561-575.
+* Wu, H., et al. "High-order proximity and relation analysis for cross-network heterogeneous node classification." Machine Learning, 2024, https://doi.org/10.1007/s10994-024-06566-3.
 * Zhang, J., et al. "Group-preserving label-specific feature selection for multi-label learning." Expert Systems with Applications, 2023, 213: 118861. [[code](https://codeocean.com/capsule/1281687/tree/v1)]
 * Du, G., et al. "Graph-based class-imbalance learning with label enhancement." IEEE Transactions on Neural Networks and Learning Systems, 2023, 34 (9): 6081-6095.
 * Liu, D., et al. "Multi-source transfer learning for EEG classification based on domain adversarial neural network." IEEE Transactions on Neural Systems and Rehabilitation Engineering, 2023, 31: 218-228.
@@ -27,7 +28,6 @@ layout: default
 * Tan, A., et al. "Semi-supervised partial multi-label classification via consistency learning." Pattern Recognition, 2022, 131: 108839.
 * Huang, Z.-A., et al. "Identification of autistic risk candidate genes and toxic chemicals via multi-label learning." IEEE Transactions on Neural Networks and Learning Systems, 2021, 32 (9): 3971-3984.
 * Zhang, J., et al. "Multi-label feature selection via global relevance and redundancy optimization." In IJCAI, Yokohama, Japan, 2020, pp. 2512–2518. [[code](GRRO-master.zip)] [[report](v15.pptx)] [[poster](poster.pdf)]
-* Xia, S., et al. "A microcosmic syndrome differentiation model for metabolic syndrome with multi-label learning." Evidence-Based Complementary and Alternative Medicine, 2020, 2020: 9081641.
 * Zhang, J., et al. "Manifold regularized discriminative feature selection for multi-label learning." Pattern Recognition, 2019, 95: 136-150. [[code](MDFS-master.zip)]
 * Zhang, J., et al. "Towards a unified multi-source-based optimization framework for multi-label learning." Applied Soft Computing, 2019, 76: 425-435.
 * Zhang, J., et al. "Multi-label learning with label-specific features by resolving label correlations." Knowledge-Based Systems, 2018, 159: 148-157.
@@ -48,7 +48,7 @@ layout: default
 #### Professional Activities
 
 * Journal Reviewer: [IEEE Transactions on Pattern Analysis and Machine Intelligence](https://mc.manuscriptcentral.com/tpami-cs); [IEEE Transactions on Knowledge and Data Engineering](https://mc.manuscriptcentral.com/tkde-cs); [ACM Transactions on Knowledge Discovery from Data](https://mc.manuscriptcentral.com/tkdd); [IEEE Transactions on Evolutionary Computation](https://mc.manuscriptcentral.com/tevc-ieee); [IEEE Transactions on Cybernetics](https://mc.manuscriptcentral.com/cyb-ieee); [IEEE Transactions on Neural Networks and Learning Systems](https://mc.manuscriptcentral.com/tnnls); [IEEE Transactions on Circuits and Systems for Video Technology](https://mc.manuscriptcentral.com/tcsvt); [IEEE Transactions on Big Data](https://mc.manuscriptcentral.com/tbd-cs); [IEEE Transactions on Emerging Topics in Computational Intelligence](https://mc.manuscriptcentral.com/tetci-ieee); [IEEE Transactions on Artificial Intelligence](https://mc.manuscriptcentral.com/tai-ieee); [IEEE Journal of Biomedical and Health Informatics](https://mc.manuscriptcentral.com/jbhi-embs); [Pattern Recognition](https://www.sciencedirect.com/journal/pattern-recognition); [Knowledge and Information Systems](https://www.springer.com/journal/10115); [Information Sciences](https://www.sciencedirect.com/journal/information-sciences)...
-* Program Committee: AAAI; IJCNN; 
+* Program Committee: AAAI; IJCNN...
 
 ---
 
