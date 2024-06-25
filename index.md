@@ -18,7 +18,7 @@ layout: default
 * Zhang, J., et al. "Fast multilabel feature selection via global relevance and redundancy optimization." IEEE Transactions on Neural Networks and Learning Systems, 2024, 35 (4): 5721-5734. [[Suppl. Material](SM-GRROfast.pdf)]
 * Du, G., et al. "Semi-supervised imbalanced multi-label classification with label propagation." Pattern Recognition, 2024, 150: 110358.
 * Wu, H., et al. "Simplicial complex neural networks." IEEE Transactions on Pattern Analysis and Machine Intelligence, 2024, 46 (1): 561-575.
-* Wu, H., et al. "High-order proximity and relation analysis for cross-network heterogeneous node classification." Machine Learning, 2024, https://doi.org/10.1007/s10994-024-06566-3.
+* Wu, H., et al. "High-order proximity and relation analysis for cross-network heterogeneous node classification." Machine Learning, 2024, [https://doi.org/10.1007/s10994-024-06566-3](https://doi.org/10.1007/s10994-024-06566-3).
 * Zhang, J., et al. "Group-preserving label-specific feature selection for multi-label learning." Expert Systems with Applications, 2023, 213: 118861. [[code](https://codeocean.com/capsule/1281687/tree/v1)]
 * Du, G., et al. "Graph-based class-imbalance learning with label enhancement." IEEE Transactions on Neural Networks and Learning Systems, 2023, 34 (9): 6081-6095.
 * Liu, D., et al. "Multi-source transfer learning for EEG classification based on domain adversarial neural network." IEEE Transactions on Neural Systems and Rehabilitation Engineering, 2023, 31: 218-228.
@@ -29,11 +29,6 @@ layout: default
 * Huang, Z.-A., et al. "Identification of autistic risk candidate genes and toxic chemicals via multi-label learning." IEEE Transactions on Neural Networks and Learning Systems, 2021, 32 (9): 3971-3984.
 * Zhang, J., et al. "Multi-label feature selection via global relevance and redundancy optimization." In IJCAI, Yokohama, Japan, 2020, pp. 2512–2518. [[code](GRRO-master.zip)] [[report](v15.pptx)] [[poster](poster.pdf)]
 * Zhang, J., et al. "Manifold regularized discriminative feature selection for multi-label learning." Pattern Recognition, 2019, 95: 136-150. [[code](MDFS-master.zip)]
-* Zhang, J., et al. "Towards a unified multi-source-based optimization framework for multi-label learning." Applied Soft Computing, 2019, 76: 425-435.
-* Zhang, J., et al. "Multi-label learning with label-specific features by resolving label correlations." Knowledge-Based Systems, 2018, 159: 148-157.
-* Zhang, J., et al. "Computational drug repositioning using collaborative filtering via multi-source fusion." Expert Systems with Applications, 2017, 84: 281-289.
-* Zhang, J., et al. "An effective collaborative filtering algorithm based on user preference clustering." Applied Intelligence, 2016, 45: 230-240.
-* Lin, Y., et al. "Multi-label feature selection with streaming labels." Information Sciences, 2016, 372: 256-275.
   
 <u>Native Publication:</u>
 * 赵文, 张佳, 徐佳君, 辛基梁, 周常恩, 李绍滋, 李灿东. 四诊合参智能化发展现状及实现路径. 中医杂志, 2020, 61 (1): 58-62, 67.
