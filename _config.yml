@@ -1,12 +1,12 @@
 title: Jia Zhang (张佳), Jinan University|Guangzhou
-url: "jiazhang-ml.pub/"
+url: "jiazhang-ml.github.io/"
 
 #ins_logo: "./bits-logo.png"
 
 tracking_id: #
 
 footer: yes
-footer_url: "jiazhang-ml.pub/"
+footer_url: "jiazhang-ml.github.io/"
 # footer_text: "Web: jiazhang-ml.pub (Last updated: July 15 2019)"
 
 sass:
