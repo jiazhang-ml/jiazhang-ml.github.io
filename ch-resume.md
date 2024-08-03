@@ -7,3 +7,16 @@ layout: default
 
 现为IEEE会员（2023-），CCF专业会员，CCF人工智能与模式识别专委会委员，CCF协同计算专委会执委；担任国家自然科学基金评议专家，广州市科技局入库专家；担任TPAMI、TKDE、TEVC、TCYB、TNNLS、TCSVT、TBD、TETCI、TAI等IEEE汇刊、TKDD、PR、KAIS、INS等国际权威期刊的审稿人，AAAI、IJCNN等国际知名会议的程序委员会委员。
 
+---
+
+**Email**: [jiazhang@jnu.edu.cn](mailto:jiazhang@jnu.edu.cn)
+
+#### Mailing Address
+
+>Room 615, Nanhai Building
+>
+>Jinan University
+>
+>No. 601 West Huangpu Avenue, Tianhe District
+>
+>Guangzhou, China, 510632 
