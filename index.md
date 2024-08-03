@@ -15,7 +15,7 @@ layout: default
 
 #### Selected Publications [[Google Scholar Citations](https://scholar.google.com.hk/citations?user=yBaTk-gAAAAJ&hl=en)]
 
-* Zhang, J., et al. "Fast multilabel feature selection via global relevance and redundancy optimization." IEEE Transactions on Neural Networks and Learning Systems, 2024, 35 (4): 5721-5734. [Supplement](SM-GRROfast.pdf)]
+* Zhang, J., et al. "Fast multilabel feature selection via global relevance and redundancy optimization." IEEE Transactions on Neural Networks and Learning Systems, 2024, 35 (4): 5721-5734. [[Supplement](SM-GRROfast.pdf)]
 * Du, G., et al. "Semi-supervised imbalanced multi-label classification with label propagation." Pattern Recognition, 2024, 150: 110358.
 * Wu, H., et al. "Simplicial complex neural networks." IEEE Transactions on Pattern Analysis and Machine Intelligence, 2024, 46 (1): 561-575.
 * Wu, H., et al. "High-order proximity and relation analysis for cross-network heterogeneous node classification." Machine Learning, 2024, DOI: https://doi.org/10.1007/s10994-024-06566-3.
