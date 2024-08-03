@@ -9,14 +9,6 @@ layout: default
 
 ---
 
-**Email**: [jiazhang@jnu.edu.cn](mailto:jiazhang@jnu.edu.cn)
+**邮箱**: [jiazhang@jnu.edu.cn](mailto:jiazhang@jnu.edu.cn)
 
-#### Mailing Address
-
->Room 615, Nanhai Building
->
->Jinan University
->
->No. 601 West Huangpu Avenue, Tianhe District
->
->Guangzhou, China, 510632 
+**通讯地址**: 广东省广州市天河区黄埔大道西601号暨南大学（石牌校区）南海楼615室
