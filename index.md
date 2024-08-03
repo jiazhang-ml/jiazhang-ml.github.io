@@ -39,8 +39,8 @@ layout: default
 
 #### Selected Funded Research Projects
 
-* "Key Techniques of Multilabel Classification Modeling with Ultrahigh Dimensional Label and Feature Data", National Natural Science Foundation of China (2022-2024), PI
-* "Key Techniques of Weakly Supervised Multilabel Classification Modeling with Multi-Modal Data", Natural Science Foundation of Guangdong Province, China (2022-2024), PI
+* "Multilabel Classification Modeling with Ultrahigh Dimensional Label and Feature Data", National Natural Science Foundation of China (2022-2024), PI
+* "Weakly Supervised Multilabel Classification Modeling with Multi-Modal Data", Natural Science Foundation of Guangdong Province, China (2022-2024), PI
 
 ---
 
@@ -65,4 +65,4 @@ layout: default
 * "Discriminative Feature Learning Algorithms for Multilabel Classification", Minnan Normal University, Zhangzhou, June 18, 2023
 * "Recent Progress on Several Multilabel Learning Topics", Huaqiao University, Xiamen, May 19, 2022
 * "Identification of Health State Based on Large-Scale Traditional Chinese Medicine Data", Jinan University, Guangzhou, June 19, 2021
-* "Research on Key Technologies for Multilabel Learning under Complex Data Environments", Zhejiang Ocean University, Zhoushan, June 6, 2020
+* "Learning from Multilabel Data under Complex Environments", Zhejiang Ocean University, Zhoushan, June 6, 2020
