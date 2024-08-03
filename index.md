@@ -63,6 +63,6 @@ layout: default
 #### Talks
 
 * "Discriminative Feature Learning Algorithms for Multilabel Classification", Minnan Normal University, Zhangzhou, June 18, 2023
-* "Recent Progress on Several Multilabel Learning Topics", Huaqiao University, Xiamen, May 19, 2022
+* "Study on Several Multilabel Learning Topics", Huaqiao University, Xiamen, May 19, 2022
 * "Identification of Health State Based on Large-Scale Traditional Chinese Medicine Data", Jinan University, Guangzhou, June 19, 2021
 * "Learning from Multilabel Data under Complex Environments", Zhejiang Ocean University, Zhoushan, June 6, 2020
