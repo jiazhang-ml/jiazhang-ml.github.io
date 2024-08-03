@@ -5,7 +5,7 @@ layout: default
 
 <img class="profile-picture" src="jiazhang.jpg">
 
-**Short Biography:** I am currently a Lecturer in the [College of Information Science and Technology](https://xxxy.jnu.edu.cn/main.htm) of [Jinan University](https://www.jnu.edu.cn/). I got my PhD from the [School of Informatics](https://informatics.xmu.edu.cn/), [Xiamen University](https://www.xmu.edu.cn/), Xiamen, China, in 2020, supervised by [Prof. Shaozi Li](https://imt.xmu.edu.cn/info/1003/1182.htm). I was a visiting student at the City University of Hong Kong, supervised by [Prof. Kay Chen Tan](https://www.polyu.edu.hk/comp/people/academic-staff/prof-tan-kay-chen/). 
+**Short Biography:** I am currently a Lecturer in the [College of Information Science and Technology](https://xxxy.jnu.edu.cn/main.htm) of [Jinan University](https://www.jnu.edu.cn/). I got my PhD from the [School of Informatics](https://informatics.xmu.edu.cn/), [Xiamen University](https://www.xmu.edu.cn/), Xiamen, China, in 2020, supervised by Prof. Shaozi Li. I was a visiting student at the City University of Hong Kong, supervised by Prof. Kay Chen Tan. 
 
 **Research Interests:** My research interests include *machine learning* and *data mining*. In particular, I am interested in multi-label learning, weak label learning, feature selection, and information fusion. I am also interested in various machine learning applications in health care, bioinformatics, and human-computer interactions.
 
@@ -53,8 +53,9 @@ layout: default
 
 #### Teaching Experience
 
-* AI Principles (for undergraduate students), Fall, 2021, 2022, 2023
-* Case Study of Software Systems (for undergraduate students), Fall, 2022, 2023
+* Introduction to Artificial Intelligence (for undergraduate students), Fall, 2024
+* AI Principles (for undergraduate students), Fall, 2021, 2022, 2023, 2024
+* Case Study of Software Systems (for undergraduate students), Fall, 2022, 2023, 2024
 * Computer Fundamentals (for undergraduate students, in English), Fall, 2021
 
 ---
