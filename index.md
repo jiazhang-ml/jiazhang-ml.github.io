@@ -18,11 +18,11 @@ layout: default
 * Zhang, J., et al. "Fast multilabel feature selection via global relevance and redundancy optimization." IEEE Transactions on Neural Networks and Learning Systems, 2024, 35 (4): 5721-5734. [[Supplement](SM-GRROfast.pdf)]
 * Du, G., et al. "Semi-supervised imbalanced multi-label classification with label propagation." Pattern Recognition, 2024, 150: 110358.
 * Wu, H., et al. "Simplicial complex neural networks." IEEE Transactions on Pattern Analysis and Machine Intelligence, 2024, 46 (1): 561-575.
-* Wu, H., et al. "High-order proximity and relation analysis for cross-network heterogeneous node classification." Machine Learning, 2024, DOI: https://doi.org/10.1007/s10994-024-06566-3.
+* Wu, H., et al. "High-order proximity and relation analysis for cross-network heterogeneous node classification." Machine Learning, 2024, DOI: https://doi.org/10.1007/s10994-024-06566-3. [[code](https://github.com/wuhanrui/HoPRA)]
 * Zhang, J., et al. "Group-preserving label-specific feature selection for multi-label learning." Expert Systems with Applications, 2023, 213: 118861. [[code](https://codeocean.com/capsule/1281687/tree/v1)]
 * Du, G., et al. "Graph-based class-imbalance learning with label enhancement." IEEE Transactions on Neural Networks and Learning Systems, 2023, 34 (9): 6081-6095.
 * Liu, D., et al. "Multi-source transfer learning for EEG classification based on domain adversarial neural network." IEEE Transactions on Neural Systems and Rehabilitation Engineering, 2023, 31: 218-228.
-* Wu, H., et al. "Cold-start next-item recommendation by user-item matching and auto-encoders." IEEE Transactions on Services Computing, 2023, 16 (4): 2477-2489.
+* Wu, H., et al. "Cold-start next-item recommendation by user-item matching and auto-encoders." IEEE Transactions on Services Computing, 2023, 16 (4): 2477-2489. [[code](https://github.com/wuhanrui/UIMA)]
 * Zhang, J., et al. "Learning from weakly labeled data based on manifold regularized sparse model." IEEE Transactions on Cybernetics, 2022, 52 (5): 3841-3854. [[code](MSWL-master.zip)]
 * Liu, S., et al. "Subject adaptation convolutional neural network for EEG-based motor imagery classification." Journal of Neural Engineering, 2022, 19 (6): 066003.
 * Tan, A., et al. "Semi-supervised partial multi-label classification via consistency learning." Pattern Recognition, 2022, 131: 108839.
