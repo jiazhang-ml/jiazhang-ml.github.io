@@ -7,7 +7,7 @@ layout: default
 
 **Short Biography:** I am currently a Lecturer in the [College of Information Science and Technology](https://xxxy.jnu.edu.cn/main.htm) of [Jinan University](https://www.jnu.edu.cn/). I got my PhD from the [School of Informatics](https://informatics.xmu.edu.cn/), [Xiamen University](https://www.xmu.edu.cn/), Xiamen, China, in 2020, supervised by Prof. Shaozi Li. I was a visiting student at the City University of Hong Kong, supervised by Prof. Kay Chen Tan. 
 
-**Research Interests:** My research interests include *machine learning* and *data mining*. In particular, I am interested in multi-label learning, weak label learning, feature selection, and information fusion. I am also interested in various machine learning applications, such as human-computer interactions and health care in traditional Chinese medicine.
+**Research Interests:** My research interests include *machine learning* and *data mining*. In particular, I am interested in multi-label learning, weak label learning, feature selection, and information fusion. I am also interested in various machine learning applications, such as TCM health management and human-computer interactions.
 
 **Email:** [jiazhang@jnu.edu.cn](mailto:jiazhang@jnu.edu.cn)
 
