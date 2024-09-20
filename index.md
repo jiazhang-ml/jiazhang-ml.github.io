@@ -15,6 +15,8 @@ layout: default
 
 #### Selected Publications [[Google Scholar Citations](https://scholar.google.com.hk/citations?user=yBaTk-gAAAAJ&hl=en)]
 
+* Li, Y., et al. "Consistent and specific multi-view multi-label learning with correlation information." Information Sciences, 2025, 687: 121395.
+* Zhang, J., et al. "Toward cross-brain-computer interface: A prototype-supervised adversarial transfer learning approach with multiple sources." IEEE Transactions on Instrumentation and Measurement, 2024, 73: 1-13. [[code](PSAT-main.zip)]
 * Zhang, J., et al. "Fast multilabel feature selection via global relevance and redundancy optimization." IEEE Transactions on Neural Networks and Learning Systems, 2024, 35 (4): 5721-5734. [[Supplement](SM-GRROfast.pdf)]
 * Du, G., et al. "Semi-supervised imbalanced multi-label classification with label propagation." Pattern Recognition, 2024, 150: 110358.
 * Wu, H., et al. "Simplicial complex neural networks." IEEE Transactions on Pattern Analysis and Machine Intelligence, 2024, 46 (1): 561-575.
