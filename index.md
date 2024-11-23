@@ -55,12 +55,3 @@ layout: default
 
 <u>Program Committee:</u> AAAI; IJCNN...
 
----
-
-#### Teaching Experience
-
-* Introduction to Artificial Intelligence (for undergraduate students), Fall, 2024
-* AI Principles (for undergraduate students), Fall, 2021, 2022, 2023, 2024
-* Case Study of Software Systems (for undergraduate students), Fall, 2022, 2023, 2024
-* Computer Fundamentals (for undergraduate students, in English), Fall, 2021
-
