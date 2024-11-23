@@ -46,17 +46,6 @@ layout: default
 
 ---
 
-#### Professional Activities
-
-<u>Journal Reviewer:</u>
-* Artificial Intelligence: [IEEE Transactions on Pattern Analysis and Machine Intelligence](https://mc.manuscriptcentral.com/tpami-cs); [IEEE Transactions on Cybernetics](https://mc.manuscriptcentral.com/cyb-ieee); [IEEE Transactions on Evolutionary Computation](https://mc.manuscriptcentral.com/tevc-ieee); [IEEE Transactions on Neural Networks and Learning Systems](https://mc.manuscriptcentral.com/tnnls); [IEEE Transactions on Emerging Topics in Computational Intelligence](https://mc.manuscriptcentral.com/tetci-ieee); [IEEE Transactions on Artificial Intelligence](https://mc.manuscriptcentral.com/tai-ieee); [Pattern Recognition](https://www.sciencedirect.com/journal/pattern-recognition); [Neural Networks](https://www.editorialmanager.com/neunet/default.aspx)...
-* Data Mining: [IEEE Transactions on Knowledge and Data Engineering](https://mc.manuscriptcentral.com/tkde-cs); [ACM Transactions on Knowledge Discovery from Data](https://mc.manuscriptcentral.com/tkdd); [Knowledge and Information Systems](https://www.springer.com/journal/10115); [IEEE Transactions on Big Data](https://mc.manuscriptcentral.com/tbd-cs); [Information Sciences](https://www.sciencedirect.com/journal/information-sciences)...
-* Other Fields: [SCIENCE CHINA Information Sciences](https://mc03.manuscriptcentral.com/scis); [IEEE Transactions on Systems, Man and Cybernetics: Systems](https://mc.manuscriptcentral.com/systems); [IEEE Transactions on Multimedia](https://mc.manuscriptcentral.com/tmm-ieee); [IEEE Transactions on Circuits and Systems for Video Technology](https://mc.manuscriptcentral.com/tcsvt); [IEEE Transactions on Industrial Informatics](https://mc.manuscriptcentral.com/tii); [IEEE Journal of Biomedical and Health Informatics](https://mc.manuscriptcentral.com/jbhi-embs)...
-
-<u>Program Committee:</u> AAAI; IJCNN...
-
----
-
 #### Teaching Experience
 
 * Introduction to Artificial Intelligence (for undergraduate students), Fall, 2024
@@ -66,9 +55,12 @@ layout: default
 
 ---
 
-#### Talks
+#### Professional Activities
 
-* "Discriminative Feature Learning Algorithms for Multilabel Classification", Minnan Normal University, Zhangzhou, June 18, 2023
-* "Study on Several Multilabel Learning Topics", Huaqiao University, Xiamen, May 19, 2022
-* "Identification of Health State Based on Large-Scale Traditional Chinese Medicine Data", Jinan University, Guangzhou, June 19, 2021
-* "Learning from Multilabel Data under Complex Environments", Zhejiang Ocean University, Zhoushan, June 6, 2020
+<u>Journal Reviewer:</u>
+* Artificial Intelligence: [IEEE Transactions on Pattern Analysis and Machine Intelligence](https://mc.manuscriptcentral.com/tpami-cs); [IEEE Transactions on Cybernetics](https://mc.manuscriptcentral.com/cyb-ieee); [IEEE Transactions on Evolutionary Computation](https://mc.manuscriptcentral.com/tevc-ieee); [IEEE Transactions on Neural Networks and Learning Systems](https://mc.manuscriptcentral.com/tnnls); [IEEE Transactions on Emerging Topics in Computational Intelligence](https://mc.manuscriptcentral.com/tetci-ieee); [IEEE Transactions on Artificial Intelligence](https://mc.manuscriptcentral.com/tai-ieee); [Pattern Recognition](https://www.sciencedirect.com/journal/pattern-recognition); [Neural Networks](https://www.editorialmanager.com/neunet/default.aspx)...
+* Data Mining: [IEEE Transactions on Knowledge and Data Engineering](https://mc.manuscriptcentral.com/tkde-cs); [ACM Transactions on Knowledge Discovery from Data](https://mc.manuscriptcentral.com/tkdd); [Knowledge and Information Systems](https://www.springer.com/journal/10115); [IEEE Transactions on Big Data](https://mc.manuscriptcentral.com/tbd-cs); [Information Sciences](https://www.sciencedirect.com/journal/information-sciences)...
+* Other Fields: [SCIENCE CHINA Information Sciences](https://mc03.manuscriptcentral.com/scis); [IEEE Transactions on Systems, Man and Cybernetics: Systems](https://mc.manuscriptcentral.com/systems); [IEEE Transactions on Multimedia](https://mc.manuscriptcentral.com/tmm-ieee); [IEEE Transactions on Circuits and Systems for Video Technology](https://mc.manuscriptcentral.com/tcsvt); [IEEE Transactions on Industrial Informatics](https://mc.manuscriptcentral.com/tii); [IEEE Journal of Biomedical and Health Informatics](https://mc.manuscriptcentral.com/jbhi-embs)...
+
+<u>Program Committee:</u> AAAI; IJCNN...
+
