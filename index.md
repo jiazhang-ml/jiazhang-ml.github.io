@@ -16,7 +16,7 @@ Research Interests: My research interests include *machine learning* and *data m
 #### Selected Publications [[Google Scholar Citations](https://scholar.google.com.hk/citations?user=yBaTk-gAAAAJ&hl=en)]
 
 * Ye, Q., et al. "SMLE: Semi-Supervised Multi-Label Learning with Label Enhancement." IEEE Trans. Knowl. Data Eng., 2025, in press.
-* Zhang, J. et al. "EEG feature selection in emotion recognition using a fuzzy information-theoretic based optimization approach." IEEE Trans. Fuzzy Syst., 2025, in press.
+* Zhang, J., et al. "EEG feature selection in emotion recognition using a fuzzy information-theoretic based optimization approach." IEEE Trans. Fuzzy Syst., 2025, in press.
 * Li, Y., et al. "Consistent and specific multi-view multi-label learning with correlation information." Inf. Sci., 2025, 687: 121395.
 * Liu, S., et al. "Towards spatio-temporal representation learning for EEG classification in motor imagery-based BCI system." Knowl.-Based Syst., 2025, 324: 113801.
 * Zhang, J., et al. "Toward cross-brain-computer interface: A prototype-supervised adversarial transfer learning approach with multiple sources." IEEE Trans. Instrum. Meas., 2024, 73: 1-13. [[code](PSAT-main.zip)]
