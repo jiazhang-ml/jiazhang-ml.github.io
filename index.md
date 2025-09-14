@@ -15,10 +15,10 @@ Research Interests: My research interests include *machine learning* and *data m
 
 #### Selected Publications [[Google Scholar Citations](https://scholar.google.com.hk/citations?user=yBaTk-gAAAAJ&hl=en)]
 
-* Zhang, J., et al. "EEG feature selection in emotion recognition using a fuzzy information-theoretic based optimization approach." IEEE Trans. Fuzzy Syst., 2025, in press.
-* Ye, Q., et al. "SMLE: Semi-supervised multi-label learning with label enhancement." IEEE Trans. Knowl. Data Eng., 2025, in press. [[code](https://github.com/JNU-IHCILab/SMLE)]
+* Zhang, J., et al. "EEG feature selection in emotion recognition using a fuzzy information-theoretic based optimization approach." IEEE Trans. Fuzzy Syst., 2025, 33 (8): 2675-2688.
+* Ye, Q., et al. "SMLE: Semi-supervised multi-label learning with label enhancement." IEEE Trans. Knowl. Data Eng., 2025, 37 (9): 5613-5626. [[code](https://github.com/JNU-IHCILab/SMLE)]
 * Li, Y., et al. "Consistent and specific multi-view multi-label learning with correlation information." Inf. Sci., 2025, 687: 121395.
-* Wu, H., et al. "Cold-start user recommendation via heterogeneous domain adaptation." ACM Trans. Inform. Syst., 2025, in press. [[code](https://github.com/wuhanrui/FDMA)]
+* Wu, H., et al. "Cold-start user recommendation via heterogeneous domain adaptation." ACM Trans. Inform. Syst., 2025, 43 (5): 1-26. [[code](https://github.com/wuhanrui/FDMA)]
 * Liu, S., et al. "Towards spatio-temporal representation learning for EEG classification in motor imagery-based BCI system." Knowl.-Based Syst., 2025, 324: 113801.
 * Zhang, J., et al. "Toward cross-brain-computer interface: A prototype-supervised adversarial transfer learning approach with multiple sources." IEEE Trans. Instrum. Meas., 2024, 73: 1-13. [[code](PSAT-main.zip)]
 * Zhang, J., et al. "Fast multilabel feature selection via global relevance and redundancy optimization." IEEE Trans. Neural Netw. Learn. Syst., 2024, 35 (4): 5721-5734. [[Supplement](SM-GRROfast.pdf)]
