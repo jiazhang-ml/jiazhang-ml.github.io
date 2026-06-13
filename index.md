@@ -5,7 +5,7 @@ layout: default
 
 <img class="profile-picture" src="jiazhang.jpg">
 
-I am currently a Lecturer in the [College of Information Science and Technology](https://xxxy.jnu.edu.cn/main.htm) of [Jinan University](https://www.jnu.edu.cn/). I got my PhD from the [School of Informatics](https://informatics.xmu.edu.cn/), [Xiamen University](https://www.xmu.edu.cn/), Xiamen, China, in 2020, supervised by Prof. Shaozi Li. I was a visiting student at the City University of Hong Kong, Hong Kong SAR, in 2019, supervised by Prof. Kay Chen Tan. 
+I am currently a Lecturer in the [College of Information Science and Technology](https://xxxy.jnu.edu.cn/main.htm) of [Jinan University](https://www.jnu.edu.cn/). I got my PhD from the [School of Informatics](https://informatics.xmu.edu.cn/), [Xiamen University](https://www.xmu.edu.cn/), Xiamen, China, in 2020, supervised by Prof. Shaozi Li. I was a visiting student at the City University of Hong Kong, Hong Kong SAR, in 2019, supervised by Prof. Kay Chen Tan. I am an IEEE member (2023-data).
 
 Research Interests: My research interests include *machine learning* and *data mining*. In particular, I am interested in multi-label learning, weak label learning, feature selection, and information fusion. I am also interested in various machine learning applications, such as human-computer interaction and TCM health management.
 
@@ -13,7 +13,7 @@ Research Interests: My research interests include *machine learning* and *data m
 
 ---
 
-#### Publications and Citations: [at DBLP](https://dblp.org/pid/80/2266-19.html) and [by Google Scholar](https://scholar.google.com.hk/citations?user=yBaTk-gAAAAJ&hl=en)
+#### Publications and Citations: [at DBLP (2016-date)](https://dblp.org/pid/80/2266-19.html) and [by Google Scholar](https://scholar.google.com.hk/citations?user=yBaTk-gAAAAJ&hl=en)
 
 * Xu, G., et al. "Probability distribution alignment and low-rank weight decomposition for source-free domain adaptive brain decoding." In AAAI, Singapore, 2026, pp. 27233-27241.
 * Zhang, Z., et al. "ORAL: Adaptive gap increasing for advantage learning via Occam's Razor principle." IEEE Trans. Neural Netw. Learn. Syst., 2026, 37 (4): 1904-1918.
