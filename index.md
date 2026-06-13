@@ -21,7 +21,6 @@ Research Interests: My research interests include *machine learning* and *data m
 * Ye, Q., et al. "SMLE: Semi-supervised multi-label learning with label enhancement." IEEE Trans. Knowl. Data Eng., 2025, 37 (9): 5613-5626. [[code](https://github.com/JNU-IHCILab/SMLE)]
 * Li, Y., et al. "Consistent and specific multi-view multi-label learning with correlation information." Inf. Sci., 2025, 687: 121395.
 * Wu, H., et al. "Cold-start user recommendation via heterogeneous domain adaptation." ACM Trans. Inform. Syst., 2025, 43 (5): 1-26. [[code](https://github.com/wuhanrui/FDMA)]
-* Liu, S., et al. "Towards spatio-temporal representation learning for EEG classification in motor imagery-based BCI system." Knowl.-Based Syst., 2025, 324: 113801.
 * Zhang, J., et al. "Toward cross-brain-computer interface: A prototype-supervised adversarial transfer learning approach with multiple sources." IEEE Trans. Instrum. Meas., 2024, 73: 1-13. [[code](PSAT-main.zip)]
 * Zhang, J., et al. "Fast multilabel feature selection via global relevance and redundancy optimization." IEEE Trans. Neural Netw. Learn. Syst., 2024, 35 (4): 5721-5734. [[Supplement](SM-GRROfast.pdf)]
 * Du, G., et al. "Semi-supervised imbalanced multi-label classification with label propagation." Pattern Recognit., 2024, 150: 110358.
@@ -37,8 +36,6 @@ Research Interests: My research interests include *machine learning* and *data m
 * Huang, Z.-A., et al. "Identification of autistic risk candidate genes and toxic chemicals via multi-label learning." IEEE Trans. Neural Netw. Learn. Syst., 2021, 32 (9): 3971-3984.
 * Zhang, J., et al. "Multi-label feature selection via global relevance and redundancy optimization." In IJCAI, Yokohama, Japan, 2020, pp. 2512–2518. [[code](GRRO-master.zip)] [[report](v15.pptx)] [[poster](poster.pdf)]
 * Zhang, J., et al. "Manifold regularized discriminative feature selection for multi-label learning." Pattern Recognit., 2019, 95: 136-150. [[code](MDFS-master.zip)]
-* Zhang, J., et al. "Towards a unified multi-source-based optimization framework for multi-label learning." Appl. Soft Comput., 2019, 76: 425-435.
-
   
 <u>Native Publications:</u>
 * 杜国栋, 王敖, 路鹏伟, 叶倩芝, 张佳. 复杂数据背景下的多标记学习研究进展. 计算机工程与应用, 2026, 62 (11): 41-61. [[paper](SMLL.pdf)]
