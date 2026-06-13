@@ -40,7 +40,7 @@ Research Interests: My research interests include *machine learning* and *data m
 * Zhang, J., et al. "Towards a unified multi-source-based optimization framework for multi-label learning." Appl. Soft Comput., 2019, 76: 425-435.
 
   
-<u>Native Publication:</u>
+<u>Native Publications:</u>
 * 杜国栋, 王敖, 路鹏伟, 叶倩芝, 张佳. 复杂数据背景下的多标记学习研究进展. 计算机工程与应用, 2026, 62 (11): 41-61. [[paper](SMLL.pdf)]
 * 赵文, 张佳, 徐佳君, 辛基梁, 周常恩, 李绍滋, 李灿东. 四诊合参智能化发展现状及实现路径. 中医杂志, 2020, 61 (1): 58-62, 67.
 
