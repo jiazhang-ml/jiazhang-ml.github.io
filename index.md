@@ -9,7 +9,7 @@ layout: default
 
 Research Interests: My research interests include *machine learning* and *data mining*. In particular, I am interested in multi-label learning, weak label learning, feature selection, and information fusion. I am also interested in various machine learning applications, such as human-computer interaction and TCM health management.
 
-**Email:** [jiazhang@jnu.edu.cn](mailto:jiazhang@jnu.edu.cn)
+Email: [jiazhang@jnu.edu.cn](mailto:jiazhang@jnu.edu.cn)
 
 ---
 
