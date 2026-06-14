@@ -5,7 +5,7 @@ layout: default
 
 <img class="profile-picture" src="jiazhang.jpg">
 
-Currently I am a Lecturer in the [College of Information Science and Technology](https://xxxy.jnu.edu.cn/main.htm) of [Jinan University](https://www.jnu.edu.cn/). I got my Ph.D. degree at the [School of Informatics](https://informatics.xmu.edu.cn/), [Xiamen University](https://www.xmu.edu.cn/), Xiamen, China, in 2020, supervised by Prof. Shaozi Li. In 2019, I was a visiting student at the Department of Computer Science of City University of Hong Kong, supervised by Prof. Kay Chen Tan. I am an IEEE member (MIEEE'2023), and the member of the [IEEE Computational Intelligence Society](https://cis.ieee.org/) (2025 - data).
+Currently I am a Lecturer in the [College of Information Science and Technology](https://xxxy.jnu.edu.cn/main.htm) of [Jinan University](https://www.jnu.edu.cn/). I got my Ph.D. degree at the [School of Informatics](https://informatics.xmu.edu.cn/), [Xiamen University](https://www.xmu.edu.cn/), in 2020, supervised by Prof. Shaozi Li. In 2019, I was a visiting student at the Department of Computer Science of City University of Hong Kong, supervised by Prof. Kay Chen Tan. I am an IEEE member (MIEEE'2023), and the member of the [IEEE Computational Intelligence Society](https://cis.ieee.org/) (2025 - data).
 
 Research Interests: My research interests include *machine learning* and *data mining*. In particular, I am interested in multi-label learning, weak label learning, feature selection, and information fusion. I am also interested in various machine learning applications, such as human-computer interaction and TCM health management.
 
