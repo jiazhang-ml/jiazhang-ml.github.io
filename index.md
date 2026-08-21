@@ -17,8 +17,8 @@ Email: [jiazhang@jnu.edu.cn](mailto:jiazhang@jnu.edu.cn)
 
 * Du, G., et al. "Missing multi-label learning with TSK fuzzy system and adaptive graph." IEEE Trans. Fuzzy Syst., in press. [[code](https://github.com/wangao-ysu/M2FSAG)]
 * Li, Y., et al. "Multi-label semantic decoding via hierarchical encoding and sparse representation fusion." Pattern Recognit., in press.
-* Ye, Q., et al. "Dual fuzzy modeling for semi-supervised multi-label feature selection." IEEE Trans. Fuzzy Syst., in press.
 * Wu, H., et al. "Calibration-free plug-and-play EEG-based BCIs." IEEE Trans. Pattern Anal. Mach. Intell., in press. 
+* Ye, Q., et al. "Dual fuzzy modeling for semi-supervised multi-label feature selection." IEEE Trans. Fuzzy Syst., in press.
 * Xu, G., et al. "Probability distribution alignment and low-rank weight decomposition for source-free domain adaptive brain decoding." In AAAI, Singapore, 2026, pp. 27233-27241.
 * Zhang, Z., et al. "ORAL: Adaptive gap increasing for advantage learning via Occam's Razor principle." IEEE Trans. Neural Netw. Learn. Syst., 2026, 37 (4): 1904-1918.
 * Zhang, J., et al. "EEG feature selection in emotion recognition using a fuzzy information-theoretic based optimization approach." IEEE Trans. Fuzzy Syst., 2025, 33 (8): 2675-2688.
