@@ -16,7 +16,7 @@ Email: [jiazhang@jnu.edu.cn](mailto:jiazhang@jnu.edu.cn)
 #### Publications and Citations: [at DBLP (2016 - date)](https://dblp.org/pid/80/2266-19.html) and [by Google Scholar](https://scholar.google.com.hk/citations?user=yBaTk-gAAAAJ&hl=en)
 
 * Du, G., et al. "Missing multi-label learning with TSK fuzzy system and adaptive graph." IEEE Trans. Fuzzy Syst., in press. [[code](https://github.com/wangao-ysu/M2FSAG)]
-* Yi, Y., et al. "Multi-label semantic decoding via hierarchical encoding and sparse representation fusion." Pattern Recognit., in press.
+* Li, Y., et al. "Multi-label semantic decoding via hierarchical encoding and sparse representation fusion." Pattern Recognit., in press.
 * Ye, Q., et al. "Dual fuzzy modeling for semi-supervised multi-label feature selection." IEEE Trans. Fuzzy Syst., in press.
 * Wu, H., et al. "Calibration-free plug-and-play EEG-based BCIs." IEEE Trans. Pattern Anal. Mach. Intell., in press. 
 * Xu, G., et al. "Probability distribution alignment and low-rank weight decomposition for source-free domain adaptive brain decoding." In AAAI, Singapore, 2026, pp. 27233-27241.
