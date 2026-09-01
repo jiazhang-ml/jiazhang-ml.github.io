@@ -16,7 +16,7 @@ Email: [jiazhang@jnu.edu.cn](mailto:jiazhang@jnu.edu.cn)
 #### Publications and Citations: [at DBLP (2016 - date)](https://dblp.org/pid/80/2266-19.html) and [by Google Scholar](https://scholar.google.com.hk/citations?user=yBaTk-gAAAAJ&hl=en)
 
 <u>Multi/Weak-Label Learning:</u>
-* Li, Y., et al. "Multi-label semantic decoding via hierarchical encoding and sparse representation fusion." Pattern Recognit., in press. [[code](https://github.com/cseroun06/HERF)] [[data1](https://naturalscenesdataset.org/)] [[data2](https://crcns.org/data-sets/vc/vim-2)] [[data3](https://bold5000-dataset.github.io/website/download.html)] 
+* Li, Y., et al. "Multi-label semantic decoding via hierarchical encoding and sparse representation fusion." Pattern Recognit., 2027, 182: 114789. [[code](https://github.com/cseroun06/HERF)] [[data1](https://naturalscenesdataset.org/)] [[data2](https://crcns.org/data-sets/vc/vim-2)] [[data3](https://bold5000-dataset.github.io/website/download.html)] 
 * Du, G., et al. "Missing multi-label learning with TSK fuzzy system and adaptive graph." IEEE Trans. Fuzzy Syst., in press. [[code](https://github.com/wangao-ysu/M2FSAG)]
 * Ye, Q., et al. "Dual fuzzy modeling for semi-supervised multi-label feature selection." IEEE Trans. Fuzzy Syst., in press. [[code](https://github.com/JNU-IHCILab/DuetFS)]
 * Ye, Q., et al. "SMLE: Semi-supervised multi-label learning with label enhancement." IEEE Trans. Knowl. Data Eng., 2025, 37 (9): 5613-5626. [[code](https://github.com/JNU-IHCILab/SMLE)]
