@@ -19,8 +19,8 @@ Email: [jiazhang@jnu.edu.cn](mailto:jiazhang@jnu.edu.cn)
 * Li, Y., et al. "Multi-label semantic decoding via hierarchical encoding and sparse representation fusion." Pattern Recognit., in press. [[code](https://github.com/cseroun06/HERF)] [[data1](https://naturalscenesdataset.org/)] [[data2](https://crcns.org/data-sets/vc/vim-2)] [[data3](https://bold5000-dataset.github.io/website/download.html)] 
 * Du, G., et al. "Missing multi-label learning with TSK fuzzy system and adaptive graph." IEEE Trans. Fuzzy Syst., in press. [[code](https://github.com/wangao-ysu/M2FSAG)]
 * Ye, Q., et al. "Dual fuzzy modeling for semi-supervised multi-label feature selection." IEEE Trans. Fuzzy Syst., in press. [[code](https://github.com/JNU-IHCILab/DuetFS)]
-* Ye, Q., et al. "SMLE: Semi-supervised multi-label learning with label enhancement." IEEE Trans. Knowl. Data Eng., 2025, 37 (9): 5613-5626. [[code](https://github.com/JNU-IHCILab/SMLE)]
 * Li, Y., et al. "Consistent and specific multi-view multi-label learning with correlation information." Inf. Sci., 2025, 687: 121395.
+* Ye, Q., et al. "SMLE: Semi-supervised multi-label learning with label enhancement." IEEE Trans. Knowl. Data Eng., 2025, 37 (9): 5613-5626. [[code](https://github.com/JNU-IHCILab/SMLE)]
 * Zhang, J., et al. "Fast multilabel feature selection via global relevance and redundancy optimization." IEEE Trans. Neural Netw. Learn. Syst., 2024, 35 (4): 5721-5734. [[Supplement](SM-GRROfast.pdf)]
 * Du, G., et al. "Semi-supervised imbalanced multi-label classification with label propagation." Pattern Recognit., 2024, 150: 110358.
 * Zhang, J., et al. "Group-preserving label-specific feature selection for multi-label learning." Expert Syst. Appl., 2023, 213: 118861. [[code](https://codeocean.com/capsule/1281687/tree/v1)]
