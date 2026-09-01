@@ -15,31 +15,41 @@ Email: [jiazhang@jnu.edu.cn](mailto:jiazhang@jnu.edu.cn)
 
 #### Publications and Citations: [at DBLP (2016 - date)](https://dblp.org/pid/80/2266-19.html) and [by Google Scholar](https://scholar.google.com.hk/citations?user=yBaTk-gAAAAJ&hl=en)
 
-* Li, Y., et al. "Multi-label semantic decoding via hierarchical encoding and sparse representation fusion." Pattern Recognit., in press. [[code](https://github.com/cseroun06/HERF)] [[data1](https://naturalscenesdataset.org/)] [[data2](https://crcns.org/data-sets/vc/vim-2)] [[data3](https://bold5000-dataset.github.io/website/download.html)] 
+<u>Multi-Label Learning:</u>
 * Du, G., et al. "Missing multi-label learning with TSK fuzzy system and adaptive graph." IEEE Trans. Fuzzy Syst., in press. [[code](https://github.com/wangao-ysu/M2FSAG)]
 * Ye, Q., et al. "Dual fuzzy modeling for semi-supervised multi-label feature selection." IEEE Trans. Fuzzy Syst., in press. [[code](https://github.com/JNU-IHCILab/DuetFS)]
-* Xu, G., et al. "Probability distribution alignment and low-rank weight decomposition for source-free domain adaptive brain decoding." In AAAI, Singapore, 2026, pp. 27233-27241.
-* Wu, H., et al. "Calibration-free plug-and-play EEG-based BCIs." IEEE Trans. Pattern Anal. Mach. Intell., in press.
-* Zhang, Z., et al. "ORAL: Adaptive gap increasing for advantage learning via Occam's Razor principle." IEEE Trans. Neural Netw. Learn. Syst., 2026, 37 (4): 1904-1918.
-* Zhang, J., et al. "EEG feature selection in emotion recognition using a fuzzy information-theoretic based optimization approach." IEEE Trans. Fuzzy Syst., 2025, 33 (8): 2675-2688.
 * Ye, Q., et al. "SMLE: Semi-supervised multi-label learning with label enhancement." IEEE Trans. Knowl. Data Eng., 2025, 37 (9): 5613-5626. [[code](https://github.com/JNU-IHCILab/SMLE)]
 * Li, Y., et al. "Consistent and specific multi-view multi-label learning with correlation information." Inf. Sci., 2025, 687: 121395.
-* Wu, H., et al. "Cold-start user recommendation via heterogeneous domain adaptation." ACM Trans. Inform. Syst., 2025, 43 (5): 1-26. [[code](https://github.com/wuhanrui/FDMA)]
-* Zhang, J., et al. "Toward cross-brain-computer interface: A prototype-supervised adversarial transfer learning approach with multiple sources." IEEE Trans. Instrum. Meas., 2024, 73: 1-13. [[code](PSAT-main.zip)]
 * Zhang, J., et al. "Fast multilabel feature selection via global relevance and redundancy optimization." IEEE Trans. Neural Netw. Learn. Syst., 2024, 35 (4): 5721-5734. [[Supplement](SM-GRROfast.pdf)]
 * Du, G., et al. "Semi-supervised imbalanced multi-label classification with label propagation." Pattern Recognit., 2024, 150: 110358.
-* Wu, H., et al. "Simplicial complex neural networks." IEEE Trans. Pattern Anal. Mach. Intell., 2024, 46 (1): 561-575.
-* Wu, H., et al. "High-order proximity and relation analysis for cross-network heterogeneous node classification." Mach. Learn., 2024, 113: 6247-6272. [[code](https://github.com/wuhanrui/HoPRA)]
 * Zhang, J., et al. "Group-preserving label-specific feature selection for multi-label learning." Expert Syst. Appl., 2023, 213: 118861. [[code](https://codeocean.com/capsule/1281687/tree/v1)]
 * Du, G., et al. "Graph-based class-imbalance learning with label enhancement." IEEE Trans. Neural Netw. Learn. Syst., 2023, 34 (9): 6081-6095.
-* Liu, D., et al. "Multi-source transfer learning for EEG classification based on domain adversarial neural network." IEEE Trans. Neural Syst. Rehabil. Eng., 2023, 31: 218-228.
-* Wu, H., et al. "Cold-start next-item recommendation by user-item matching and auto-encoders." IEEE Trans. Serv. Comput., 2023, 16 (4): 2477-2489. [[code](https://github.com/wuhanrui/UIMA)]
 * Zhang, J., et al. "Learning from weakly labeled data based on manifold regularized sparse model." IEEE Trans. Cybern., 2022, 52 (5): 3841-3854. [[code](MSWL-master.zip)]
-* Liu, S., et al. "Subject adaptation convolutional neural network for EEG-based motor imagery classification." J. Neural Eng., 2022, 19 (6): 066003.
 * Tan, A., et al. "Semi-supervised partial multi-label classification via consistency learning." Pattern Recognit., 2022, 131: 108839.
 * Huang, Z.-A., et al. "Identification of autistic risk candidate genes and toxic chemicals via multi-label learning." IEEE Trans. Neural Netw. Learn. Syst., 2021, 32 (9): 3971-3984.
 * Zhang, J., et al. "Multi-label feature selection via global relevance and redundancy optimization." In IJCAI, Yokohama, Japan, 2020, pp. 2512–2518. [[code](GRRO-master.zip)] [[report](v15.pptx)] [[poster](poster.pdf)]
 * Zhang, J., et al. "Manifold regularized discriminative feature selection for multi-label learning." Pattern Recognit., 2019, 95: 136-150. [[code](MDFS-master.zip)]
+
+<u>Brain-Computer Interfaces:</u>
+* Li, Y., et al. "Multi-label semantic decoding via hierarchical encoding and sparse representation fusion." Pattern Recognit., in press. [[code](https://github.com/cseroun06/HERF)] [[data1](https://naturalscenesdataset.org/)] [[data2](https://crcns.org/data-sets/vc/vim-2)] [[data3](https://bold5000-dataset.github.io/website/download.html)] 
+* Wu, H., et al. "Calibration-free plug-and-play EEG-based BCIs." IEEE Trans. Pattern Anal. Mach. Intell., in press.
+* Zhang, J., et al. "EEG feature selection in emotion recognition using a fuzzy information-theoretic based optimization approach." IEEE Trans. Fuzzy Syst., 2025, 33 (8): 2675-2688.
+* Zhang, J., et al. "Toward cross-brain-computer interface: A prototype-supervised adversarial transfer learning approach with multiple sources." IEEE Trans. Instrum. Meas., 2024, 73: 1-13. [[code](PSAT-main.zip)]
+* Wu, H., et al. "Unsupervised heterogeneous domain adaptation for EEG classification." J. Neural Eng., 2024, 21 (4): 046018.
+* Wu, H., et al. "Online privacy-preserving EEG classification by source-free transfer learning." IEEE Trans. Neural Syst. Rehabil. Eng., 2024, 32: 3059-3070.
+* Liu, D., et al. "Multi-source transfer learning for EEG classification based on domain adversarial neural network." IEEE Trans. Neural Syst. Rehabil. Eng., 2023, 31: 218-228.
+* Liu, S., et al. "Subject adaptation convolutional neural network for EEG-based motor imagery classification." J. Neural Eng., 2022, 19 (6): 066003.
+
+<u>Some Others:</u>
+* Xu, G., et al. "Probability distribution alignment and low-rank weight decomposition for source-free domain adaptive brain decoding." In AAAI, Singapore, 2026, pp. 27233-27241.
+* Zhang, Z., et al. "ORAL: Adaptive gap increasing for advantage learning via Occam's Razor principle." IEEE Trans. Neural Netw. Learn. Syst., 2026, 37 (4): 1904-1918.
+* Wu, H., et al. "Cold-start user recommendation via heterogeneous domain adaptation." ACM Trans. Inform. Syst., 2025, 43 (5): 1-26. [[code](https://github.com/wuhanrui/FDMA)]
+* Wu, H., et al. "Simplicial complex neural networks." IEEE Trans. Pattern Anal. Mach. Intell., 2024, 46 (1): 561-575.
+* Guo, Z., et al. "Online transfer learning with pseudo label for gait phase prediction." IEEE Trans. Instrum. Meas., 2024, 73: 1-15.
+* Wu, H., et al. "High-order proximity and relation analysis for cross-network heterogeneous node classification." Mach. Learn., 2024, 113: 6247-6272. [[code](https://github.com/wuhanrui/HoPRA)]
+* Wu, H., et al. "Cold-start next-item recommendation by user-item matching and auto-encoders." IEEE Trans. Serv. Comput., 2023, 16 (4): 2477-2489. [[code](https://github.com/wuhanrui/UIMA)]
+* Guo, Z., et al. "Transferable multi-modal fusion in knee angles and gait phases for their continuous prediction." J. Neural Eng., 2023, 20 (3): 036019.
+
   
 <u>Native Publications:</u>
 * 杜国栋, 王敖, 路鹏伟, 叶倩芝, 张佳*. 复杂数据背景下的多标记学习研究进展. 计算机工程与应用, 2026, 62 (11): 41-61. [[paper](SMLL.pdf)]
