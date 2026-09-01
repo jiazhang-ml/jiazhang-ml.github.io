@@ -32,6 +32,7 @@ Email: [jiazhang@jnu.edu.cn](mailto:jiazhang@jnu.edu.cn)
 
 <u>Brain-Computer Interfaces:</u>
 * Li, Y., et al. "Multi-label semantic decoding via hierarchical encoding and sparse representation fusion." Pattern Recognit., in press. [[code](https://github.com/cseroun06/HERF)] [[data1](https://naturalscenesdataset.org/)] [[data2](https://crcns.org/data-sets/vc/vim-2)] [[data3](https://bold5000-dataset.github.io/website/download.html)] 
+* Xu, G., et al. "Probability distribution alignment and low-rank weight decomposition for source-free domain adaptive brain decoding." In AAAI, Singapore, 2026, pp. 27233-27241.
 * Wu, H., et al. "Calibration-free plug-and-play EEG-based BCIs." IEEE Trans. Pattern Anal. Mach. Intell., in press.
 * Zhang, J., et al. "EEG feature selection in emotion recognition using a fuzzy information-theoretic based optimization approach." IEEE Trans. Fuzzy Syst., 2025, 33 (8): 2675-2688.
 * Zhang, J., et al. "Toward cross-brain-computer interface: A prototype-supervised adversarial transfer learning approach with multiple sources." IEEE Trans. Instrum. Meas., 2024, 73: 1-13. [[code](PSAT-main.zip)]
@@ -41,7 +42,6 @@ Email: [jiazhang@jnu.edu.cn](mailto:jiazhang@jnu.edu.cn)
 * Liu, S., et al. "Subject adaptation convolutional neural network for EEG-based motor imagery classification." J. Neural Eng., 2022, 19 (6): 066003.
 
 <u>Some Others:</u>
-* Xu, G., et al. "Probability distribution alignment and low-rank weight decomposition for source-free domain adaptive brain decoding." In AAAI, Singapore, 2026, pp. 27233-27241.
 * Zhang, Z., et al. "ORAL: Adaptive gap increasing for advantage learning via Occam's Razor principle." IEEE Trans. Neural Netw. Learn. Syst., 2026, 37 (4): 1904-1918.
 * Wu, H., et al. "Cold-start user recommendation via heterogeneous domain adaptation." ACM Trans. Inform. Syst., 2025, 43 (5): 1-26. [[code](https://github.com/wuhanrui/FDMA)]
 * Wu, H., et al. "Simplicial complex neural networks." IEEE Trans. Pattern Anal. Mach. Intell., 2024, 46 (1): 561-575.
