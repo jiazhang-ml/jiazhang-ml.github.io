@@ -48,7 +48,6 @@ Email: [jiazhang@jnu.edu.cn](mailto:jiazhang@jnu.edu.cn)
 * Guo, Z., et al. "Online transfer learning with pseudo label for gait phase prediction." IEEE Trans. Instrum. Meas., 2024, 73: 1-15.
 * Wu, H., et al. "High-order proximity and relation analysis for cross-network heterogeneous node classification." Mach. Learn., 2024, 113: 6247-6272. [[code](https://github.com/wuhanrui/HoPRA)]
 * Wu, H., et al. "Cold-start next-item recommendation by user-item matching and auto-encoders." IEEE Trans. Serv. Comput., 2023, 16 (4): 2477-2489. [[code](https://github.com/wuhanrui/UIMA)]
-* Guo, Z., et al. "Transferable multi-modal fusion in knee angles and gait phases for their continuous prediction." J. Neural Eng., 2023, 20 (3): 036019.
 * 杜国栋, 王敖, 路鹏伟, 叶倩芝, 张佳*. 复杂数据背景下的多标记学习研究进展. 计算机工程与应用, 2026, 62 (11): 41-61. [[paper](SMLL.pdf)]
 * 龙锦益, 杨宇, 张子龙, 叶倩云, 吴汉瑞, 张荣华, 张佳*. 基于多标记深度森林的膝骨关节炎智能辅助诊断方法. 中华中医药杂志, 2024, 39 (12): 6811-6814. [[paper](MLDF.pdf)]
 
