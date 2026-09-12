@@ -5,7 +5,7 @@ layout: default
 
 <img class="profile-picture" src="jiazhang.jpg">
 
-**Brief Bio:** I am currently a Lecturer in the [College of Information Science and Technology](https://xxxy.jnu.edu.cn/main.htm) of [Jinan University](https://www.jnu.edu.cn/). I received my Ph.D. degree in the [School of Informatics](https://informatics.xmu.edu.cn/) of [Xiamen University](https://www.xmu.edu.cn/), in 2020, supervised by Prof. Shaozi Li. I was a visiting student at the Department of Computer Science of City University of Hong Kong, in 2019, supervised by Prof. Kay Chen Tan. I am an IEEE member (MIEEE'2023), and the member of the [IEEE Computational Intelligence Society](https://cis.ieee.org/) (2025 - data).
+**Brief Bio:** I am currently a Lecturer in the [College of Information Science and Technology](https://xxxy.jnu.edu.cn/main.htm) of [Jinan University](https://www.jnu.edu.cn/). I received my Ph.D. degree in the [School of Informatics](https://informatics.xmu.edu.cn/) of [Xiamen University](https://www.xmu.edu.cn/), in 2020, supervised by Prof. Shaozi Li. I was a visiting student at the Department of Computer Science of City University of Hong Kong, in 2019, supervised by Prof. Kay Chen Tan. I am an [IEEE](https://ieeexplore.ieee.org/Xplore/home.jsp) member (MIEEE'2023), and the member of the [IEEE Computational Intelligence Society](https://cis.ieee.org/) (2025 - data).
 
 Research Interests: My research interests include *machine learning* and *data mining*. In particular, I am interested in multi-label learning, weak label learning, feature selection, and information fusion. I am also interested in various machine learning applications, such as brain-computer interface and TCM health management.
 
@@ -73,5 +73,4 @@ Email: [jiazhang@jnu.edu.cn](mailto:jiazhang@jnu.edu.cn)
 <u>PC Members:</u> [NeurIPS](https://openreview.net/login?redirect=/group?id%3DNeurIPS.cc%252F2026%252FConference%252FReviewers); [AAAI](https://openreview.net/login?redirect=/group?id%3DAAAI.org%252F2027%252FConference%252FProgram_Committee); IJCNN; [ChineseCSCW](https://cmt3.research.microsoft.com/User/Login)...
 
 #### Useful Links
-* Databases: [IEEE](https://ieeexplore.ieee.org/Xplore/home.jsp); [LetPub](https://www.letpub.com.cn/); [CAJD](https://kns.cnki.net/kns/advsearch?dbcode=CJZK)...
 * China Computer Federation (中国计算机学会): [CCF业务门户](https://passport.ccf.org.cn/sso/platform); [CCF学术评价](https://www.ccf.org.cn/Academic_Evaluation/By_category/)...
