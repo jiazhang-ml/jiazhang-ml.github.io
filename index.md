@@ -55,8 +55,8 @@ Email: [jiazhang@jnu.edu.cn](mailto:jiazhang@jnu.edu.cn)
 
 #### Selected Funded Research Projects
 
-* "Multilabel Classification Modeling with Ultrahigh Dimensional Label and Feature Data", National Natural Science Foundation of China (2022-2024), PI
-* "Weakly Supervised Multilabel Classification Modeling with Multi-Modal Data", Natural Science Foundation of Guangdong Province, China (2022-2024), PI
+* "Multilabel Classification Modeling with Ultrahigh Dimensional Label and Feature Data", National Natural Science Foundation of China (62106084), 2022-2024, PI
+* "Weakly Supervised Multilabel Classification Modeling with Multi-Modal Data", Natural Science Foundation of Guangdong Province, China (2022A1515010468), 2022-2024, PI
 
 ---
 
