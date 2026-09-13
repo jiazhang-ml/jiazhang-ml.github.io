@@ -22,14 +22,14 @@ Email: [jiazhang@jnu.edu.cn](mailto:jiazhang@jnu.edu.cn)
 * Ye, Q., et al. "SMLE: Semi-supervised multi-label learning with label enhancement." IEEE Trans. Knowl. Data Eng., 2025, 37 (9): 5613-5626. [[code](https://github.com/JNU-IHCILab/SMLE)]
 * Li, Y., et al. "Consistent and specific multi-view multi-label learning with correlation information." Inf. Sci., 2025, 687: 121395.
 * Zhang, J., et al. "Fast multilabel feature selection via global relevance and redundancy optimization." IEEE Trans. Neural Netw. Learn. Syst., 2024, 35 (4): 5721-5734. [[Supplement](SM-GRROfast.pdf)]
-* Du, G., et al. "Semi-supervised imbalanced multi-label classification with label propagation." Pattern Recognit., 2024, 150: 110358. [ESI Highly Cited Paper]
+* Du, G., et al. "Semi-supervised imbalanced multi-label classification with label propagation." Pattern Recognit., 2024, 150: 110358. 
 * Zhang, J., et al. "Group-preserving label-specific feature selection for multi-label learning." Expert Syst. Appl., 2023, 213: 118861. [[code](https://codeocean.com/capsule/1281687/tree/v1)]
-* Du, G., et al. "Graph-based class-imbalance learning with label enhancement." IEEE Trans. Neural Netw. Learn. Syst., 2023, 34 (9): 6081-6095. [ESI Highly Cited Paper]
+* Du, G., et al. "Graph-based class-imbalance learning with label enhancement." IEEE Trans. Neural Netw. Learn. Syst., 2023, 34 (9): 6081-6095. 
 * Zhang, J., et al. "Learning from weakly labeled data based on manifold regularized sparse model." IEEE Trans. Cybern., 2022, 52 (5): 3841-3854. [[code](MSWL-master.zip)]
 * Tan, A., et al. "Semi-supervised partial multi-label classification via consistency learning." Pattern Recognit., 2022, 131: 108839.
 * Huang, Z.-A., et al. "Identification of autistic risk candidate genes and toxic chemicals via multi-label learning." IEEE Trans. Neural Netw. Learn. Syst., 2021, 32 (9): 3971-3984.
 * Zhang, J., et al. "Multi-label feature selection via global relevance and redundancy optimization." In IJCAI, Yokohama, Japan, 2020, pp. 2512–2518. [[code](GRRO-master.zip)] [[report](v15.pptx)] [[poster](poster.pdf)]
-* Zhang, J., et al. "Manifold regularized discriminative feature selection for multi-label learning." Pattern Recognit., 2019, 95: 136-150. [[code](MDFS-master.zip)] [ESI Highly Cited Paper]
+* Zhang, J., et al. "Manifold regularized discriminative feature selection for multi-label learning." Pattern Recognit., 2019, 95: 136-150. [[code](MDFS-master.zip)] 
 
 <u>Brain-Computer Interface:</u>
 * Xu, G., et al. "Probability distribution alignment and low-rank weight decomposition for source-free domain adaptive brain decoding." In AAAI, Singapore, 2026, pp. 27233-27241.
@@ -44,7 +44,7 @@ Email: [jiazhang@jnu.edu.cn](mailto:jiazhang@jnu.edu.cn)
 <u>Others & Native Publications:</u>
 * Zhang, Z., et al. "ORAL: Adaptive gap increasing for advantage learning via Occam's Razor principle." IEEE Trans. Neural Netw. Learn. Syst., 2026, 37 (4): 1904-1918.
 * Wu, H., et al. "Cold-start user recommendation via heterogeneous domain adaptation." ACM Trans. Inform. Syst., 2025, 43 (5): 1-26. [[code](https://github.com/wuhanrui/FDMA)]
-* Wu, H., et al. "Simplicial complex neural networks." IEEE Trans. Pattern Anal. Mach. Intell., 2024, 46 (1): 561-575. [ESI Highly Cited Paper]
+* Wu, H., et al. "Simplicial complex neural networks." IEEE Trans. Pattern Anal. Mach. Intell., 2024, 46 (1): 561-575. 
 * Guo, Z., et al. "Online transfer learning with pseudo label for gait phase prediction." IEEE Trans. Instrum. Meas., 2024, 73: 1-15.
 * Wu, H., et al. "High-order proximity and relation analysis for cross-network heterogeneous node classification." Mach. Learn., 2024, 113: 6247-6272. [[code](https://github.com/wuhanrui/HoPRA)]
 * Wu, H., et al. "Cold-start next-item recommendation by user-item matching and auto-encoders." IEEE Trans. Serv. Comput., 2023, 16 (4): 2477-2489. [[code](https://github.com/wuhanrui/UIMA)]
