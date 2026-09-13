@@ -70,3 +70,14 @@ Email: [jiazhang@jnu.edu.cn](mailto:jiazhang@jnu.edu.cn)
 
 
 <u>PC Members:</u> [NeurIPS](https://openreview.net/login?redirect=/group?id%3DNeurIPS.cc%252F2026%252FConference%252FReviewers); [AAAI](https://openreview.net/login?redirect=/group?id%3DAAAI.org%252F2027%252FConference%252FProgram_Committee); IJCNN; [ChineseCSCW](https://cmt3.research.microsoft.com/User/Login)...
+
+---
+
+#### Teaching in Jinan University
+* 08060214: Principles of Artificial Intelligence (for undergraduate students), Fall, 2021, 2022, 2023, 2024, 2025, 2026
+* 08060212: Systems Analysis and Design (for undergraduate students), Fall, 2022, 2023, 2024, 2025, 2026
+* 08060213: Case Study of Software Systems Exp. (for undergraduate students), Fall, 2022, 2023, 2024, 2025, 2026
+* 08060336: Machine Learning and Deep Learning (for undergraduate students, Artificial Intelligence Application Microprogram), Fall, 2025, 2026
+* 07009360: Introduction to Artificial Intelligence (University-wide General Education Course), Fall, 2025, 2026
+
+
