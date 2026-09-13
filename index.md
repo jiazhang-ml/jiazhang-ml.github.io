@@ -73,7 +73,7 @@ Email: [jiazhang@jnu.edu.cn](mailto:jiazhang@jnu.edu.cn)
 
 ---
 
-#### Teaching in Jinan University
+#### Teaching at Jinan University
 * 08060214: Principles of Artificial Intelligence (for undergraduate students), Fall, 2021, 2022, 2023, 2024, 2025, 2026
 * 08060212: Systems Analysis and Design (for undergraduate students), Fall, 2022, 2023, 2024, 2025, 2026
 * 08060213: Case Study of Software Systems Exp. (for undergraduate students), Fall, 2022, 2023, 2024, 2025, 2026
