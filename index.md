@@ -31,7 +31,7 @@ Email: [jiazhang@jnu.edu.cn](mailto:jiazhang@jnu.edu.cn)
 * Zhang, J., et al. "Multi-label feature selection via global relevance and redundancy optimization." In IJCAI, Yokohama, Japan, 2020, pp. 2512–2518. [[code](GRRO-master.zip)] [[report](v15.pptx)] [[poster](poster.pdf)]
 * Zhang, J., et al. "Manifold regularized discriminative feature selection for multi-label learning." Pattern Recognit., 2019, 95: 136-150. [[code](MDFS-master.zip)] 
 
-<u>Brain-Computer Interface:</u>
+<font color="gray"><u>Brain-Computer Interface:</u></font>
 * Xu, G., et al. "Probability distribution alignment and low-rank weight decomposition for source-free domain adaptive brain decoding." In AAAI, Singapore, 2026, pp. 27233-27241.
 * Wu, H., et al. "Calibration-free plug-and-play EEG-based BCIs." IEEE Trans. Pattern Anal. Mach. Intell., in press.
 * Zhang, J., et al. "EEG feature selection in emotion recognition using a fuzzy information-theoretic based optimization approach." IEEE Trans. Fuzzy Syst., 2025, 33 (8): 2675-2688.
@@ -41,7 +41,7 @@ Email: [jiazhang@jnu.edu.cn](mailto:jiazhang@jnu.edu.cn)
 * Liu, D., et al. "Multi-source transfer learning for EEG classification based on domain adversarial neural network." IEEE Trans. Neural Syst. Rehabil. Eng., 2023, 31: 218-228.
 * Liu, S., et al. "Subject adaptation convolutional neural network for EEG-based motor imagery classification." J. Neural Eng., 2022, 19 (6): 066003.
 
-<u>Others & Native Publications:</u>
+<font color="gray"><u>Others & Native Publications:</u></font>
 * Zhang, Z., et al. "ORAL: Adaptive gap increasing for advantage learning via Occam's Razor principle." IEEE Trans. Neural Netw. Learn. Syst., 2026, 37 (4): 1904-1918.
 * Wu, H., et al. "Cold-start user recommendation via heterogeneous domain adaptation." ACM Trans. Inform. Syst., 2025, 43 (5): 1-26. [[code](https://github.com/wuhanrui/FDMA)]
 * Wu, H., et al. "Simplicial complex neural networks." IEEE Trans. Pattern Anal. Mach. Intell., 2024, 46 (1): 561-575. 
