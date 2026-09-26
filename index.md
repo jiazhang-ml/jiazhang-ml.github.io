@@ -13,7 +13,7 @@ Research Interests: My research interests include *machine learning* and *data m
 
 ---
 
-#### Publications and Citations: [at DBLP (2016 - date)](https://dblp.org/pid/80/2266-19.html) and [by Google Scholar](https://scholar.google.com.hk/citations?user=yBaTk-gAAAAJ&hl=en)
+#### Publications and Citations: [at DBLP (2016 - date)](https://dblp.org/pid/80/2266-19.html), [by Google Scholar](https://scholar.google.com.hk/citations?user=yBaTk-gAAAAJ&hl=en), and at [Native Journals](nativepublication)
 
 <font color="gray"><u>Multi/Weak-Label Learning:</u></font>
 * Li, Y., et al. "Multi-label semantic decoding via hierarchical encoding and sparse representation fusion." Pattern Recognit., 2027, 182: 114789. [[code](https://github.com/cseroun06/HERF)] [[data1](https://naturalscenesdataset.org/)] [[data2](https://crcns.org/data-sets/vc/vim-2)] [[data3](https://bold5000-dataset.github.io/website/download.html)] 
@@ -41,15 +41,13 @@ Research Interests: My research interests include *machine learning* and *data m
 * Liu, D., et al. "Multi-source transfer learning for EEG classification based on domain adversarial neural network." IEEE Trans. Neural Syst. Rehabil. Eng., 2023, 31: 218-228.
 * Liu, S., et al. "Subject adaptation convolutional neural network for EEG-based motor imagery classification." J. Neural Eng., 2022, 19 (6): 066003.
 
-<font color="gray"><u>Others & Native Publications:</u></font>
+<font color="gray"><u>Some Others:</u></font>
 * Zhang, Z., et al. "ORAL: Adaptive gap increasing for advantage learning via Occam's Razor principle." IEEE Trans. Neural Netw. Learn. Syst., 2026, 37 (4): 1904-1918.
 * Wu, H., et al. "Cold-start user recommendation via heterogeneous domain adaptation." ACM Trans. Inform. Syst., 2025, 43 (5): 1-26. [[code](https://github.com/wuhanrui/FDMA)]
 * Wu, H., et al. "Simplicial complex neural networks." IEEE Trans. Pattern Anal. Mach. Intell., 2024, 46 (1): 561-575. 
 * Guo, Z., et al. "Online transfer learning with pseudo label for gait phase prediction." IEEE Trans. Instrum. Meas., 2024, 73: 1-15.
 * Wu, H., et al. "High-order proximity and relation analysis for cross-network heterogeneous node classification." Mach. Learn., 2024, 113: 6247-6272. [[code](https://github.com/wuhanrui/HoPRA)]
 * Wu, H., et al. "Cold-start next-item recommendation by user-item matching and auto-encoders." IEEE Trans. Serv. Comput., 2023, 16 (4): 2477-2489. [[code](https://github.com/wuhanrui/UIMA)]
-* 杜国栋, 王敖, 路鹏伟, 叶倩芝, 张佳*. 复杂数据背景下的多标记学习研究进展. 计算机工程与应用, 2026, 62 (11): 41-61. [[paper](SMLL.pdf)]
-* 龙锦益, 杨宇, 张子龙, 叶倩云, 吴汉瑞, 张荣华, 张佳*. 基于多标记深度森林的膝骨关节炎智能辅助诊断方法. 中华中医药杂志, 2024, 39 (12): 6811-6814. [[paper](MLDF.pdf)]
 
 ---
 
