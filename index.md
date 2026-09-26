@@ -13,7 +13,7 @@ Research Interests: My research interests include *machine learning* and *data m
 
 ---
 
-#### Publications and Citations: [by Google Scholar](https://scholar.google.com.hk/citations?user=yBaTk-gAAAAJ&hl=en), [at DBLP (2016 - date)](https://dblp.org/pid/80/2266-19.html), and [to Local Journals](nativepublication.md)
+#### Publications and Citations: [at DBLP (2016 - date)](https://dblp.org/pid/80/2266-19.html), [by Google Scholar](https://scholar.google.com.hk/citations?user=yBaTk-gAAAAJ&hl=en), and [to Local Journals](nativepublication.md)
 
 <font color="gray"><u>Multi/Weak-Label Learning:</u></font>
 * Li, Y., et al. "Multi-label semantic decoding via hierarchical encoding and sparse representation fusion." Pattern Recognit., 2027, 182: 114789. [[code](https://github.com/cseroun06/HERF)] [[data1](https://naturalscenesdataset.org/)] [[data2](https://crcns.org/data-sets/vc/vim-2)] [[data3](https://bold5000-dataset.github.io/website/download.html)] 
