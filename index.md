@@ -25,7 +25,7 @@ Research Interests: My research interests include *machine learning* and *data m
 * Du, G., et al. "Semi-supervised imbalanced multi-label classification with label propagation." Pattern Recognit., 2024, 150: 110358. 
 * Zhang, J., et al. "Group-preserving label-specific feature selection for multi-label learning." Expert Syst. Appl., 2023, 213: 118861. [[code](https://codeocean.com/capsule/1281687/tree/v1)]
 * Du, G., et al. "Graph-based class-imbalance learning with label enhancement." IEEE Trans. Neural Netw. Learn. Syst., 2023, 34 (9): 6081-6095. 
-* Zhang, J., et al. "Learning from weakly labeled data based on manifold regularized sparse model." IEEE Trans. Cybern., 2022, 52 (5): 3841-3854. [[code](MSWL-master.zip)] [[Supplement](Supplement-MSWL.pdf)]
+* Zhang, J., et al. "Learning from weakly labeled data based on manifold regularized sparse model." IEEE Trans. Cybern., 2022, 52 (5): 3841-3854. [[code](MSWL-master.zip)]
 * Tan, A., et al. "Semi-supervised partial multi-label classification via consistency learning." Pattern Recognit., 2022, 131: 108839.
 * Huang, Z.-A., et al. "Identification of autistic risk candidate genes and toxic chemicals via multi-label learning." IEEE Trans. Neural Netw. Learn. Syst., 2021, 32 (9): 3971-3984.
 * Zhang, J., et al. "Multi-label feature selection via global relevance and redundancy optimization." In IJCAI, Yokohama, Japan, 2020, pp. 2512–2518. [[code](GRRO-master.zip)] [[report](v15.pptx)] [[poster](poster.pdf)]
