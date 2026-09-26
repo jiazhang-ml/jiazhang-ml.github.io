@@ -14,7 +14,7 @@ is_contact: true
 
 ---
 
-** 论文审稿：
+** 论文审稿: [计算机工程](https://www.ecice06.com/CN/1000-3428/home.shtml)...
 
 ---
 
