@@ -41,7 +41,7 @@ Research Interests: My research interests include *machine learning* and *data m
 * Liu, D., et al. "Multi-source transfer learning for EEG classification based on domain adversarial neural network." IEEE Trans. Neural Syst. Rehabil. Eng., 2023, 31: 218-228.
 * Liu, S., et al. "Subject adaptation convolutional neural network for EEG-based motor imagery classification." J. Neural Eng., 2022, 19 (6): 066003.
 
-<font color="gray"><u>Some Other Topics:</u></font>
+<font color="gray"><u>Some Other Research Topics:</u></font>
 * Zhang, Z., et al. "ORAL: Adaptive gap increasing for advantage learning via Occam's Razor principle." IEEE Trans. Neural Netw. Learn. Syst., 2026, 37 (4): 1904-1918.
 * Wu, H., et al. "Cold-start user recommendation via heterogeneous domain adaptation." ACM Trans. Inform. Syst., 2025, 43 (5): 1-26. [[code](https://github.com/wuhanrui/FDMA)]
 * Wu, H., et al. "Simplicial complex neural networks." IEEE Trans. Pattern Anal. Mach. Intell., 2024, 46 (1): 561-575. 
