@@ -17,6 +17,11 @@ is_contact: true
 * 赵文, 张佳, 徐佳君, 辛基梁, 周常恩, 李绍滋, 李灿东. 四诊合参智能化发展现状及实现路径. 中医杂志, 2020, 61 (1): 58-62, 67.
 * 辛基梁, 张佳, 李绍滋, 李灿东. 中医健康状态辨识中的多标记分类方法研究. 中华中医药杂志, 2019, 34(9): 3952-3955.
 
+---
+
+论文审稿:
+* 本地期刊: [Front. Comput. Sci.](https://link.springer.com/journal/11704); [IEEE-CAA J. Automatica Sin.](https://mc03.manuscriptcentral.com/ieee-jas); [Sci. China Inf. Sci.](https://mc03.manuscriptcentral.com/scis); [计算机工程](https://www.ecice06.com/CN/1000-3428/home.shtml)...
+* 本地会议:  
 
 
 
