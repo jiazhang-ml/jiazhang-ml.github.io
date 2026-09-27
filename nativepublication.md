@@ -19,9 +19,9 @@ is_contact: true
 
 ---
 
-论文审稿:
+#### 论文审稿:
 * 本地期刊: [Front. Comput. Sci.](https://link.springer.com/journal/11704); [IEEE-CAA J. Automatica Sin.](https://mc03.manuscriptcentral.com/ieee-jas); [Sci. China Inf. Sci.](https://mc03.manuscriptcentral.com/scis); [计算机工程](https://www.ecice06.com/CN/1000-3428/home.shtml)...
-* 本地会议:  
+* 本地会议: [ChineseCSCW](https://cmt3.research.microsoft.com/User/Login)...
 
 
 
