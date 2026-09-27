@@ -50,7 +50,7 @@ Research Interests: My research interests include *machine learning* and *data m
 * Wu, H., et al. "Cold-start next-item recommendation by user-item matching and auto-encoders." IEEE Trans. Serv. Comput., 2023, 16 (4): 2477-2489. [[code](https://github.com/wuhanrui/UIMA)]
 * Guo, Z., et al. "Transferable multi-modal fusion in knee angles and gait phases for their continuous prediction." J. Neural Eng., 2023, 20 (3): 036019.
 
-**Publications to Local Journals:** CLICKING [**HERE**](nativepublication.md).
+**<u>Publications to Local Journals:</u>** CLICKING [**HERE**](nativepublication.md).
 
 ---
 
@@ -70,7 +70,7 @@ Research Interests: My research interests include *machine learning* and *data m
 * Others: [Artif. Intell. Med.](https://www.editorialmanager.com/aiim/Default.aspx); [Front. Comput. Sci.](https://link.springer.com/journal/11704); [IEEE-CAA J. Automatica Sin.](https://mc03.manuscriptcentral.com/ieee-jas); [IEEE Comput. Intell. Mag.](https://mc.manuscriptcentral.com/cim-ieee); [IEEE Trans. Circuits Syst. Video Technol.](https://mc.manuscriptcentral.com/tcsvt); [IEEE Trans. Consum. Electron.](https://mc.manuscriptcentral.com/tce-ieee); [IEEE Trans. Image Process.](https://mc.manuscriptcentral.com/tip-ieee); [IEEE Trans. Multimedia](https://mc.manuscriptcentral.com/tmm-ieee); [Sci. China Inf. Sci.](https://mc03.manuscriptcentral.com/scis)...
 * 中文期刊: [计算机工程](https://www.ecice06.com/CN/1000-3428/home.shtml)...
 
-**PC Members:** [NeurIPS](https://openreview.net/login?redirect=/group?id%3DNeurIPS.cc%252F2026%252FConference%252FReviewers); [AAAI](https://openreview.net/login?redirect=/group?id%3DAAAI.org%252F2027%252FConference%252FProgram_Committee); IJCNN; [ChineseCSCW](https://cmt3.research.microsoft.com/User/Login)...
+**<u>PC Members:</u>** [NeurIPS](https://openreview.net/login?redirect=/group?id%3DNeurIPS.cc%252F2026%252FConference%252FReviewers); [AAAI](https://openreview.net/login?redirect=/group?id%3DAAAI.org%252F2027%252FConference%252FProgram_Committee); IJCNN; [ChineseCSCW](https://cmt3.research.microsoft.com/User/Login)...
 
 ---
 
