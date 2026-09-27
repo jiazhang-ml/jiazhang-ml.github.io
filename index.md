@@ -50,7 +50,7 @@ Research Interests: My research interests include *machine learning* and *data m
 * Wu, H., et al. "Cold-start next-item recommendation by user-item matching and auto-encoders." IEEE Trans. Serv. Comput., 2023, 16 (4): 2477-2489. [[code](https://github.com/wuhanrui/UIMA)]
 * Guo, Z., et al. "Transferable multi-modal fusion in knee angles and gait phases for their continuous prediction." J. Neural Eng., 2023, 20 (3): 036019.
 
-**<u>Publications to Local Journals:</u>** Click [**this link**](nativepublication.md).
+**<u>Publications to Local Journals:</u>** Click [**this LINK**](nativepublication.md).
 
 ---
 
