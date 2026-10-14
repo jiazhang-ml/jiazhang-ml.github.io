@@ -73,6 +73,12 @@ Research Interests: My research interests include *machine learning* and *data m
 
 ---
 
+#### Honers and Awards
+* World's Top 2% Scientists in Artificial Intelligence Subfield per Composite Citation Indicators, by Stanford University and Elsevier, 2026
+* The Recipient of the Outstanding Youth Project, by Jinan University, 2024
+* The First Prize in Science and Technology, by China Association of Chinese Medicine, 2024
+
+---
 #### Teaching at Jinan University
 * Principles of Artificial Intelligence (for undergraduate students), Fall, 2021, 2022, 2023, 2024, 2025, 2026
 * Systems Analysis and Design (for undergraduate students), Fall, 2022, 2023, 2024, 2025, 2026
