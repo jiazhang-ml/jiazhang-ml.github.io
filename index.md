@@ -63,7 +63,8 @@ Research Interests: My research interests include *machine learning* and *data m
 
 #### Professional Activities
 
-**<u>Associate Editor:</u>** [IEEE Comput. Intell. Mag.](https://mc.manuscriptcentral.com/cim-ieee) (IEEE; 2027-)
+<font color="gray"><u>Associate Editor:</u></font>
+* [IEEE Comput. Intell. Mag.](https://mc.manuscriptcentral.com/cim-ieee) (IEEE; 2027-)
 
 <font color="gray"><u>Journal Reviewer:</u></font>
 * Machine Learning: [ACM Trans. Intell. Syst. Technol.](https://mc.manuscriptcentral.com/tist); [IEEE Comput. Intell. Mag.](https://mc.manuscriptcentral.com/cim-ieee); [IEEE Trans. Artif. Intell.](https://mc.manuscriptcentral.com/tai-ieee); [IEEE Trans. Cybern.](https://mc.manuscriptcentral.com/cyb-ieee); [IEEE Trans. Emerg. Topics Comput. Intell.](https://mc.manuscriptcentral.com/tetci-ieee); [IEEE Trans. Evol. Comput.](https://mc.manuscriptcentral.com/tevc-ieee); [IEEE Trans. Fuzzy Syst.](https://mc.manuscriptcentral.com/tfs-ieee); [IEEE Trans. Neural Netw. Learn. Syst.](https://mc.manuscriptcentral.com/tnnls); [IEEE Trans. Pattern Anal. Mach. Intell.](https://mc.manuscriptcentral.com/tpami-cs); [Mach. Learn.](https://link.springer.com/journal/10994); [Neural Netw.](https://www.editorialmanager.com/neunet/default.aspx); [Pattern Recognit.](https://www.sciencedirect.com/journal/pattern-recognition)...
