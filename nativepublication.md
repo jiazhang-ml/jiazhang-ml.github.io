@@ -24,7 +24,7 @@ is_contact: true
 * 本地会议: [ChineseCSCW](https://cmt3.research.microsoft.com/User/Login)...
 
 #### 学术评价:
-* [中国人工智能学会推荐国际学术会议和国际/国内期刊目录](https://www.caai.cn/site/content/4024.html), 2024
-* [中国计算机学会推荐国际学术会议和国际/国内期刊目录](https://www.ccf.org.cn/Academic_Evaluation/By_category/), 2026
+* [国内推荐国际学术会议和国际/国内期刊目录1](https://www.caai.cn/site/content/4024.html), 中国人工智能学会, 2024
+* [国内推荐国际学术会议和国际/国内期刊目录2](https://www.ccf.org.cn/Academic_Evaluation/By_category/), 中国计算机学会, 2026
 
 
