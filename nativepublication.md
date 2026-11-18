@@ -23,7 +23,8 @@ is_contact: true
 * 本地期刊: [计算机科学前沿（英文版）](https://link.springer.com/journal/11704); [自动化学报（英文版）](https://mc03.manuscriptcentral.com/ieee-jas); [中国科学：信息科学（英文版）](https://mc03.manuscriptcentral.com/scis); [计算机工程](https://www.ecice06.com/CN/1000-3428/home.shtml)...
 * 本地会议: [ChineseCSCW](https://cmt3.research.microsoft.com/User/Login)...
 
-
-
+#### 学术评价:
+* [中国人工智能学会推荐国际学术会议和国际/国内期刊目录](https://www.caai.cn/site/content/4024.html), 2024
+* [中国计算机学会推荐国际学术会议和国际/国内期刊目录](https://www.ccf.org.cn/Academic_Evaluation/By_category/), 2026
 
 
