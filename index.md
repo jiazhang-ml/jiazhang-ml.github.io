@@ -7,13 +7,13 @@ layout: default
 
 **Brief Bio:** I am currently working in the [College of Information Science and Technology](https://xxxy.jnu.edu.cn/main.htm) of [Jinan University](https://www.jnu.edu.cn/). I received my Ph.D. degree in the [School of Informatics](https://informatics.xmu.edu.cn/) of [Xiamen University](https://www.xmu.edu.cn/), in 2020, supervised by Prof. Shaozi Li. I was a visiting student at the Department of Computer Science of City University of Hong Kong, in 2019, supervised by Prof. Kay Chen Tan. I am an [IEEE](https://ieeexplore.ieee.org/Xplore/home.jsp) member (MIEEE'2023), and the member of the [IEEE Computational Intelligence Society](https://cis.ieee.org/) (2025 - data).
 
-Research Interests: My research interests include *machine learning* & *data mining*. In particular, I am interested in multi-label learning, weak label learning, feature selection, and information fusion. I am also interested in various machine learning applications, such as brain-computer interface & TCM health management.
+Research Interests: My research interests include *machine learning* and *data mining*. In particular, I am interested in multi-label learning, weak label learning, feature selection, and information fusion. I am also interested in various machine learning applications, such as brain-computer interface and TCM health management.
 
 **Email:** [jiazhang@jnu.edu.cn](mailto:jiazhang@jnu.edu.cn)
 
 ---
 
-#### Publications & Citations: [at DBLP (2016 - date)](https://dblp.org/pid/80/2266-19.html) & [by Google Scholar](https://scholar.google.com.hk/citations?user=yBaTk-gAAAAJ&hl=en)
+#### Publications and Citations: [at DBLP (2016 - date)](https://dblp.org/pid/80/2266-19.html) & [by Google Scholar](https://scholar.google.com.hk/citations?user=yBaTk-gAAAAJ&hl=en)
 
 <font color="gray"><u>Multi/Weak-Label Learning:</u></font>
 * Li, Y., et al. "Multi-label semantic decoding via hierarchical encoding and sparse representation fusion." Pattern Recognit., 2027, 182: 114789. [[code](https://github.com/cseroun06/HERF)] [[data1](https://naturalscenesdataset.org/)] [[data2](https://crcns.org/data-sets/vc/vim-2)] [[data3](https://bold5000-dataset.github.io/website/download.html)] 
@@ -76,7 +76,7 @@ Research Interests: My research interests include *machine learning* & *data min
 
 ---
 
-#### Honers & Awards
+#### Honers and Awards
 * World's Top 2% Scientists in Artificial Intelligence Subfield per Composite Citation Indicators, by Stanford University and Elsevier, 2026
 * The First Prize in Science and Technology, by China Association of Chinese Medicine, 2020
 * The Recipient of the Outstanding Youth Project, by Jinan University, 2024
